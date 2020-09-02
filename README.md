@@ -14,3 +14,4 @@ Current Ideas
  - sklearn voting classifier to predict future movement
  - webscraping nba data because data doesn't always exist
  - mbs simulation
+ - linear/logistic regression
