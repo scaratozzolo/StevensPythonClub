@@ -13,5 +13,6 @@ Current Ideas
  - test monkey portfolio theory
  - sklearn voting classifier to predict future movement
  - webscraping nba data because data doesn't always exist
+ - nba simulation
  - mbs simulation
  - linear/logistic regression
