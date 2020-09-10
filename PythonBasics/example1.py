@@ -16,15 +16,9 @@ def sum_fib(max=4000000):
         y = z
         z = x + y
 
-    thing = [1,2,32,5]
-
     return sum
 
 
 
 print(sum_fib(100))
 print(sum_fib(max=10000000000))
-
-thing = [1,2,32,5]
-print(max(thing))
-print(sum(thing))
