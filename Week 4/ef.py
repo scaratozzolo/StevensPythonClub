@@ -34,13 +34,13 @@ for x in range(num_ports):
 
     # Sharpe Ratio
     sharpe_arr[x] = ret_arr[x]/vol_arr[x]
-#
-# max_sr_ret = ret_arr[sharpe_arr.argmax()]
-# max_sr_vol = vol_arr[sharpe_arr.argmax()]
-#
-# min_vol_ret = ret_arr[vol_arr.argmin()]
-# min_vol_vol = vol_arr[vol_arr.argmin()]
-#
+
+max_sr_ret = ret_arr[sharpe_arr.argmax()]
+max_sr_vol = vol_arr[sharpe_arr.argmax()]
+
+min_vol_ret = ret_arr[vol_arr.argmin()]
+min_vol_vol = vol_arr[vol_arr.argmin()]
+
 
 # plt.figure(figsize=(12,8))
 # plt.scatter(vol_arr, ret_arr, c=sharpe_arr, cmap='viridis')
@@ -82,8 +82,8 @@ print(opt_results)
 print(opt_results['fun'])
 
 
-returns = np.linspace(0, 0.3, 200) # Returns between 0 and 30%
-# returns = np.linspace(ret_arr.min(), ret_arr.max(), 200)
+# returns = np.linspace(0, 0.3, 200) # Returns between 0 and 30%
+returns = np.linspace(ret_arr.min(), ret_arr.max(), 200)
 vols = []
 weights = []
 
