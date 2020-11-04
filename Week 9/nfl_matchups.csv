@@ -1,0 +1,1454 @@
+Home,Away,Home Elo,Away Elo,Home %,Away %,Home Abbr,Away Abbr,Winner,Loser,Result,Week,Year,Home Score,Away Score,Correct
+New England Patriots,Pittsburgh Steelers,2054.93554688,2000.0,0.5784,0.4216,nwe,pit,nwe,pit,1,1,2015,28.0,21.0,1
+Chicago Bears,Green Bay Packers,2054.93554688,2000.0,0.5784,0.4216,chi,gnb,gnb,chi,0,1,2015,23.0,31.0,0
+St. Louis Rams,Seattle Seahawks,2054.93554688,2000.0,0.5784,0.4216,ram,sea,ram,sea,1,1,2015,34.0,31.0,1
+Washington Redskins,Miami Dolphins,2054.93554688,2000.0,0.5784,0.4216,was,mia,mia,was,0,1,2015,10.0,17.0,0
+Houston Texans,Kansas City Chiefs,2054.93554688,2000.0,0.5784,0.4216,htx,kan,kan,htx,0,1,2015,20.0,27.0,0
+Buffalo Bills,Indianapolis Colts,2054.93554688,2000.0,0.5784,0.4216,buf,clt,buf,clt,1,1,2015,27.0,14.0,1
+Jacksonville Jaguars,Carolina Panthers,2054.93554688,2000.0,0.5784,0.4216,jax,car,car,jax,0,1,2015,9.0,20.0,0
+New York Jets,Cleveland Browns,2054.93554688,2000.0,0.5784,0.4216,nyj,cle,nyj,cle,1,1,2015,31.0,10.0,1
+San Diego Chargers,Detroit Lions,2054.93554688,2000.0,0.5784,0.4216,sdg,det,sdg,det,1,1,2015,33.0,28.0,1
+Arizona Cardinals,New Orleans Saints,2054.93554688,2000.0,0.5784,0.4216,crd,nor,crd,nor,1,1,2015,31.0,19.0,1
+Tampa Bay Buccaneers,Tennessee Titans,2054.93554688,2000.0,0.5784,0.4216,tam,oti,oti,tam,0,1,2015,14.0,42.0,0
+Oakland Raiders,Cincinnati Bengals,2054.93554688,2000.0,0.5784,0.4216,rai,cin,cin,rai,0,1,2015,13.0,33.0,0
+Denver Broncos,Baltimore Ravens,2054.93554688,2000.0,0.5784,0.4216,den,rav,den,rav,1,1,2015,19.0,13.0,1
+Dallas Cowboys,New York Giants,2054.93554688,2000.0,0.5784,0.4216,dal,nyg,dal,nyg,1,1,2015,27.0,26.0,1
+Atlanta Falcons,Philadelphia Eagles,2054.93554688,2000.0,0.5784,0.4216,atl,phi,atl,phi,1,1,2015,26.0,24.0,1
+San Francisco 49ers,Minnesota Vikings,2054.93554688,2000.0,0.5784,0.4216,sfo,min,sfo,min,1,1,2015,20.0,3.0,1
+Kansas City Chiefs,Denver Broncos,2078.3693768518606,2014.1068179480797,0.5914,0.4086,kan,den,den,kan,0,2,2015,24.0,31.0,0
+Chicago Bears,Arizona Cardinals,2037.2337829388575,2016.4552478306155,0.5299,0.4701,chi,crd,crd,chi,0,2,2015,23.0,48.0,0
+Carolina Panthers,Houston Texans,2081.2516268134814,1982.9189095502484,0.6379,0.3621,car,htx,car,htx,1,2,2015,24.0,17.0,1
+Buffalo Bills,New England Patriots,2071.6619848587566,2014.6290909559957,0.5813,0.4187,buf,nwe,nwe,buf,0,2,2015,32.0,40.0,0
+Pittsburgh Steelers,San Francisco 49ers,2034.8656554925524,2017.6353346462986,0.5248,0.4752,pit,sfo,pit,sfo,1,2,2015,43.0,18.0,1
+New York Giants,Atlanta Falcons,2043.9105311761518,2010.3846446486878,0.5481,0.4519,nyg,atl,atl,nyg,0,2,2015,20.0,24.0,0
+New Orleans Saints,Tampa Bay Buccaneers,2032.3603207290798,1976.4752101002548,0.5797,0.4203,nor,tam,tam,nor,0,2,2015,19.0,26.0,0
+Cleveland Browns,Tennessee Titans,2029.7591444954737,2032.2740476233696,0.4964,0.5036,cle,oti,cle,oti,1,2,2015,28.0,14.0,0
+Washington Redskins,St. Louis Rams,2037.8544564302483,2011.758388065544,0.5375,0.4625,was,ram,was,ram,1,2,2015,24.0,10.0,1
+Minnesota Vikings,Detroit Lions,2030.741340145135,1981.4940809021768,0.5704,0.4296,min,det,min,det,1,2,2015,26.0,16.0,1
+Cincinnati Bengals,San Diego Chargers,2085.0639551003364,2013.4891000892846,0.6016,0.3984,cin,sdg,cin,sdg,1,2,2015,24.0,19.0,1
+Oakland Raiders,Baltimore Ravens,2032.9747292698792,1980.6466235740766,0.5747,0.4253,rai,rav,rai,rav,1,2,2015,37.0,33.0,1
+Jacksonville Jaguars,Miami Dolphins,2035.7535633046962,2023.4338299718604,0.5177,0.4823,jax,mia,jax,mia,1,2,2015,23.0,20.0,1
+Philadelphia Eagles,Dallas Cowboys,2040.6886814511552,2008.036214766152,0.5469,0.4531,phi,dal,dal,phi,0,2,2015,10.0,20.0,0
+Green Bay Packers,Seattle Seahawks,2079.220889061112,1983.8684732990732,0.6339,0.3661,gnb,sea,gnb,sea,1,2,2015,27.0,17.0,1
+Indianapolis Colts,New York Jets,2031.988270487892,2018.3512642553878,0.5196,0.4804,clt,nyj,nyj,clt,0,2,2015,7.0,20.0,0
+New York Giants,Washington Redskins,2028.7517779802677,2002.4950001890595,0.5377,0.4623,nyg,was,nyg,was,1,3,2015,32.0,21.0,1
+St. Louis Rams,Pittsburgh Steelers,2043.9433431220607,2002.8430528485246,0.5589,0.4411,ram,pit,pit,ram,0,3,2015,6.0,12.0,0
+Cleveland Browns,Oakland Raiders,2052.1160453396333,1990.925585363114,0.5872,0.4128,cle,rai,rai,cle,0,3,2015,20.0,27.0,0
+Baltimore Ravens,Cincinnati Bengals,2018.1690131798748,2042.5916720213643,0.4649,0.5351,rav,cin,cin,rav,0,3,2015,24.0,28.0,1
+Minnesota Vikings,San Diego Chargers,2047.030234020638,1994.6690712170496,0.5748,0.4252,min,sdg,min,sdg,1,3,2015,31.0,14.0,1
+Carolina Panthers,New Orleans Saints,2093.016995060493,1960.3760864029775,0.6821,0.3179,car,nor,car,nor,1,3,2015,27.0,22.0,1
+Tennessee Titans,Indianapolis Colts,2065.1723316379193,1955.6917177799503,0.6525,0.3475,oti,clt,clt,oti,0,3,2015,33.0,35.0,0
+New York Jets,Philadelphia Eagles,2096.3908465812633,1966.2405058757663,0.679,0.321,nyj,phi,phi,nyj,0,3,2015,17.0,24.0,0
+Houston Texans,Tampa Bay Buccaneers,2017.127783122408,1999.9896619501371,0.5246,0.4754,htx,tam,htx,tam,1,3,2015,19.0,9.0,1
+Dallas Cowboys,Atlanta Falcons,2086.5238619187367,2028.7703773919143,0.5824,0.4176,dal,atl,atl,dal,0,3,2015,28.0,39.0,0
+New England Patriots,Jacksonville Jaguars,2094.0385610090225,1994.8823799974869,0.6389,0.3611,nwe,jax,nwe,jax,1,3,2015,51.0,17.0,1
+Arizona Cardinals,San Francisco 49ers,2098.7196633095787,1992.3308036382214,0.6485,0.3515,crd,sfo,crd,sfo,1,3,2015,47.0,7.0,1
+Miami Dolphins,Buffalo Bills,2063.27271290487,1999.0983085575517,0.5913,0.4087,mia,buf,buf,mia,0,3,2015,14.0,41.0,0
+Seattle Seahawks,Chicago Bears,2016.5354948124295,1958.0534707665902,0.5834,0.4166,sea,chi,sea,chi,1,3,2015,26.0,0.0,1
+Detroit Lions,Denver Broncos,2014.8021020219649,2038.3525083084603,0.4662,0.5338,det,den,den,det,0,3,2015,12.0,24.0,1
+Green Bay Packers,Kansas City Chiefs,2092.081761654152,2006.6824111669034,0.6205,0.3795,gnb,kan,gnb,kan,1,3,2015,38.0,28.0,1
+Pittsburgh Steelers,Baltimore Ravens,2079.1003108583027,1946.4602380153028,0.6821,0.3179,pit,rav,rav,pit,0,4,2015,20.0,23.0,0
+Miami Dolphins,New York Jets,2040.3003820911372,2027.252231151646,0.5188,0.4812,mia,nyj,nyj,mia,0,4,2015,14.0,27.0,0
+Buffalo Bills,New York Giants,2087.2698212074565,1992.3967615643976,0.6332,0.3668,buf,nyg,nyg,buf,0,4,2015,10.0,24.0,0
+Atlanta Falcons,Houston Texans,2110.310475100937,1981.1733354411506,0.6777,0.3223,atl,htx,atl,htx,1,4,2015,48.0,21.0,1
+Indianapolis Colts,Jacksonville Jaguars,2028.689910514003,1967.1967944524506,0.5876,0.4124,clt,jax,clt,jax,1,4,2015,16.0,13.0,1
+Chicago Bears,Oakland Raiders,1986.7748269703002,2014.9076114675136,0.4596,0.5404,chi,rai,chi,rai,1,4,2015,22.0,20.0,0
+Washington Redskins,Philadelphia Eagles,2035.8195775026252,1996.2837567953616,0.5567,0.4433,was,phi,was,phi,1,4,2015,23.0,20.0,1
+Tampa Bay Buccaneers,Carolina Panthers,2033.9797215780118,2047.2413311614325,0.4809,0.5191,tam,car,car,tam,0,4,2015,23.0,37.0,1
+Cincinnati Bengals,Kansas City Chiefs,2112.0999601263643,1984.519686675759,0.6758,0.3242,cin,kan,cin,kan,1,4,2015,36.0,21.0,1
+San Diego Chargers,Cleveland Browns,2025.4492472121,1980.3211994543603,0.5646,0.4354,sdg,cle,sdg,cle,1,4,2015,30.0,27.0,1
+San Francisco 49ers,Green Bay Packers,2018.877091924499,2050.7010156514916,0.4543,0.5457,sfo,gnb,gnb,sfo,0,4,2015,3.0,17.0,1
+Denver Broncos,Minnesota Vikings,2112.4689077352614,2009.9632739539304,0.6434,0.3566,den,min,den,min,1,4,2015,23.0,20.0,1
+Arizona Cardinals,St. Louis Rams,2114.1072105658523,1972.1800868497812,0.6936,0.3064,crd,ram,ram,crd,0,4,2015,22.0,24.0,0
+New Orleans Saints,Dallas Cowboys,1995.6577918822265,2012.5119750212234,0.4758,0.5242,nor,dal,nor,dal,1,4,2015,26.0,20.0,0
+Seattle Seahawks,Detroit Lions,2035.2547814695129,1937.9044378329077,0.6365,0.3635,sea,det,sea,det,1,4,2015,13.0,10.0,1
+Houston Texans,Indianapolis Colts,2009.4691807169525,1985.176713026116,0.5349,0.4651,htx,clt,clt,htx,0,5,2015,20.0,27.0,0
+Atlanta Falcons,Washington Redskins,2122.979762140974,1993.4490731491928,0.6782,0.3218,atl,was,atl,was,1,5,2015,25.0,19.0,1
+Tampa Bay Buccaneers,Jacksonville Jaguars,2011.5274681306946,1950.9218853767825,0.5863,0.4137,tam,jax,tam,jax,1,5,2015,38.0,31.0,1
+Baltimore Ravens,Cleveland Browns,2024.1404228638246,1964.4113929578507,0.5851,0.4149,rav,cle,cle,rav,0,5,2015,30.0,33.0,0
+Kansas City Chiefs,Chicago Bears,2015.2642728444382,1945.9983674840862,0.5984,0.4016,kan,chi,chi,kan,0,5,2015,17.0,18.0,0
+Green Bay Packers,St. Louis Rams,2124.6781800872172,1991.7571125207091,0.6825,0.3175,gnb,ram,gnb,ram,1,5,2015,24.0,10.0,1
+Cincinnati Bengals,Seattle Seahawks,2123.7050347972877,1990.0149603678065,0.6834,0.3166,cin,sea,cin,sea,1,5,2015,27.0,24.0,1
+Tennessee Titans,Buffalo Bills,2055.5527616236923,2013.659194958373,0.56,0.44,oti,buf,buf,oti,0,5,2015,13.0,14.0,0
+Philadelphia Eagles,New Orleans Saints,2035.4400138613753,1960.0989344996538,0.6068,0.3932,phi,nor,phi,nor,1,5,2015,39.0,17.0,1
+Detroit Lions,Arizona Cardinals,1975.8624621327594,2050.5234505001945,0.3942,0.6058,det,crd,crd,det,0,5,2015,17.0,42.0,1
+Oakland Raiders,Denver Broncos,2057.801121770563,2066.9935152927974,0.4868,0.5132,rai,den,den,rai,0,5,2015,10.0,16.0,1
+Dallas Cowboys,New England Patriots,2049.859904841178,2054.7506349465407,0.493,0.507,dal,nwe,nwe,dal,0,5,2015,6.0,30.0,1
+New York Giants,San Francisco 49ers,2079.5707497107646,1941.0689703137937,0.6894,0.3106,nyg,sfo,nyg,sfo,1,5,2015,30.0,27.0,1
+San Diego Chargers,Pittsburgh Steelers,2037.7183399300957,2013.5643822011539,0.5347,0.4653,sdg,pit,pit,sdg,0,5,2015,20.0,24.0,0
+New Orleans Saints,Atlanta Falcons,1989.410403664061,2077.7148558553245,0.3756,0.6244,nor,atl,nor,atl,1,6,2015,31.0,21.0,0
+Cleveland Browns,Denver Broncos,2037.6686162785165,2084.3659367256755,0.4332,0.5668,cle,den,den,cle,0,6,2015,23.0,26.0,1
+Buffalo Bills,Cincinnati Bengals,2079.269030901573,2076.90329652612,0.5034,0.4966,buf,cin,cin,buf,0,6,2015,21.0,34.0,0
+New York Jets,Washington Redskins,2105.2359496861573,1973.068002760478,0.6815,0.3185,nyj,was,nyj,was,1,6,2015,34.0,20.0,1
+Minnesota Vikings,Kansas City Chiefs,2047.8302191370415,1952.6737358076862,0.6336,0.3664,min,kan,min,kan,1,6,2015,16.0,10.0,1
+Jacksonville Jaguars,Houston Texans,1985.6852179363236,1936.440572836149,0.5704,0.4296,jax,htx,htx,jax,0,6,2015,20.0,31.0,0
+Detroit Lions,Chicago Bears,1949.6630292237983,1957.4046077973342,0.4889,0.5111,det,chi,det,chi,1,6,2015,37.0,34.0,0
+Tennessee Titans,Miami Dolphins,2047.1658202168921,1963.9870784645088,0.6175,0.3825,oti,mia,mia,oti,0,6,2015,10.0,38.0,0
+Pittsburgh Steelers,Arizona Cardinals,2086.246834868478,2067.571678385161,0.5268,0.4732,pit,crd,pit,crd,1,6,2015,25.0,13.0,1
+Seattle Seahawks,Carolina Panthers,2027.393195803473,2068.0413478881032,0.4418,0.5582,sea,car,car,sea,0,6,2015,23.0,27.0,1
+San Francisco 49ers,Baltimore Ravens,1978.3796789763041,1956.2128001758733,0.5319,0.4681,sfo,rav,sfo,rav,1,6,2015,25.0,20.0,1
+Green Bay Packers,San Diego Chargers,2135.801046101763,1967.3393008809508,0.7251,0.2749,gnb,sdg,gnb,sdg,1,6,2015,27.0,20.0,1
+Indianapolis Colts,New England Patriots,2060.9206416075344,2078.8711506824975,0.4742,0.5258,clt,nwe,nwe,clt,0,6,2015,27.0,34.0,1
+Philadelphia Eagles,New York Giants,2052.0441459605368,2032.575839254252,0.528,0.472,phi,nyg,phi,nyg,1,6,2015,27.0,7.0,1
+San Francisco 49ers,Seattle Seahawks,1994.0243018510039,1955.3010570391357,0.5555,0.4445,sfo,sea,sea,sfo,0,7,2015,3.0,20.0,0
+Jacksonville Jaguars,Buffalo Bills,1966.2963351015453,2002.645469439568,0.4479,0.5521,jax,buf,jax,buf,1,7,2015,34.0,31.0,0
+St. Louis Rams,Cleveland Browns,2022.7828765505444,1966.7873817909324,0.5799,0.4201,ram,cle,ram,cle,1,7,2015,24.0,6.0,1
+Tennessee Titans,Atlanta Falcons,2024.872836671554,2060.2621465845978,0.4492,0.5508,oti,atl,atl,oti,0,7,2015,7.0,10.0,1
+New England Patriots,New York Jets,2151.1861238558854,2061.4743231916423,0.6263,0.3737,nwe,nyj,nwe,nyj,1,7,2015,30.0,23.0,1
+Miami Dolphins,Houston Texans,2054.911951721623,1962.1840988346537,0.6304,0.3696,mia,htx,mia,htx,1,7,2015,44.0,26.0,1
+Detroit Lions,Minnesota Vikings,1964.8754737659733,2004.4637306524592,0.4433,0.5567,det,min,min,det,0,7,2015,19.0,28.0,1
+Indianapolis Colts,New Orleans Saints,2041.650075717481,1963.48835962922,0.6106,0.3894,clt,nor,nor,clt,0,7,2015,21.0,27.0,0
+Kansas City Chiefs,Pittsburgh Steelers,1987.6034000475754,2050.93703440351,0.4099,0.5901,kan,pit,kan,pit,1,7,2015,23.0,13.0,0
+Washington Redskins,Tampa Bay Buccaneers,2004.0945174812693,1970.8256668832612,0.5477,0.4523,was,tam,was,tam,1,7,2015,31.0,30.0,1
+San Diego Chargers,Oakland Raiders,2001.06011281908,1984.5510172090655,0.5237,0.4763,sdg,rai,rai,sdg,0,7,2015,29.0,37.0,0
+New York Giants,Dallas Cowboys,2063.216238860076,1970.1188782895147,0.6309,0.3691,nyg,dal,nyg,dal,1,7,2015,27.0,20.0,1
+Carolina Panthers,Philadelphia Eagles,2136.5558669904253,2018.8269883104817,0.6632,0.3368,car,phi,car,phi,1,7,2015,27.0,16.0,1
+Arizona Cardinals,Baltimore Ravens,2100.6584441758982,1938.4358830490783,0.7179,0.2821,crd,rav,crd,rav,1,7,2015,26.0,18.0,1
+New England Patriots,Miami Dolphins,2163.48918821793,2014.5475109819718,0.7021,0.2979,nwe,mia,nwe,mia,1,8,2015,36.0,7.0,1
+Kansas City Chiefs,Detroit Lions,2014.134757216495,1888.9927342606497,0.6727,0.3273,kan,det,kan,det,1,8,2015,45.0,10.0,1
+Chicago Bears,Minnesota Vikings,1997.7884737212212,2021.1439722382431,0.4664,0.5336,chi,min,min,chi,0,8,2015,20.0,23.0,1
+St. Louis Rams,San Francisco 49ers,2040.5137169693048,1917.2812523579553,0.6703,0.3297,ram,sfo,ram,sfo,1,8,2015,27.0,6.0,1
+Atlanta Falcons,Tampa Bay Buccaneers,2127.9854668058106,1960.3858309548423,0.7241,0.2759,atl,tam,tam,atl,0,8,2015,20.0,23.0,0
+Baltimore Ravens,San Diego Chargers,1971.6601614102713,1927.1587867936594,0.5637,0.4363,rav,sdg,rav,sdg,1,8,2015,29.0,26.0,1
+Pittsburgh Steelers,Cincinnati Bengals,2087.4431569426524,2098.888287546219,0.4835,0.5165,pit,cin,cin,pit,0,8,2015,10.0,16.0,1
+New Orleans Saints,New York Giants,2042.7960896925613,2020.3693376762155,0.5322,0.4678,nor,nyg,nor,nyg,1,8,2015,52.0,49.0,1
+Houston Texans,Tennessee Titans,1992.266763380033,1954.2571794702274,0.5545,0.4455,htx,oti,htx,oti,1,8,2015,20.0,6.0,1
+Cleveland Browns,Arizona Cardinals,1997.2475314825506,2054.2543764004467,0.4187,0.5813,cle,crd,crd,cle,0,8,2015,20.0,34.0,1
+Oakland Raiders,New York Jets,2060.339762784125,2040.8550852736637,0.528,0.472,rai,nyj,rai,nyj,1,8,2015,34.0,20.0,1
+Dallas Cowboys,Seattle Seahawks,2004.3913892180262,1982.5543027119109,0.5314,0.4686,dal,sea,sea,dal,0,8,2015,12.0,13.0,0
+Denver Broncos,Green Bay Packers,2151.488625228127,2088.9084321075998,0.5891,0.4109,den,gnb,den,gnb,1,8,2015,29.0,10.0,1
+Carolina Panthers,Indianapolis Colts,2148.1604094399713,1971.1715741509545,0.7347,0.2653,car,clt,car,clt,1,8,2015,29.0,26.0,1
+Cincinnati Bengals,Cleveland Browns,2171.02399578519,1918.9882630650538,0.8101,0.1899,cin,cle,cin,cle,1,9,2015,31.0,10.0,1
+Buffalo Bills,Miami Dolphins,2043.8651078780688,1987.740010963568,0.5801,0.4199,buf,mia,buf,mia,1,9,2015,33.0,17.0,1
+Pittsburgh Steelers,Oakland Raiders,2069.069044549874,2025.607971727373,0.5622,0.4378,pit,rai,pit,rai,1,9,2015,38.0,35.0,1
+New York Jets,Jacksonville Jaguars,2073.189820554776,1928.2675822616247,0.6973,0.3027,nyj,jax,nyj,jax,1,9,2015,28.0,23.0,1
+New England Patriots,Washington Redskins,2174.8635711483994,1957.7803651428503,0.7772,0.2228,nwe,was,nwe,was,1,9,2015,27.0,10.0,1
+New Orleans Saints,Tennessee Titans,2056.2955741337455,1931.261221684248,0.6726,0.3274,nor,oti,oti,nor,0,9,2015,28.0,34.0,0
+Minnesota Vikings,St. Louis Rams,2089.5249296498205,1998.1708948400676,0.6285,0.3715,min,ram,min,ram,1,9,2015,21.0,18.0,1
+Carolina Panthers,Green Bay Packers,2154.691260216927,2064.093866514822,0.6275,0.3725,car,gnb,car,gnb,1,9,2015,37.0,29.0,1
+Tampa Bay Buccaneers,New York Giants,2040.1033655334438,2005.0114376770746,0.5503,0.4497,tam,nyg,nyg,tam,0,9,2015,18.0,32.0,0
+San Francisco 49ers,Atlanta Falcons,1946.6150297492193,2063.60736999342,0.3377,0.6623,sfo,atl,sfo,atl,1,9,2015,17.0,16.0,0
+Indianapolis Colts,Denver Broncos,2008.0211200289593,2113.861353686902,0.3522,0.6478,clt,den,clt,den,1,9,2015,27.0,24.0,0
+Dallas Cowboys,Philadelphia Eagles,1995.4592966197843,1995.9762384513992,0.4993,0.5007,dal,phi,phi,dal,0,9,2015,27.0,33.0,1
+San Diego Chargers,Chicago Bears,1966.1992642386151,1927.4702701953174,0.5555,0.4445,sdg,chi,chi,sdg,0,9,2015,19.0,22.0,0
+New York Jets,Buffalo Bills,2081.770584832042,2006.2514881333752,0.607,0.393,nyj,buf,buf,nyj,0,10,2015,17.0,22.0,0
+St. Louis Rams,Chicago Bears,2036.2370142713726,1944.5207325055012,0.629,0.371,ram,chi,chi,ram,0,10,2015,13.0,37.0,0
+Tennessee Titans,Carolina Panthers,2014.4679172252024,2112.355863549853,0.3627,0.6373,oti,car,car,oti,0,10,2015,10.0,27.0,1
+Green Bay Packers,Detroit Lions,2097.803656995866,1861.2491566112942,0.796,0.204,gnb,det,det,gnb,0,10,2015,16.0,18.0,0
+Pittsburgh Steelers,Cleveland Browns,2081.427769650567,1894.619181127429,0.7456,0.2544,pit,cle,pit,cle,1,10,2015,30.0,9.0,1
+Washington Redskins,New Orleans Saints,1988.5500902093775,1987.5985433530666,0.5014,0.4986,was,nor,was,nor,1,10,2015,47.0,14.0,1
+Tampa Bay Buccaneers,Dallas Cowboys,2019.082883032939,1922.4415233310538,0.6356,0.3644,tam,dal,tam,dal,1,10,2015,10.0,6.0,1
+Baltimore Ravens,Jacksonville Jaguars,1983.9628380015606,1908.5009257352367,0.6069,0.3931,rav,jax,jax,rav,0,10,2015,20.0,22.0,0
+Philadelphia Eagles,Miami Dolphins,2068.943452289416,1963.809432418221,0.6468,0.3532,phi,mia,mia,phi,0,10,2015,19.0,20.0,0
+Oakland Raiders,Minnesota Vikings,2064.6730863286853,2044.560730895819,0.5289,0.4711,rai,min,min,rai,0,10,2015,14.0,30.0,0
+Denver Broncos,Kansas City Chiefs,2157.305760341832,1972.6977579277454,0.7432,0.2568,den,kan,kan,den,0,10,2015,13.0,29.0,0
+New York Giants,New England Patriots,2085.6698476214015,2126.855642770769,0.441,0.559,nyg,nwe,nwe,nyg,0,10,2015,26.0,27.0,1
+Seattle Seahawks,Arizona Cardinals,2047.6189874636689,2071.054036141974,0.4663,0.5337,sea,crd,crd,sea,0,10,2015,32.0,39.0,1
+Cincinnati Bengals,Houston Texans,2176.736486415921,1955.8067786166314,0.781,0.219,cin,htx,htx,cin,0,10,2015,6.0,10.0,0
+Jacksonville Jaguars,Tennessee Titans,1979.8711654910712,1934.9015701401195,0.5644,0.4356,jax,oti,jax,oti,1,11,2015,19.0,13.0,1
+Carolina Panthers,Washington Redskins,2181.309284640403,1959.6872307575286,0.7817,0.2183,car,was,car,was,1,11,2015,44.0,16.0,1
+Atlanta Falcons,Indianapolis Colts,2112.105939343701,1974.2211797298803,0.6886,0.3114,atl,clt,clt,atl,0,11,2015,21.0,24.0,0
+Baltimore Ravens,St. Louis Rams,1973.3177930691327,1960.0934188767023,0.519,0.481,rav,ram,rav,ram,1,11,2015,16.0,13.0,1
+Philadelphia Eagles,Tampa Bay Buccaneers,2062.2110256874125,1974.6020849856666,0.6235,0.3765,phi,tam,tam,phi,0,11,2015,17.0,45.0,0
+Detroit Lions,Oakland Raiders,1939.7289284383132,1987.5896955897133,0.4316,0.5684,det,rai,det,rai,1,11,2015,18.0,13.0,0
+Chicago Bears,Denver Broncos,2035.4127821233114,2087.38886815504,0.4258,0.5742,chi,den,den,chi,0,11,2015,15.0,17.0,1
+Miami Dolphins,Dallas Cowboys,2031.0737831662168,1904.205962524024,0.6749,0.3251,mia,dal,dal,mia,0,11,2015,14.0,24.0,0
+Houston Texans,New York Jets,2041.7470464922312,2012.0257385323252,0.5427,0.4573,htx,nyj,htx,nyj,1,11,2015,24.0,17.0,1
+San Diego Chargers,Kansas City Chiefs,1952.5558250003132,2016.0549846878998,0.4096,0.5904,sdg,kan,kan,sdg,0,11,2015,3.0,33.0,1
+Minnesota Vikings,Green Bay Packers,2124.361475434512,2036.834163018891,0.6234,0.3766,min,gnb,gnb,min,0,11,2015,13.0,30.0,0
+Seattle Seahawks,San Francisco 49ers,2028.2152726851323,1904.3037358095003,0.6711,0.3289,sea,sfo,sea,sfo,1,11,2015,29.0,13.0,1
+Arizona Cardinals,Cincinnati Bengals,2142.9428380364607,2113.1069140582813,0.5428,0.4572,crd,cin,crd,cin,1,11,2015,34.0,31.0,1
+New England Patriots,Buffalo Bills,2190.197192288039,2029.1248844381282,0.7165,0.2835,nwe,buf,nwe,buf,1,11,2015,20.0,13.0,1
+Detroit Lions,Philadelphia Eagles,1960.4746929239589,1985.1887066625272,0.4645,0.5355,det,phi,det,phi,1,12,2015,45.0,14.0,0
+Dallas Cowboys,Carolina Panthers,1991.9974382747712,2133.561648464292,0.3068,0.6932,dal,car,car,dal,0,12,2015,14.0,33.0,1
+Green Bay Packers,Chicago Bears,2124.6401306767516,1966.3019589947603,0.7133,0.2867,gnb,chi,chi,gnb,0,12,2015,13.0,17.0,0
+Tennessee Titans,Oakland Raiders,1970.6823188629087,1971.8369300161653,0.4983,0.5017,oti,rai,rai,oti,0,12,2015,21.0,24.0,1
+New York Jets,Miami Dolphins,2047.4115236349576,1960.311502731794,0.6228,0.3772,nyj,mia,nyj,mia,1,12,2015,38.0,20.0,1
+Houston Texans,New Orleans Saints,2058.2204315314616,1961.3794389076695,0.6359,0.3641,htx,nor,htx,nor,1,12,2015,24.0,6.0,1
+Indianapolis Colts,Tampa Bay Buccaneers,2052.211836590152,2011.1787182720834,0.5588,0.4412,clt,tam,clt,tam,1,12,2015,25.0,12.0,1
+Cincinnati Bengals,St. Louis Rams,2152.499159913273,1944.9729744205365,0.7676,0.2324,cin,ram,cin,ram,1,12,2015,31.0,7.0,1
+Atlanta Falcons,Minnesota Vikings,2101.6799137150974,2049.568693288323,0.5744,0.4256,atl,min,min,atl,0,12,2015,10.0,20.0,0
+Washington Redskins,New York Giants,1988.8839329411012,2020.0790729086714,0.4552,0.5448,was,nyg,was,nyg,1,12,2015,20.0,14.0,0
+Kansas City Chiefs,Buffalo Bills,2089.6748496755977,2007.9332116841938,0.6155,0.3845,kan,buf,kan,buf,1,12,2015,30.0,22.0,1
+Jacksonville Jaguars,San Diego Chargers,1994.6547056705203,1870.6885852228897,0.6712,0.3288,jax,sdg,sdg,jax,0,12,2015,25.0,31.0,0
+San Francisco 49ers,Arizona Cardinals,1934.7822169494145,2101.099401010244,0.2774,0.7226,sfo,crd,crd,sfo,0,12,2015,13.0,19.0,1
+Seattle Seahawks,Pittsburgh Steelers,2040.2014579360848,2035.0972159558294,0.5073,0.4927,sea,pit,sea,pit,1,12,2015,39.0,30.0,1
+Denver Broncos,New England Patriots,2152.8361402642863,2143.646626881508,0.5132,0.4868,den,nwe,den,nwe,1,12,2015,30.0,24.0,1
+Cleveland Browns,Baltimore Ravens,1924.33506244559,1932.3956060801072,0.4884,0.5116,cle,rav,rav,cle,0,12,2015,27.0,33.0,1
+Detroit Lions,Green Bay Packers,1989.452166940233,2058.8358414341433,0.4015,0.5985,det,gnb,gnb,det,0,13,2015,23.0,27.0,1
+St. Louis Rams,Arizona Cardinals,1974.4706652445725,2109.0150964366107,0.3155,0.6845,ram,crd,crd,ram,0,13,2015,3.0,27.0,1
+Chicago Bears,San Francisco 49ers,2048.2785729387597,1859.2270539371416,0.7481,0.2519,chi,sfo,sfo,chi,0,13,2015,20.0,26.0,0
+Buffalo Bills,Houston Texans,2041.756156271469,2017.5288302809477,0.5348,0.4652,buf,htx,buf,htx,1,13,2015,30.0,21.0,1
+Tennessee Titans,Jacksonville Jaguars,1955.8841345474473,1925.9145505777476,0.543,0.457,oti,jax,oti,jax,1,13,2015,42.0,39.0,1
+Minnesota Vikings,Seattle Seahawks,2129.9339085882293,2004.8243250360713,0.6726,0.3274,min,sea,sea,min,0,13,2015,7.0,38.0,0
+Tampa Bay Buccaneers,Atlanta Falcons,2043.4091148669704,2027.9023283958352,0.5223,0.4777,tam,atl,tam,atl,1,13,2015,23.0,19.0,1
+New York Giants,New York Jets,2057.8682093497737,2007.5046444004327,0.572,0.428,nyg,nyj,nyj,nyg,0,13,2015,20.0,23.0,0
+Miami Dolphins,Baltimore Ravens,1990.433014061418,1949.851815309438,0.5581,0.4419,mia,rav,mia,rav,1,13,2015,15.0,13.0,1
+Cleveland Browns,Cincinnati Bengals,1906.0496475362418,2105.26522552338,0.2411,0.7589,cle,cin,cin,cle,0,13,2015,3.0,37.0,1
+San Diego Chargers,Denver Broncos,1953.8043420554843,2115.2730148171645,0.283,0.717,sdg,den,den,sdg,0,13,2015,3.0,17.0,1
+Oakland Raiders,Kansas City Chiefs,2041.470374532989,2047.9282476884532,0.4907,0.5093,rai,kan,kan,rai,0,13,2015,20.0,34.0,1
+New England Patriots,Philadelphia Eagles,2180.26761608001,1960.053250676422,0.7803,0.2197,nwe,phi,phi,nwe,0,13,2015,28.0,35.0,0
+New Orleans Saints,Carolina Panthers,1991.437960174403,2144.6924343645314,0.2927,0.7073,nor,car,car,nor,0,13,2015,38.0,41.0,1
+Pittsburgh Steelers,Indianapolis Colts,2069.8947814839985,2015.2031191764938,0.5781,0.4219,pit,clt,pit,clt,1,13,2015,45.0,10.0,1
+Washington Redskins,Dallas Cowboys,2009.4053837475851,1911.912410345078,0.6367,0.3633,was,dal,dal,was,0,13,2015,16.0,19.0,0
+Arizona Cardinals,Minnesota Vikings,2175.9943726213396,2054.343694096546,0.6682,0.3318,crd,min,crd,min,1,14,2015,23.0,20.0,1
+Philadelphia Eagles,Buffalo Bills,2052.4460710315307,2004.7515785804533,0.5682,0.4318,phi,buf,phi,buf,1,14,2015,23.0,20.0,1
+Chicago Bears,Washington Redskins,2037.0410130074422,1942.700986662728,0.6325,0.3675,chi,was,was,chi,0,14,2015,21.0,24.0,0
+Tampa Bay Buccaneers,New Orleans Saints,2058.5446585475993,1918.685078930963,0.6911,0.3089,tam,nor,nor,tam,0,14,2015,17.0,24.0,0
+Baltimore Ravens,Seattle Seahawks,1990.8908292878095,2047.256607979315,0.4196,0.5804,rav,sea,sea,rav,0,14,2015,6.0,35.0,1
+St. Louis Rams,Detroit Lions,1948.340926071555,1916.7587314201385,0.5453,0.4547,ram,det,ram,det,1,14,2015,21.0,14.0,1
+New York Jets,Tennessee Titans,2080.1947431995395,1914.0330564406092,0.7224,0.2776,nyj,oti,nyj,oti,1,14,2015,30.0,8.0,1
+Jacksonville Jaguars,Indianapolis Colts,1965.3033435325244,1987.6548609951637,0.4679,0.5321,jax,clt,jax,clt,1,14,2015,51.0,16.0,0
+Cleveland Browns,San Francisco 49ers,1879.285374099987,1892.6006886517844,0.4808,0.5192,cle,sfo,cle,sfo,1,14,2015,24.0,10.0,0
+Cincinnati Bengals,Pittsburgh Steelers,2168.703692848078,2035.0640782758599,0.6834,0.3166,cin,pit,pit,cin,0,14,2015,20.0,33.0,0
+Carolina Panthers,Atlanta Falcons,2207.0012793757046,2011.3536692700397,0.7551,0.2449,car,atl,car,atl,1,14,2015,38.0,0.0,1
+Kansas City Chiefs,San Diego Chargers,2124.3295868973537,1874.994722919395,0.8077,0.1923,kan,sdg,kan,sdg,1,14,2015,10.0,3.0,1
+Denver Broncos,Oakland Raiders,2179.63166134636,1964.2553737440649,0.7755,0.2245,den,rai,rai,den,0,14,2015,12.0,15.0,0
+Green Bay Packers,Dallas Cowboys,2125.6841573851507,1932.537862933662,0.7525,0.2475,gnb,dal,gnb,dal,1,14,2015,28.0,7.0,1
+Houston Texans,New England Patriots,2051.8507006298455,2114.785660149028,0.4104,0.5896,htx,nwe,nwe,htx,0,14,2015,6.0,27.0,1
+Miami Dolphins,New York Giants,2001.4361996719351,1989.6477879568756,0.517,0.483,mia,nyg,nyg,mia,0,14,2015,24.0,31.0,0
+St. Louis Rams,Tampa Bay Buccaneers,1964.6768006847076,1989.8027872723644,0.4639,0.5361,ram,tam,ram,tam,1,15,2015,31.0,23.0,0
+Dallas Cowboys,New York Jets,1962.3216725438567,2035.0910013298283,0.3968,0.6032,dal,nyj,nyj,dal,0,15,2015,16.0,19.0,1
+Indianapolis Colts,Houston Texans,2016.799161111453,1971.6344592422556,0.5646,0.4354,clt,htx,htx,clt,0,15,2015,10.0,16.0,0
+Baltimore Ravens,Kansas City Chiefs,1964.196391482906,2074.4311298205016,0.3465,0.6535,rav,kan,kan,rav,0,15,2015,14.0,34.0,1
+New York Giants,Carolina Panthers,2064.352125383843,2160.8923765350423,0.3645,0.6355,nyg,car,car,nyg,0,15,2015,35.0,38.0,1
+New England Patriots,Tennessee Titans,2187.318216910159,1888.4476964282437,0.8482,0.1518,nwe,oti,nwe,oti,1,15,2015,33.0,16.0,1
+Minnesota Vikings,Chicago Bears,2091.899745353812,1970.232882133138,0.6683,0.3317,min,chi,min,chi,1,15,2015,38.0,17.0,1
+Jacksonville Jaguars,Atlanta Falcons,1994.6333764518884,1984.1384838306606,0.5151,0.4849,jax,atl,atl,jax,0,15,2015,17.0,23.0,0
+Washington Redskins,Buffalo Bills,2018.070300553333,1988.783163080695,0.542,0.458,was,buf,was,buf,1,15,2015,35.0,25.0,1
+Oakland Raiders,Green Bay Packers,2046.5667685705055,2079.0211088098376,0.4534,0.5466,rai,gnb,gnb,rai,0,15,2015,20.0,30.0,1
+Seattle Seahawks,Cleveland Browns,2121.490890391599,1847.806712680115,0.8286,0.1714,sea,cle,sea,cle,1,15,2015,30.0,13.0,1
+San Francisco 49ers,Cincinnati Bengals,1925.8142198745625,2097.155066909294,0.2716,0.7284,sfo,cin,cin,sfo,0,15,2015,14.0,24.0,1
+San Diego Chargers,Miami Dolphins,1908.7734448695846,1928.0319374453488,0.4723,0.5277,sdg,mia,sdg,mia,1,15,2015,30.0,14.0,0
+Pittsburgh Steelers,Denver Broncos,2125.859948051542,2116.7710624173906,0.5131,0.4869,pit,den,pit,den,1,15,2015,34.0,27.0,1
+Philadelphia Eagles,Arizona Cardinals,2064.581167498964,2129.6887518826493,0.4074,0.5926,phi,crd,crd,phi,0,15,2015,17.0,40.0,1
+New Orleans Saints,Detroit Lions,2004.509427331024,1897.1678969654383,0.6497,0.3503,nor,det,det,nor,0,15,2015,27.0,35.0,0
+Oakland Raiders,San Diego Chargers,2025.2706837087226,1878.6132139276913,0.6994,0.3006,rai,sdg,rai,sdg,1,16,2015,23.0,20.0,1
+Philadelphia Eagles,Washington Redskins,2038.8563701970995,1981.071361241994,0.5824,0.4176,phi,was,was,phi,0,16,2015,24.0,38.0,0
+Atlanta Falcons,Carolina Panthers,2057.9542552475577,2170.622408520485,0.3433,0.6567,atl,car,atl,car,1,16,2015,20.0,13.0,0
+Baltimore Ravens,Pittsburgh Steelers,1938.8097512358502,2088.998642118072,0.2964,0.7036,rav,pit,rav,pit,1,16,2015,20.0,17.0,0
+Tennessee Titans,Houston Texans,1920.2620589907765,1993.2835343878307,0.3964,0.6036,oti,htx,htx,oti,0,16,2015,6.0,34.0,1
+New York Jets,New England Patriots,2100.887194510997,2136.5206042194914,0.4489,0.5511,nyj,nwe,nyj,nwe,1,16,2015,26.0,20.0,0
+Miami Dolphins,Indianapolis Colts,1960.7931774889498,1945.1685959558893,0.5225,0.4775,mia,clt,clt,mia,0,16,2015,12.0,18.0,0
+Buffalo Bills,Dallas Cowboys,2022.4924189078254,1890.8761915689352,0.6808,0.3192,buf,dal,buf,dal,1,16,2015,16.0,6.0,1
+Tampa Bay Buccaneers,Chicago Bears,2026.0383056812893,1944.6299356020822,0.6151,0.3849,tam,chi,chi,tam,0,16,2015,21.0,26.0,0
+Kansas City Chiefs,Cleveland Browns,2142.827228874342,1824.3427432346898,0.8622,0.1378,kan,cle,kan,cle,1,16,2015,17.0,13.0,1
+Detroit Lions,San Francisco 49ers,1981.218582396081,1848.3115422395251,0.6825,0.3175,det,sfo,det,sfo,1,16,2015,32.0,17.0,1
+New Orleans Saints,Jacksonville Jaguars,1988.8113620173558,1921.92454112704,0.5951,0.4049,nor,jax,nor,jax,1,16,2015,38.0,27.0,1
+Arizona Cardinals,Green Bay Packers,2202.3095542820206,2096.6860280859673,0.6475,0.3525,crd,gnb,crd,gnb,1,16,2015,38.0,8.0,1
+Seattle Seahawks,St. Louis Rams,2126.344528290399,1931.3516984336004,0.7544,0.2456,sea,ram,ram,sea,0,16,2015,17.0,23.0,0
+Minnesota Vikings,New York Giants,2104.607357749968,1992.452421228812,0.656,0.344,min,nyg,min,nyg,1,16,2015,49.0,17.0,1
+Denver Broncos,Cincinnati Bengals,2152.659796749301,2105.569719178745,0.5674,0.4326,den,cin,den,cin,1,16,2015,20.0,17.0,1
+Buffalo Bills,New York Jets,2033.048666795445,2066.8289832753458,0.4515,0.5485,buf,nyj,buf,nyj,1,17,2015,22.0,17.0,0
+Atlanta Falcons,New Orleans Saints,2086.4676309614124,1949.087069076787,0.688,0.312,atl,nor,nor,atl,0,17,2015,17.0,20.0,0
+Miami Dolphins,New England Patriots,1943.1704449193057,2119.514913835263,0.266,0.734,mia,nwe,mia,nwe,1,17,2015,20.0,10.0,0
+Houston Texans,Jacksonville Jaguars,2065.75539725085,1899.5678673326329,0.7225,0.2775,htx,jax,htx,jax,1,17,2015,30.0,6.0,1
+Indianapolis Colts,Tennessee Titans,2019.3876564853952,1838.623887672456,0.739,0.261,clt,oti,clt,oti,1,17,2015,30.0,24.0,1
+Cleveland Browns,Pittsburgh Steelers,1859.704174519892,2078.9817302731694,0.2206,0.7794,cle,pit,pit,cle,0,17,2015,12.0,28.0,1
+Cincinnati Bengals,Baltimore Ravens,2144.5498278743103,1907.652541650295,0.7964,0.2036,cin,rav,cin,rav,1,17,2015,24.0,16.0,1
+Chicago Bears,Detroit Lions,2022.896955265617,1937.5384707235723,0.6204,0.3796,chi,det,det,chi,0,17,2015,20.0,24.0,0
+New York Giants,Philadelphia Eagles,2019.976168361737,1963.7264833911966,0.5802,0.4198,nyg,phi,phi,nyg,0,17,2015,30.0,35.0,0
+Dallas Cowboys,Washington Redskins,1923.2970343076713,2009.2351150083878,0.3788,0.6212,dal,was,was,dal,0,17,2015,23.0,34.0,1
+Carolina Panthers,Tampa Bay Buccaneers,2210.6521507978255,1956.5030451378484,0.812,0.188,car,tam,car,tam,1,17,2015,38.0,10.0,1
+San Francisco 49ers,St. Louis Rams,1879.0523346971227,1965.1687039869553,0.3785,0.6215,sfo,ram,sfo,ram,1,17,2015,19.0,16.0,0
+Denver Broncos,San Diego Chargers,2164.8246232536835,1860.8791816326002,0.8519,0.1481,den,sdg,den,sdg,1,17,2015,27.0,20.0,1
+Arizona Cardinals,Seattle Seahawks,2217.0842958568437,2060.3996275345985,0.7113,0.2887,crd,sea,sea,crd,0,17,2015,6.0,36.0,0
+Kansas City Chiefs,Oakland Raiders,2145.955636585967,1977.9571701542936,0.7245,0.2755,kan,rai,kan,rai,1,17,2015,23.0,17.0,1
+Green Bay Packers,Minnesota Vikings,2124.482156044838,2064.0462912251414,0.5861,0.4139,gnb,min,min,gnb,0,17,2015,13.0,20.0,0
+Houston Texans,Kansas City Chiefs,2707.118749109685,2737.315882241379,0.4567,0.5433,htx,kan,kan,htx,0,18,2015,0.0,30.0,1
+Cincinnati Bengals,Pittsburgh Steelers,2804.103506085716,2720.2242285630014,0.6184,0.3816,cin,pit,pit,cin,0,18,2015,16.0,18.0,0
+Minnesota Vikings,Seattle Seahawks,2794.7410847517,2747.612834213903,0.5674,0.4326,min,sea,sea,min,0,18,2015,9.0,10.0,0
+Washington Redskins,Green Bay Packers,2710.039820838305,2677.0565670711917,0.5473,0.4527,was,gnb,gnb,was,0,18,2015,18.0,35.0,0
+New England Patriots,Kansas City Chiefs,2818.1067710391203,2766.3046021428845,0.574,0.426,nwe,kan,nwe,kan,1,19,2015,27.0,20.0,1
+Arizona Cardinals,Green Bay Packers,2866.958092382516,2711.7591999803776,0.7096,0.2904,crd,gnb,crd,gnb,1,19,2015,26.0,20.0,1
+Carolina Panthers,Seattle Seahawks,2890.710573876773,2761.718089368433,0.6776,0.3224,car,sea,car,sea,1,19,2015,31.0,24.0,1
+Denver Broncos,Pittsburgh Steelers,2828.0841424432338,2742.1868702118895,0.6212,0.3788,den,pit,den,pit,1,19,2015,23.0,16.0,1
+Denver Broncos,New England Patriots,2844.4421007544815,2765.829306987893,0.6112,0.3888,den,nwe,den,nwe,1,20,2015,20.0,18.0,1
+Carolina Panthers,Arizona Cardinals,2903.75336885146,2806.287254637615,0.6367,0.3633,car,crd,car,crd,1,20,2015,49.0,15.0,1
+Denver Broncos,Carolina Panthers,2856.712228368106,2852.7088683832803,0.5058,0.4942,den,car,den,car,1,21,2015,24.0,10.0,1
+Denver Broncos,Carolina Panthers,2157.93554688,2108.0,0.5714,0.4286,den,car,den,car,1,1,2016,21.0,20.0,1
+Baltimore Ravens,Buffalo Bills,1972.93554688,1994.0,0.4697,0.5303,rav,buf,rav,buf,1,1,2016,13.0,7.0,0
+Jacksonville Jaguars,Green Bay Packers,1964.93554688,2036.0,0.3991,0.6009,jax,gnb,gnb,jax,0,1,2016,23.0,27.0,1
+Atlanta Falcons,Tampa Bay Buccaneers,2064.93554688,1949.0,0.6609,0.3391,atl,tam,tam,atl,0,1,2016,24.0,31.0,0
+Philadelphia Eagles,Cleveland Browns,2040.93554688,1846.0,0.7544,0.2456,phi,cle,phi,cle,1,1,2016,29.0,10.0,1
+Tennessee Titans,Minnesota Vikings,1926.93554688,2050.0,0.3299,0.6701,oti,min,min,oti,0,1,2016,16.0,25.0,1
+New York Jets,Cincinnati Bengals,2084.93554688,2053.0,0.5458,0.4542,nyj,cin,cin,nyj,0,1,2016,22.0,23.0,0
+New Orleans Saints,Oakland Raiders,2031.93554688,1967.0,0.5924,0.4076,nor,rai,rai,nor,0,1,2016,34.0,35.0,0
+Kansas City Chiefs,San Diego Chargers,2119.93554688,1887.0,0.7926,0.2074,kan,sdg,kan,sdg,1,1,2016,33.0,27.0,1
+Houston Texans,Chicago Bears,2046.93554688,1965.0,0.6158,0.3842,htx,chi,htx,chi,1,1,2016,23.0,14.0,1
+Seattle Seahawks,Miami Dolphins,2115.93554688,1945.0,0.7279,0.2721,sea,mia,sea,mia,1,1,2016,12.0,10.0,1
+Indianapolis Colts,Detroit Lions,2030.93554688,1968.0,0.5896,0.4104,clt,det,det,clt,0,1,2016,35.0,39.0,0
+Dallas Cowboys,New York Giants,1945.93554688,1961.0,0.4783,0.5217,dal,nyg,nyg,dal,0,1,2016,19.0,20.0,1
+Arizona Cardinals,New England Patriots,2134.93554688,2068.0,0.5952,0.4048,crd,nwe,nwe,crd,0,1,2016,21.0,23.0,0
+Washington Redskins,Pittsburgh Steelers,2050.93554688,2052.0,0.4985,0.5015,was,pit,pit,was,0,1,2016,16.0,38.0,1
+San Francisco 49ers,Los Angeles Rams,1944.93554688,1964.0,0.4726,0.5274,sfo,ram,sfo,ram,1,1,2016,28.0,0.0,0
+Buffalo Bills,New York Jets,2031.4755575372776,2021.342389120526,0.5146,0.4854,buf,nyj,nyj,buf,0,2,2016,31.0,37.0,0
+Cleveland Browns,Baltimore Ravens,1876.156947249725,1937.7126513699077,0.4123,0.5877,cle,rav,rav,cle,0,2,2016,20.0,25.0,1
+Pittsburgh Steelers,Cincinnati Bengals,2131.0790923773184,2063.403619590526,0.5962,0.4038,pit,cin,pit,cin,1,2,2016,24.0,16.0,1
+New England Patriots,Miami Dolphins,2138.9613989109016,1928.5084934437987,0.7706,0.2294,nwe,mia,nwe,mia,1,2,2016,31.0,24.0,1
+Houston Texans,Kansas City Chiefs,2060.4410296468573,2070.422388327987,0.4856,0.5144,htx,kan,htx,kan,1,2,2016,19.0,12.0,0
+Detroit Lions,Tennessee Titans,2043.359940446004,1849.9684269838901,0.7527,0.2473,det,oti,oti,det,0,2,2016,15.0,16.0,0
+Carolina Panthers,San Francisco 49ers,2152.043959789442,1917.7198938530682,0.7939,0.2061,car,sfo,car,sfo,1,2,2016,46.0,27.0,1
+Washington Redskins,Dallas Cowboys,2026.646704218204,1881.055756063801,0.6981,0.3019,was,dal,dal,was,0,2,2016,23.0,27.0,0
+New York Giants,New Orleans Saints,2025.052533413801,1969.230642460428,0.5796,0.4204,nyg,nor,nyg,nor,1,2,2016,16.0,13.0,1
+Arizona Cardinals,Tampa Bay Buccaneers,2124.036244289091,1977.798693953573,0.6988,0.3012,crd,tam,crd,tam,1,2,2016,40.0,7.0,1
+Los Angeles Rams,Seattle Seahawks,1994.0959150351762,2067.164773916668,0.3964,0.6036,ram,sea,ram,sea,1,2,2016,9.0,3.0,0
+San Diego Chargers,Jacksonville Jaguars,1921.2133434626305,1892.2090101041636,0.5416,0.4584,sdg,jax,sdg,jax,1,2,2016,38.0,14.0,1
+Oakland Raiders,Atlanta Falcons,2033.227419810428,1995.223729581394,0.5545,0.4455,rai,atl,atl,rai,0,2,2016,28.0,35.0,0
+Denver Broncos,Indianapolis Colts,2166.1051902594418,1961.7832918597558,0.7643,0.2357,den,clt,den,clt,1,2,2016,34.0,20.0,1
+Minnesota Vikings,Green Bay Packers,2115.7820114942583,2047.8162490721056,0.5966,0.4034,min,gnb,min,gnb,1,2,2016,17.0,14.0,1
+Chicago Bears,Philadelphia Eagles,1998.2888100558703,1994.0668399644692,0.5061,0.4939,chi,phi,phi,chi,0,2,2016,14.0,29.0,0
+New England Patriots,Houston Texans,2145.2859585682404,2025.1252482205466,0.6663,0.3337,nwe,htx,nwe,htx,1,3,2016,27.0,0.0,1
+Carolina Panthers,Minnesota Vikings,2158.356497083428,2071.9435106412457,0.6219,0.3781,car,min,min,car,0,3,2016,10.0,22.0,0
+Buffalo Bills,Arizona Cardinals,2013.6922313030623,2080.8883186518824,0.4045,0.5955,buf,crd,buf,crd,1,3,2016,33.0,18.0,0
+Tennessee Titans,Oakland Raiders,1919.2513620386592,1960.63740515486,0.4407,0.5593,oti,rai,rai,oti,0,3,2016,10.0,17.0,1
+New York Giants,Washington Redskins,2036.7668893153684,1960.3874446231907,0.6082,0.3918,nyg,was,was,nyg,0,3,2016,27.0,29.0,0
+Miami Dolphins,Cleveland Browns,1962.1985927564697,1802.5856008499848,0.7148,0.2852,mia,cle,mia,cle,1,3,2016,30.0,24.0,1
+Jacksonville Jaguars,Baltimore Ravens,1921.7814236350505,1950.786566874398,0.4584,0.5416,jax,rav,rav,jax,0,3,2016,17.0,19.0,1
+Green Bay Packers,Detroit Lions,2086.340051629595,1983.710551270773,0.6435,0.3565,gnb,det,gnb,det,1,3,2016,34.0,27.0,1
+Cincinnati Bengals,Denver Broncos,2097.432497841504,2118.4569706878183,0.4698,0.5302,cin,den,den,cin,0,3,2016,17.0,29.0,1
+Tampa Bay Buccaneers,Los Angeles Rams,2005.386333381838,1963.1088415254987,0.5605,0.4395,tam,ram,ram,tam,0,3,2016,32.0,37.0,0
+Seattle Seahawks,San Francisco 49ers,2106.3727282784507,1893.4039144367866,0.7731,0.2269,sea,sfo,sea,sfo,1,3,2016,37.0,18.0,1
+Philadelphia Eagles,Pittsburgh Steelers,2071.8707630625618,2090.3034126432412,0.4735,0.5265,phi,pit,phi,pit,1,3,2016,34.0,3.0,0
+Indianapolis Colts,San Diego Chargers,1993.0883582060592,1887.7446731100185,0.6471,0.3529,clt,sdg,clt,sdg,1,3,2016,26.0,22.0,1
+Kansas City Chiefs,New York Jets,2106.8366325168677,2040.1954992979615,0.5947,0.4053,kan,nyj,kan,nyj,1,3,2016,24.0,3.0,1
+Dallas Cowboys,Chicago Bears,1962.1757476153834,1921.0361499292474,0.5589,0.4411,dal,chi,dal,chi,1,3,2016,31.0,17.0,1
+New Orleans Saints,Atlanta Falcons,2008.0157595579626,2017.1976967678193,0.4868,0.5132,nor,atl,atl,nor,0,3,2016,32.0,45.0,1
+Cincinnati Bengals,Miami Dolphins,2075.528087978967,1915.4772924425342,0.7153,0.2847,cin,mia,cin,mia,1,4,2016,22.0,7.0,1
+Jacksonville Jaguars,Indianapolis Colts,1908.1776662437946,1948.1703818244703,0.4427,0.5573,jax,clt,jax,clt,1,4,2016,30.0,27.0,0
+Chicago Bears,Detroit Lions,1952.9169691333645,1962.9355852499862,0.4856,0.5144,chi,det,chi,det,1,4,2016,17.0,14.0,0
+Baltimore Ravens,Oakland Raiders,2017.2360768048995,1976.2414590632904,0.5587,0.4413,rav,rai,rai,rav,0,4,2016,27.0,28.0,0
+New England Patriots,Buffalo Bills,2158.642356960892,1988.412707938093,0.7271,0.2729,nwe,buf,buf,nwe,0,4,2016,0.0,16.0,0
+Houston Texans,Tennessee Titans,2053.3920259994866,1844.5124401847877,0.769,0.231,htx,oti,htx,oti,1,4,2016,27.0,20.0,1
+New York Jets,Seattle Seahawks,2069.807685735936,2058.6516731537254,0.516,0.484,nyj,sea,sea,nyj,0,4,2016,17.0,27.0,0
+Atlanta Falcons,Carolina Panthers,2092.9981797367245,2085.0763854254647,0.5114,0.4886,atl,car,atl,car,1,4,2016,48.0,33.0,1
+Washington Redskins,Cleveland Browns,2031.8033344263981,1781.9981413639296,0.8081,0.1919,was,cle,was,cle,1,4,2016,31.0,20.0,1
+Tampa Bay Buccaneers,Denver Broncos,1989.4517445088568,2137.866046043193,0.2985,0.7015,tam,den,den,tam,0,4,2016,7.0,27.0,1
+San Francisco 49ers,Dallas Cowboys,1923.7580440580693,1925.4356567701516,0.4976,0.5024,sfo,dal,dal,sfo,0,4,2016,17.0,24.0,1
+San Diego Chargers,New Orleans Saints,1924.3113623263127,1931.0837352728145,0.4903,0.5097,sdg,nor,nor,sdg,0,4,2016,34.0,35.0,1
+Arizona Cardinals,Los Angeles Rams,2115.679681632924,1983.4304275626002,0.6816,0.3184,crd,ram,ram,crd,0,4,2016,13.0,17.0,0
+Pittsburgh Steelers,Kansas City Chiefs,2119.8954280028893,2069.1594646298945,0.5725,0.4275,pit,kan,pit,kan,1,4,2016,43.0,14.0,1
+Minnesota Vikings,New York Giants,2157.0522520079307,1971.2147716407078,0.7446,0.2554,min,nyg,min,nyg,1,4,2016,24.0,10.0,1
+San Francisco 49ers,Arizona Cardinals,1904.9090350603824,2048.9403610698087,0.3038,0.6962,sfo,crd,crd,sfo,0,5,2016,21.0,33.0,1
+Indianapolis Colts,Chicago Bears,1989.501051521763,1913.3276360097004,0.6079,0.3921,clt,chi,clt,chi,1,5,2016,29.0,23.0,1
+Cleveland Browns,New England Patriots,1814.44234843186,2088.018415678517,0.1715,0.8285,cle,nwe,nwe,cle,0,5,2016,13.0,33.0,1
+Pittsburgh Steelers,New York Jets,2139.7742777266726,1994.6852128917837,0.6975,0.3025,pit,nyj,pit,nyj,1,5,2016,31.0,13.0,1
+Miami Dolphins,Tennessee Titans,1946.266389979723,1823.2654673189966,0.67,0.33,mia,oti,oti,mia,0,5,2016,17.0,30.0,0
+Detroit Lions,Philadelphia Eagles,2003.3841154113302,2045.1155104707675,0.4402,0.5598,det,phi,det,phi,1,5,2016,24.0,23.0,0
+Baltimore Ravens,Washington Redskins,2008.8243557984886,1982.2088197329297,0.5382,0.4618,rav,was,was,rav,0,5,2016,10.0,16.0,0
+Minnesota Vikings,Houston Texans,2165.2017570601906,2004.8388597852834,0.7157,0.2843,min,htx,min,htx,1,5,2016,31.0,13.0,1
+Denver Broncos,Atlanta Falcons,2203.5793174861337,2059.6988967247853,0.696,0.304,den,atl,atl,den,0,5,2016,16.0,23.0,0
+Los Angeles Rams,Buffalo Bills,2063.6343542868576,2030.2120174652707,0.548,0.452,ram,buf,buf,ram,0,5,2016,19.0,30.0,0
+Oakland Raiders,San Diego Chargers,2041.8265154068795,1859.6603062757538,0.7405,0.2595,rai,sdg,rai,sdg,1,5,2016,34.0,31.0,1
+Dallas Cowboys,Cincinnati Bengals,1999.0401265746123,2030.2031857626023,0.4553,0.5447,dal,cin,dal,cin,1,5,2016,28.0,14.0,0
+Green Bay Packers,New York Giants,2097.8494150894408,1947.455486355223,0.7039,0.2961,gnb,nyg,gnb,nyg,1,5,2016,23.0,16.0,1
+Carolina Panthers,Tampa Bay Buccaneers,2117.366035166442,1909.1876422489477,0.7682,0.2318,car,tam,tam,car,0,5,2016,14.0,17.0,0
+San Diego Chargers,Denver Broncos,1896.4570134935757,2135.0012009161414,0.2021,0.7979,sdg,den,sdg,den,1,6,2016,21.0,13.0,0
+Chicago Bears,Jacksonville Jaguars,1948.5352007004237,1870.3688373532295,0.6106,0.3894,chi,jax,jax,chi,0,6,2016,16.0,17.0,0
+Buffalo Bills,San Francisco 49ers,2109.31906385182,1826.6850186550535,0.8358,0.1642,buf,sfo,buf,sfo,1,6,2016,45.0,16.0,1
+Tennessee Titans,Cleveland Browns,1912.9192492948691,1735.6010286292876,0.7351,0.2649,oti,cle,oti,cle,1,6,2016,28.0,26.0,1
+New York Giants,Baltimore Ravens,1981.2430571342056,1936.5978852682929,0.5639,0.4361,nyg,rav,nyg,rav,1,6,2016,27.0,23.0,1
+New England Patriots,Cincinnati Bengals,2147.9024719806307,2009.0491988137144,0.6898,0.3102,nwe,cin,nwe,cin,1,6,2016,35.0,17.0,1
+Miami Dolphins,Pittsburgh Steelers,1929.1663637384722,2095.6462022648548,0.2772,0.7228,mia,pit,mia,pit,1,6,2016,30.0,15.0,0
+Detroit Lions,Los Angeles Rams,2014.0545922284361,1988.7617311715287,0.5363,0.4637,det,ram,det,ram,1,6,2016,31.0,28.0,1
+Washington Redskins,Philadelphia Eagles,2057.2958934828634,2036.7247568178734,0.5296,0.4704,was,phi,was,phi,1,6,2016,27.0,20.0,1
+New Orleans Saints,Carolina Panthers,1995.3650034522555,2054.2831746054694,0.416,0.584,nor,car,nor,car,1,6,2016,41.0,38.0,0
+Oakland Raiders,Kansas City Chiefs,2048.1830702918696,2042.5380810816698,0.5081,0.4919,rai,kan,kan,rai,0,6,2016,10.0,26.0,0
+Green Bay Packers,Dallas Cowboys,2106.7454453828223,1969.4122377026492,0.688,0.312,gnb,dal,dal,gnb,0,6,2016,16.0,30.0,0
+Seattle Seahawks,Atlanta Falcons,2135.108818788896,2090.9332010150315,0.5632,0.4368,sea,atl,sea,atl,1,6,2016,26.0,24.0,1
+Houston Texans,Indianapolis Colts,2034.922105867061,1947.2901991908918,0.6235,0.3765,htx,clt,htx,clt,1,6,2016,26.0,23.0,1
+Arizona Cardinals,New York Jets,2114.0382708366155,1969.7655060680415,0.6965,0.3035,crd,nyj,crd,nyj,1,6,2016,28.0,3.0,1
+Green Bay Packers,Chicago Bears,2090.0003547456786,1886.1772106754058,0.7637,0.2363,gnb,chi,gnb,chi,1,7,2016,26.0,10.0,1
+Los Angeles Rams,New York Giants,2028.2671082597963,1939.6456045906266,0.6248,0.3752,ram,nyg,nyg,ram,0,7,2016,10.0,17.0,0
+Cincinnati Bengals,Cleveland Browns,2039.0475083409385,1719.0163255308266,0.8632,0.1368,cin,cle,cin,cle,1,7,2016,31.0,17.0,1
+Philadelphia Eagles,Minnesota Vikings,2072.325113622367,2120.1383760554663,0.4316,0.5684,phi,min,phi,min,1,7,2016,21.0,10.0,0
+Tennessee Titans,Indianapolis Colts,1918.8956985545376,1930.4896923579872,0.4833,0.5167,oti,clt,clt,oti,0,7,2016,26.0,34.0,1
+Miami Dolphins,Buffalo Bills,1969.911522543484,2059.243898536647,0.3742,0.6258,mia,buf,mia,buf,1,7,2016,28.0,25.0,0
+Jacksonville Jaguars,Oakland Raiders,1936.9431715582116,1970.662533405175,0.4516,0.5484,jax,rai,rai,jax,0,7,2016,16.0,33.0,1
+Detroit Lions,Washington Redskins,2027.3959491786995,2019.5342012318629,0.5113,0.4887,det,was,det,was,1,7,2016,20.0,17.0,1
+Kansas City Chiefs,New Orleans Saints,2120.802421257871,1958.703235449983,0.7177,0.2823,kan,nor,kan,nor,1,7,2016,27.0,21.0,1
+New York Jets,Baltimore Ravens,1998.4550553759484,1919.3510350130584,0.6119,0.3881,nyj,rav,nyj,rav,1,7,2016,24.0,16.0,1
+Atlanta Falcons,San Diego Chargers,2131.883176204898,1881.964915106769,0.8082,0.1918,atl,sdg,sdg,atl,0,7,2016,30.0,33.0,0
+San Francisco 49ers,Tampa Bay Buccaneers,1856.8805721618344,1936.1883599785558,0.3878,0.6122,sfo,tam,tam,sfo,0,7,2016,17.0,34.0,1
+Pittsburgh Steelers,New England Patriots,2134.9556312412174,2104.181090114883,0.5442,0.4558,pit,nwe,nwe,pit,0,7,2016,16.0,27.0,0
+Arizona Cardinals,Seattle Seahawks,2125.4749689889923,2091.020036316301,0.5494,0.4506,crd,sea,,,0,7,2016,6.0,6.0,0
+Denver Broncos,Houston Texans,2179.6928313398507,1990.1315322390074,0.7486,0.2514,den,htx,den,htx,1,7,2016,27.0,9.0,1
+Tennessee Titans,Jacksonville Jaguars,1899.1486364352756,1858.179821615734,0.5587,0.4413,oti,jax,oti,jax,1,8,2016,36.0,22.0,1
+Cincinnati Bengals,Washington Redskins,2042.596479809326,2004.555642528463,0.5545,0.4455,cin,was,,,0,8,2016,27.0,27.0,0
+Carolina Panthers,Arizona Cardinals,2096.201783106814,2070.5394221089923,0.5369,0.4631,car,crd,car,crd,1,8,2016,30.0,20.0,1
+Buffalo Bills,New England Patriots,2102.1429106437295,2128.090457128269,0.4627,0.5373,buf,nwe,nwe,buf,0,8,2016,25.0,41.0,1
+Tampa Bay Buccaneers,Oakland Raiders,2006.6375310355077,1990.284407699513,0.5235,0.4765,tam,rai,rai,tam,0,8,2016,24.0,30.0,0
+Indianapolis Colts,Kansas City Chiefs,2003.8958316944208,2073.9696358451056,0.4005,0.5995,clt,kan,kan,clt,0,8,2016,14.0,30.0,1
+Cleveland Browns,New York Jets,1751.5580699874931,1956.8873177906678,0.2347,0.7653,cle,nyj,nyj,cle,0,8,2016,28.0,31.0,1
+New Orleans Saints,Seattle Seahawks,1993.0388818516476,2091.020036316301,0.3626,0.6374,nor,sea,nor,sea,1,8,2016,25.0,20.0,0
+Houston Texans,Detroit Lions,2020.429251227451,1986.7768928880826,0.5483,0.4517,htx,det,htx,det,1,8,2016,20.0,13.0,1
+Denver Broncos,San Diego Chargers,2187.966876132714,1911.048531573674,0.8312,0.1688,den,sdg,den,sdg,1,8,2016,27.0,19.0,1
+Atlanta Falcons,Green Bay Packers,2124.9811251799633,2042.5199400596932,0.6165,0.3835,atl,gnb,atl,gnb,1,8,2016,33.0,32.0,1
+Dallas Cowboys,Philadelphia Eagles,2061.272856244043,2042.9908683938163,0.5263,0.4737,dal,phi,dal,phi,1,8,2016,29.0,23.0,1
+Chicago Bears,Minnesota Vikings,1917.0184517722107,2100.698682542508,0.2578,0.7422,chi,min,chi,min,1,8,2016,20.0,10.0,0
+Tampa Bay Buccaneers,Atlanta Falcons,1989.0354307407822,2077.3555601852086,0.3756,0.6244,tam,atl,atl,tam,0,9,2016,28.0,43.0,1
+Cleveland Browns,Dallas Cowboys,1733.2091911341975,2023.0302950836694,0.1586,0.8414,cle,dal,dal,cle,0,9,2016,10.0,35.0,1
+Baltimore Ravens,Pittsburgh Steelers,1953.2101518300879,2059.994561603589,0.351,0.649,rav,pit,rav,pit,1,9,2016,21.0,14.0,0
+New York Giants,Philadelphia Eagles,2020.9701813543961,2024.444281135553,0.495,0.505,nyg,phi,nyg,phi,1,9,2016,28.0,23.0,0
+Minnesota Vikings,Detroit Lions,2142.3223483586244,1967.139290018837,0.7327,0.2673,min,det,det,min,0,9,2016,16.0,22.0,0
+Miami Dolphins,New York Jets,1990.0410347318643,1962.51449911416,0.5395,0.4605,mia,nyj,mia,nyj,1,9,2016,27.0,23.0,1
+Kansas City Chiefs,Jacksonville Jaguars,2145.0161907429338,1835.127723043392,0.8562,0.1438,kan,jax,kan,jax,1,9,2016,19.0,14.0,1
+San Francisco 49ers,New Orleans Saints,1832.3900081568574,1962.716729027705,0.3208,0.6792,sfo,nor,nor,sfo,0,9,2016,23.0,41.0,1
+Los Angeles Rams,Carolina Panthers,2012.4201748212713,2059.5062346676523,0.4326,0.5674,ram,car,car,ram,0,9,2016,10.0,13.0,1
+Green Bay Packers,Indianapolis Colts,2085.7042383549383,1924.8440568326782,0.7163,0.2837,gnb,clt,clt,gnb,0,9,2016,26.0,31.0,0
+San Diego Chargers,Tennessee Titans,1944.5790926293412,1862.4212354295812,0.6161,0.3839,sdg,oti,sdg,oti,1,9,2016,43.0,35.0,1
+Oakland Raiders,Denver Broncos,2064.5582536441275,2137.3782513017363,0.3967,0.6033,rai,den,rai,den,1,9,2016,30.0,20.0,0
+Seattle Seahawks,Buffalo Bills,2131.9536743718163,2023.8270546932233,0.6508,0.3492,sea,buf,sea,buf,1,9,2016,31.0,25.0,1
+Baltimore Ravens,Cleveland Browns,1981.203842793273,1654.047845209535,0.868,0.132,rav,cle,rav,cle,1,10,2016,28.0,7.0,1
+Carolina Panthers,Kansas City Chiefs,2126.6066080520345,2093.4560192361123,0.5476,0.4524,car,kan,kan,car,0,10,2016,17.0,20.0,0
+Washington Redskins,Minnesota Vikings,2059.491189408463,2075.602817819099,0.4768,0.5232,was,min,was,min,1,10,2016,26.0,20.0,0
+Tampa Bay Buccaneers,Chicago Bears,1965.027725216578,1900.4074903290389,0.5919,0.4081,tam,chi,tam,chi,1,10,2016,36.0,10.0,1
+Philadelphia Eagles,Atlanta Falcons,2062.275819135562,2091.797094770236,0.4576,0.5424,phi,atl,phi,atl,1,10,2016,24.0,15.0,0
+Tennessee Titans,Green Bay Packers,1896.2382511964179,2019.1268388207868,0.3302,0.6698,oti,gnb,oti,gnb,1,10,2016,47.0,25.0,0
+New York Jets,Los Angeles Rams,2000.601621865626,1941.5291897568366,0.5842,0.4158,nyj,ram,ram,nyj,0,10,2016,6.0,9.0,0
+New Orleans Saints,Denver Broncos,2029.43699197574,2119.312481374678,0.3735,0.6265,nor,den,den,nor,0,10,2016,23.0,25.0,1
+Jacksonville Jaguars,Houston Texans,1869.9659375554127,1981.671536220583,0.3446,0.6554,jax,htx,htx,jax,0,10,2016,21.0,24.0,1
+San Diego Chargers,Miami Dolphins,1957.7383266730733,1949.4867655371097,0.5119,0.4881,sdg,mia,mia,sdg,0,10,2016,24.0,31.0,0
+Arizona Cardinals,San Francisco 49ers,2104.3282292721146,1752.5037781303195,0.8834,0.1166,crd,sfo,crd,sfo,1,10,2016,23.0,20.0,1
+Pittsburgh Steelers,Dallas Cowboys,2099.790223232313,2027.5967459138137,0.6024,0.3976,pit,dal,dal,pit,0,10,2016,30.0,35.0,0
+New England Patriots,Seattle Seahawks,2203.160135791115,2087.8389649446895,0.6601,0.3399,nwe,sea,sea,nwe,0,10,2016,24.0,31.0,0
+New York Giants,Cincinnati Bengals,2038.4197257673163,1987.660932929326,0.5725,0.4275,nyg,cin,nyg,cin,1,10,2016,21.0,20.0,1
+Carolina Panthers,New Orleans Saints,2112.795528937724,1959.4679502047825,0.7074,0.2926,car,nor,car,nor,1,11,2016,23.0,20.0,1
+Cleveland Browns,Pittsburgh Steelers,1685.7891302118687,2029.9281451238485,0.1212,0.8788,cle,pit,pit,cle,0,11,2016,9.0,24.0,1
+Cincinnati Bengals,Buffalo Bills,2031.6839253652508,2003.660385121832,0.5402,0.4598,cin,buf,buf,cin,0,11,2016,12.0,16.0,0
+New York Giants,Chicago Bears,2046.5684017932413,1874.1238162591374,0.7296,0.2704,nyg,chi,nyg,chi,1,11,2016,22.0,16.0,1
+Minnesota Vikings,Arizona Cardinals,2112.9300675497384,2051.89992515494,0.5869,0.4131,min,crd,min,crd,1,11,2016,30.0,24.0,1
+Kansas City Chiefs,Tampa Bay Buccaneers,2165.1089554242385,1928.2141033035095,0.7964,0.2036,kan,tam,tam,kan,0,11,2016,17.0,19.0,0
+Detroit Lions,Jacksonville Jaguars,2054.37608952635,1797.808139911208,0.8141,0.1859,det,jax,det,jax,1,11,2016,26.0,19.0,1
+Dallas Cowboys,Baltimore Ravens,2105.147339101729,1929.7955338946692,0.7329,0.2671,dal,rav,dal,rav,1,11,2016,27.0,17.0,1
+Indianapolis Colts,Tennessee Titans,2009.1735376434801,1880.5029002188833,0.6771,0.3229,clt,oti,clt,oti,1,11,2016,24.0,17.0,1
+Los Angeles Rams,Miami Dolphins,2014.7472203930085,1968.9637105477616,0.5655,0.4345,ram,mia,mia,ram,0,11,2016,10.0,14.0,0
+San Francisco 49ers,New England Patriots,1788.4436281262742,2133.4235444258725,0.1207,0.8793,sfo,nwe,nwe,sfo,0,11,2016,17.0,30.0,1
+Seattle Seahawks,Philadelphia Eagles,2171.5187585581657,2030.0006166025698,0.6931,0.3069,sea,phi,sea,phi,1,11,2016,26.0,15.0,1
+Washington Redskins,Green Bay Packers,2078.8130456763856,1999.8018094284398,0.6118,0.3882,was,gnb,was,gnb,1,11,2016,42.0,24.0,1
+Oakland Raiders,Houston Texans,2092.03261461462,1990.726750766425,0.6418,0.3582,rai,htx,rai,htx,1,11,2016,27.0,20.0,1
+Detroit Lions,Minnesota Vikings,2059.201408361381,2071.697003336834,0.482,0.518,det,min,det,min,1,12,2016,16.0,13.0,0
+Dallas Cowboys,Washington Redskins,2113.3698196357036,2039.579698756108,0.6046,0.3954,dal,was,dal,was,1,12,2016,31.0,26.0,1
+Indianapolis Colts,Pittsburgh Steelers,2019.1957262601818,2032.9966170670225,0.4801,0.5199,clt,pit,pit,clt,0,12,2016,7.0,28.0,1
+Baltimore Ravens,Cincinnati Bengals,1962.16928375726,1961.4206086467095,0.5011,0.4989,rav,cin,rav,cin,1,12,2016,19.0,14.0,1
+New Orleans Saints,Los Angeles Rams,1996.5851250175026,1945.036817404169,0.5736,0.4264,nor,ram,nor,ram,1,12,2016,49.0,21.0,1
+Miami Dolphins,San Francisco 49ers,2043.1286731459409,1711.558655996922,0.8709,0.1291,mia,sfo,mia,sfo,1,12,2016,31.0,24.0,1
+Houston Texans,San Diego Chargers,2024.9017459972376,1884.2313852634793,0.6921,0.3079,htx,sdg,sdg,htx,0,12,2016,13.0,21.0,0
+Cleveland Browns,New York Giants,1663.540176881329,1999.2841580949464,0.1265,0.8735,cle,nyg,nyg,cle,0,12,2016,13.0,27.0,1
+Chicago Bears,Tennessee Titans,1908.414426743531,1859.4870318002745,0.57,0.43,chi,oti,oti,chi,0,12,2016,21.0,27.0,0
+Buffalo Bills,Jacksonville Jaguars,2076.6038947395004,1776.6769292409613,0.849,0.151,buf,jax,buf,jax,1,12,2016,28.0,21.0,1
+Atlanta Falcons,Arizona Cardinals,2127.615065003498,2032.4325151396451,0.6337,0.3663,atl,crd,atl,crd,1,12,2016,38.0,19.0,1
+Tampa Bay Buccaneers,Seattle Seahawks,2006.7099152899339,2126.7381208057645,0.3338,0.6662,tam,sea,tam,sea,1,12,2016,14.0,5.0,0
+Oakland Raiders,Carolina Panthers,2103.619447897167,2065.2301483948545,0.555,0.445,rai,car,rai,car,1,12,2016,35.0,32.0,1
+New York Jets,New England Patriots,1987.589200185009,2136.4365043116873,0.298,0.702,nyj,nwe,nwe,nyj,0,12,2016,17.0,22.0,1
+Denver Broncos,Kansas City Chiefs,2183.2105347858396,2104.150216711406,0.6119,0.3881,den,kan,kan,den,0,12,2016,27.0,30.0,0
+Philadelphia Eagles,Green Bay Packers,2062.0024146512283,1975.0552717278777,0.6226,0.3774,phi,gnb,gnb,phi,0,12,2016,13.0,27.0,0
+Minnesota Vikings,Dallas Cowboys,2112.216596474683,2070.767296592905,0.5594,0.4406,min,dal,dal,min,0,13,2016,15.0,17.0,0
+Chicago Bears,San Francisco 49ers,1891.8471629809208,1690.7879212545085,0.7609,0.2391,chi,sfo,chi,sfo,1,13,2016,26.0,6.0,1
+Atlanta Falcons,Kansas City Chiefs,2142.127754679125,2123.6545098894767,0.5266,0.4734,atl,kan,kan,atl,0,13,2016,28.0,29.0,0
+Baltimore Ravens,Miami Dolphins,1979.314689849304,1991.2721271331422,0.4828,0.5172,rav,mia,rav,mia,1,13,2016,38.0,6.0,0
+New England Patriots,Los Angeles Rams,2199.7766151706896,1918.5683792591076,0.8346,0.1654,nwe,ram,nwe,ram,1,13,2016,26.0,10.0,1
+New Orleans Saints,Detroit Lions,2016.2611048380293,2019.7585254615349,0.495,0.505,nor,det,det,nor,0,13,2016,13.0,28.0,1
+Jacksonville Jaguars,Denver Broncos,1810.674405701401,2115.90431266085,0.1472,0.8528,jax,den,den,jax,0,13,2016,10.0,20.0,1
+Green Bay Packers,Houston Texans,2061.357594401238,1955.6507579254157,0.6476,0.3524,gnb,htx,gnb,htx,1,13,2016,21.0,13.0,1
+Cincinnati Bengals,Philadelphia Eagles,1999.135143314396,1988.053341936962,0.5159,0.4841,cin,phi,cin,phi,1,13,2016,32.0,14.0,1
+Oakland Raiders,Buffalo Bills,2116.2485175811003,2025.3923156255237,0.6279,0.3721,rai,buf,rai,buf,1,13,2016,38.0,24.0,1
+San Diego Chargers,Tampa Bay Buccaneers,1971.345291509702,1983.06104461987,0.4831,0.5169,sdg,tam,tam,sdg,0,13,2016,21.0,28.0,1
+Pittsburgh Steelers,New York Giants,2110.459684405548,2002.5003758124149,0.6506,0.3494,pit,nyg,pit,nyg,1,13,2016,24.0,14.0,1
+Arizona Cardinals,Washington Redskins,2062.2610692611283,2020.7214635209743,0.5595,0.4405,crd,was,crd,was,1,13,2016,31.0,23.0,1
+Seattle Seahawks,Carolina Panthers,2165.9974555589606,2049.4792862047802,0.6617,0.3383,sea,car,sea,car,1,13,2016,40.0,7.0,1
+New York Jets,Indianapolis Colts,1967.7905293351448,1939.8651410831865,0.5401,0.4599,nyj,clt,clt,nyj,0,13,2016,10.0,41.0,0
+Kansas City Chiefs,Oakland Raiders,2188.6277007349786,2075.370622106629,0.6575,0.3425,kan,rai,kan,rai,1,14,2016,21.0,13.0,1
+Carolina Panthers,San Diego Chargers,2076.882713799688,1897.294727830195,0.7377,0.2623,car,sdg,car,sdg,1,14,2016,28.0,16.0,1
+Buffalo Bills,Pittsburgh Steelers,2056.606284119252,2067.542251287005,0.4843,0.5157,buf,pit,pit,buf,0,14,2016,20.0,27.0,1
+Philadelphia Eagles,Washington Redskins,2019.3956177869934,2000.287850332716,0.5275,0.4725,phi,was,was,phi,0,14,2016,22.0,27.0,0
+Tennessee Titans,Denver Broncos,1936.3838352958278,2119.661129561668,0.2583,0.7417,oti,den,oti,den,1,14,2016,13.0,10.0,0
+Miami Dolphins,Arizona Cardinals,2020.509157787055,2023.413112389042,0.4958,0.5042,mia,crd,mia,crd,1,14,2016,26.0,23.0,0
+Jacksonville Jaguars,Minnesota Vikings,1788.9093686564433,2045.626229442658,0.1858,0.8142,jax,min,min,jax,0,14,2016,16.0,25.0,1
+Detroit Lions,Chicago Bears,2096.777270300257,1844.733629320549,0.8101,0.1899,det,chi,det,chi,1,14,2016,20.0,17.0,1
+Indianapolis Colts,Houston Texans,2024.189704324736,1934.2610424030686,0.6266,0.3734,clt,htx,htx,clt,0,14,2016,17.0,22.0,0
+Cleveland Browns,Cincinnati Bengals,1641.331748610905,1966.3385817137287,0.1334,0.8666,cle,cin,cin,cle,0,14,2016,10.0,23.0,1
+San Francisco 49ers,New York Jets,1720.831080602869,1887.8299711152508,0.2766,0.7234,sfo,nyj,nyj,sfo,0,14,2016,17.0,23.0,1
+Tampa Bay Buccaneers,New Orleans Saints,2055.861680716047,1938.7962347880198,0.6624,0.3376,tam,nor,tam,nor,1,14,2016,16.0,11.0,1
+Los Angeles Rams,Atlanta Falcons,1950.3000036763422,2078.168621294627,0.3239,0.6761,ram,atl,atl,ram,0,14,2016,14.0,42.0,1
+Green Bay Packers,Seattle Seahawks,2072.9970875298286,2125.1379491114026,0.4255,0.5745,gnb,sea,gnb,sea,1,14,2016,38.0,10.0,0
+New York Giants,Dallas Cowboys,2035.0576032499312,2085.564632936624,0.4278,0.5722,nyg,dal,nyg,dal,1,14,2016,10.0,7.0,0
+New England Patriots,Baltimore Ravens,2204.3751399434445,1951.908705090539,0.8105,0.1895,nwe,rav,nwe,rav,1,14,2016,30.0,23.0,1
+Seattle Seahawks,Los Angeles Rams,2156.436492115677,1868.567884816002,0.8398,0.1602,sea,ram,sea,ram,1,15,2016,24.0,3.0,1
+New York Jets,Miami Dolphins,1950.6508277655093,1980.5078300039424,0.4571,0.5429,nyj,mia,mia,nyj,0,15,2016,13.0,34.0,1
+Baltimore Ravens,Philadelphia Eagles,1985.698259397554,1947.8073729028035,0.5543,0.4457,rav,phi,rav,phi,1,15,2016,27.0,26.0,1
+New York Giants,Detroit Lions,2052.820759531153,2046.2166221049781,0.5095,0.4905,nyg,det,nyg,det,1,15,2016,17.0,6.0,1
+Minnesota Vikings,Indianapolis Colts,2105.549181506396,1954.9589185968534,0.7041,0.2959,min,clt,clt,min,0,15,2016,6.0,34.0,0
+Kansas City Chiefs,Tennessee Titans,2199.805806508319,1907.1059888365817,0.8436,0.1564,kan,oti,oti,kan,0,15,2016,17.0,19.0,0
+Houston Texans,Jacksonville Jaguars,2013.1853323523865,1712.1183572952843,0.8498,0.1502,htx,jax,htx,jax,1,15,2016,21.0,20.0,1
+Cincinnati Bengals,Pittsburgh Steelers,2024.68694107905,2085.473272692732,0.4134,0.5866,cin,pit,pit,cin,0,15,2016,20.0,24.0,1
+Chicago Bears,Green Bay Packers,1881.0061671194926,2049.975662216466,0.2743,0.7257,chi,gnb,gnb,chi,0,15,2016,27.0,30.0,1
+Buffalo Bills,Cleveland Browns,2037.5126897791047,1564.2257122273097,0.9385,0.0615,buf,cle,buf,cle,1,15,2016,33.0,13.0,1
+Atlanta Falcons,San Francisco 49ers,2145.9416325503585,1645.2728544466397,0.947,0.053,atl,sfo,atl,sfo,1,15,2016,41.0,13.0,1
+Arizona Cardinals,New Orleans Saints,2063.6632450916586,1919.3096996816148,0.6966,0.3034,crd,nor,nor,crd,0,15,2016,41.0,48.0,0
+San Diego Chargers,Oakland Raiders,1929.0036653834673,2053.911922702333,0.3276,0.6724,sdg,rai,rai,sdg,0,15,2016,16.0,19.0,1
+Denver Broncos,New England Patriots,2165.6612793556756,2154.383659186308,0.5162,0.4838,den,nwe,nwe,den,0,15,2016,3.0,16.0,0
+Dallas Cowboys,Tampa Bay Buccaneers,2127.2197214854345,2010.8576770907607,0.6615,0.3385,dal,tam,dal,tam,1,15,2016,26.0,20.0,1
+Washington Redskins,Carolina Panthers,2073.814504508399,2030.2057268036526,0.5624,0.4376,was,car,car,was,0,15,2016,15.0,26.0,0
+Philadelphia Eagles,New York Giants,1992.1772797332824,2018.2313649207708,0.4626,0.5374,phi,nyg,phi,nyg,1,16,2016,24.0,19.0,0
+Carolina Panthers,Atlanta Falcons,2110.3180962219885,2092.194747099328,0.5261,0.4739,car,atl,atl,car,0,16,2016,16.0,33.0,0
+Buffalo Bills,Miami Dolphins,2038.9009307909282,2001.3460201704243,0.5538,0.4462,buf,mia,mia,buf,0,16,2016,31.0,34.0,0
+New England Patriots,New York Jets,2232.186252596129,1870.9656562051703,0.8889,0.1111,nwe,nyj,nwe,nyj,1,16,2016,41.0,3.0,1
+Jacksonville Jaguars,Tennessee Titans,1750.8556705218782,1932.5886769525466,0.26,0.74,jax,oti,jax,oti,1,16,2016,38.0,17.0,0
+Green Bay Packers,Minnesota Vikings,2111.715308344277,2031.7403075289185,0.6131,0.3869,gnb,min,gnb,min,1,16,2016,38.0,25.0,1
+Cleveland Browns,San Diego Chargers,1597.9764755366364,1856.638522091933,0.1841,0.8159,cle,sdg,cle,sdg,1,16,2016,20.0,17.0,0
+Chicago Bears,Washington Redskins,1863.0049464700699,1999.289026008954,0.3133,0.6867,chi,was,was,chi,0,16,2016,21.0,41.0,1
+Oakland Raiders,Indianapolis Colts,2117.3393431463105,1999.8683799328926,0.6629,0.3371,rai,clt,rai,clt,1,16,2016,33.0,25.0,1
+Seattle Seahawks,Arizona Cardinals,2160.9794456309987,1995.1053025199844,0.7221,0.2779,sea,crd,crd,sea,0,16,2016,31.0,34.0,0
+Los Angeles Rams,San Francisco 49ers,1899.6883732555073,1624.0339417441035,0.8302,0.1698,ram,sfo,sfo,ram,0,16,2016,21.0,22.0,0
+New Orleans Saints,Tampa Bay Buccaneers,2005.521979715274,1990.6011788281298,0.5215,0.4785,nor,tam,nor,tam,1,16,2016,31.0,24.0,1
+Houston Texans,Cincinnati Bengals,2016.0483291689804,1952.162129271811,0.5909,0.4091,htx,cin,htx,cin,1,16,2016,12.0,10.0,1
+Pittsburgh Steelers,Baltimore Ravens,2152.804663624762,1939.258302938033,0.7737,0.2263,pit,rav,pit,rav,1,16,2016,31.0,27.0,1
+Kansas City Chiefs,Denver Broncos,2195.081420043956,2089.293967440558,0.6477,0.3523,kan,den,kan,den,1,16,2016,33.0,10.0,1
+Dallas Cowboys,Detroit Lions,2137.5852916470376,2025.0823416128878,0.6565,0.3435,dal,det,dal,det,1,16,2016,42.0,21.0,1
+Indianapolis Colts,Jacksonville Jaguars,2033.3108746219743,1741.8039456855154,0.8426,0.1574,clt,jax,clt,jax,1,17,2016,24.0,20.0,1
+Cincinnati Bengals,Baltimore Ravens,1992.6405057410936,1919.884012022491,0.6032,0.3968,cin,rav,cin,rav,1,17,2016,27.0,10.0,1
+Tampa Bay Buccaneers,Carolina Panthers,2026.3405790807446,2032.885087519421,0.4906,0.5094,tam,car,tam,car,1,17,2016,17.0,16.0,0
+Pittsburgh Steelers,Cleveland Browns,2158.4714621696594,1572.533194514378,0.9668,0.0332,pit,cle,pit,cle,1,17,2016,27.0,24.0,1
+Philadelphia Eagles,Dallas Cowboys,2011.280514929992,2096.0446442578886,0.3804,0.6196,phi,dal,phi,dal,1,17,2016,27.0,13.0,0
+Tennessee Titans,Houston Texans,1971.4028809523497,1971.121968978817,0.5004,0.4996,oti,htx,oti,htx,1,17,2016,24.0,17.0,1
+New York Jets,Buffalo Bills,1902.1101887937311,1970.285649551821,0.4031,0.5969,nyj,buf,nyj,buf,1,17,2016,30.0,10.0,0
+Minnesota Vikings,Chicago Bears,2063.3920370627307,1782.6948769020569,0.8342,0.1658,min,chi,min,chi,1,17,2016,38.0,10.0,1
+Miami Dolphins,New England Patriots,2073.260134706349,2180.2242479456027,0.3508,0.6492,mia,nwe,nwe,mia,0,17,2016,14.0,35.0,1
+Atlanta Falcons,New Orleans Saints,2172.1058471864453,1968.199771591178,0.7638,0.2362,atl,nor,atl,nor,1,17,2016,38.0,32.0,1
+Washington Redskins,New York Giants,2065.8014448245217,2001.7870839345449,0.5911,0.4089,was,nyg,nyg,was,0,17,2016,10.0,19.0,0
+San Francisco 49ers,Seattle Seahawks,1694.7941221602973,2096.544538696695,0.0901,0.9099,sfo,sea,sea,sfo,0,17,2016,23.0,25.0,1
+San Diego Chargers,Kansas City Chiefs,1904.9194223921925,2154.2790659822535,0.1923,0.8077,sdg,kan,kan,sdg,0,17,2016,27.0,37.0,1
+Los Angeles Rams,Arizona Cardinals,1896.4517763217013,2019.7885982926102,0.3296,0.6704,ram,crd,crd,ram,0,17,2016,6.0,44.0,1
+Denver Broncos,Oakland Raiders,2118.245781739203,2073.333510994865,0.5643,0.4357,den,rai,den,rai,1,17,2016,24.0,6.0,1
+Detroit Lions,Green Bay Packers,2054.41744739902,2071.473137636582,0.4755,0.5245,det,gnb,gnb,det,0,17,2016,24.0,31.0,1
+Houston Texans,Oakland Raiders,2617.8296066140088,2672.325309167041,0.4222,0.5778,htx,rai,htx,rai,1,18,2016,27.0,14.0,0
+Seattle Seahawks,Detroit Lions,2808.3173500053786,2582.5998854925792,0.7857,0.2143,sea,det,sea,det,1,18,2016,26.0,6.0,1
+Pittsburgh Steelers,Miami Dolphins,2815.911146186696,2598.90238317164,0.7772,0.2228,pit,mia,pit,mia,1,18,2016,30.0,12.0,1
+Green Bay Packers,New York Giants,2795.9978778001027,2644.4888364845388,0.7052,0.2948,gnb,nyg,gnb,nyg,1,18,2016,38.0,13.0,1
+Atlanta Falcons,Seattle Seahawks,2841.1943606067866,2745.418471875837,0.6344,0.3656,atl,sea,atl,sea,1,19,2016,36.0,20.0,1
+New England Patriots,Houston Texans,2933.10638606388,2581.834579827881,0.8831,0.1169,nwe,htx,nwe,htx,1,19,2016,34.0,16.0,1
+Dallas Cowboys,Green Bay Packers,2780.3661852964406,2738.634342631578,0.5598,0.4402,dal,gnb,gnb,dal,0,19,2016,31.0,34.0,0
+Kansas City Chiefs,Pittsburgh Steelers,2888.1315961940622,2753.370247071935,0.6848,0.3152,kan,pit,pit,kan,0,19,2016,16.0,18.0,0
+Atlanta Falcons,Green Bay Packers,2859.4957309035153,2761.1092487114893,0.6379,0.3621,atl,gnb,atl,gnb,1,20,2016,44.0,21.0,1
+New England Patriots,Pittsburgh Steelers,2936.994372446324,2778.4746203794157,0.7135,0.2865,nwe,pit,nwe,pit,1,20,2016,36.0,17.0,1
+Atlanta Falcons,New England Patriots,2878.7174285944657,2878.4784326199756,0.5003,0.4997,atl,nwe,nwe,atl,0,21,2016,28.0,34.0,0
+New England Patriots,Kansas City Chiefs,2194.93554688,2090.0,0.6466,0.3534,nwe,kan,kan,nwe,0,1,2017,27.0,42.0,0
+Chicago Bears,Atlanta Falcons,1876.93554688,2079.0,0.2381,0.7619,chi,atl,atl,chi,0,1,2017,17.0,23.0,1
+Buffalo Bills,New York Jets,2006.93554688,1905.0,0.6426,0.3574,buf,nyj,buf,nyj,1,1,2017,21.0,12.0,1
+Washington Redskins,Philadelphia Eagles,2036.93554688,1979.0,0.5826,0.4174,was,phi,phi,was,0,1,2017,17.0,30.0,0
+Tennessee Titans,Oakland Raiders,1997.93554688,2007.0,0.487,0.513,oti,rai,rai,oti,0,1,2017,16.0,26.0,1
+Houston Texans,Jacksonville Jaguars,2012.93554688,1798.0,0.7751,0.2249,htx,jax,jax,htx,0,1,2017,7.0,29.0,0
+Detroit Lions,Arizona Cardinals,2011.93554688,2010.0,0.5028,0.4972,det,crd,det,crd,1,1,2017,35.0,23.0,1
+Cleveland Browns,Pittsburgh Steelers,1737.93554688,2059.0,0.1361,0.8639,cle,pit,pit,cle,0,1,2017,18.0,21.0,1
+Cincinnati Bengals,Baltimore Ravens,2010.93554688,1916.0,0.6333,0.3667,cin,rav,rav,cin,0,1,2017,0.0,20.0,0
+Los Angeles Rams,Indianapolis Colts,1914.93554688,1975.0,0.4144,0.5856,ram,clt,ram,clt,1,1,2017,46.0,9.0,0
+San Francisco 49ers,Carolina Panthers,1783.93554688,2003.0,0.2208,0.7792,sfo,car,car,sfo,0,1,2017,3.0,23.0,1
+Green Bay Packers,Seattle Seahawks,2103.93554688,2042.0,0.5882,0.4118,gnb,sea,gnb,sea,1,1,2017,17.0,9.0,1
+Dallas Cowboys,New York Giants,2084.93554688,1988.0,0.636,0.364,dal,nyg,dal,nyg,1,1,2017,19.0,3.0,1
+Minnesota Vikings,New Orleans Saints,2050.93554688,1951.0,0.64,0.36,min,nor,min,nor,1,1,2017,29.0,19.0,1
+Denver Broncos,Los Angeles Chargers,2097.93554688,1870.0,0.7879,0.2121,den,sdg,den,sdg,1,1,2017,24.0,21.0,1
+Cincinnati Bengals,Houston Texans,1990.6848531002024,1943.44235712155,0.5676,0.4324,cin,htx,htx,cin,0,2,2017,9.0,13.0,0
+Carolina Panthers,Buffalo Bills,2064.928156553478,1964.1622459603263,0.6411,0.3589,car,buf,car,buf,1,2,2017,9.0,3.0,1
+Tampa Bay Buccaneers,Chicago Bears,2028.93554688,1801.2815823296382,0.7876,0.2124,tam,chi,tam,chi,1,2,2017,29.0,7.0,1
+Baltimore Ravens,Cleveland Browns,2005.908997577425,1664.0708389564015,0.8774,0.1226,rav,cle,rav,cle,1,2,2017,24.0,10.0,1
+Pittsburgh Steelers,Minnesota Vikings,2116.9176730728855,2008.5502005946112,0.6511,0.3489,pit,min,pit,min,1,2,2017,26.0,9.0,1
+New Orleans Saints,New England Patriots,1983.6240791562466,2121.468436771269,0.3114,0.6886,nor,nwe,nwe,nor,0,2,2017,20.0,36.0,1
+Kansas City Chiefs,Philadelphia Eagles,2178.8419101615436,2006.6998218663357,0.7293,0.2707,kan,phi,kan,phi,1,2,2017,27.0,20.0,1
+Jacksonville Jaguars,Tennessee Titans,1903.1073076407229,1922.2564799130712,0.4725,0.5275,jax,oti,oti,jax,0,2,2017,16.0,37.0,1
+Indianapolis Colts,Arizona Cardinals,2005.3337698181062,1988.575040077239,0.5241,0.4759,clt,crd,crd,clt,0,2,2017,13.0,16.0,0
+Los Angeles Chargers,Miami Dolphins,1906.4176940763684,1966.0,0.4151,0.5849,sdg,mia,mia,sdg,0,2,2017,17.0,19.0,1
+Oakland Raiders,New York Jets,2081.6277384634977,1883.1324587182266,0.7582,0.2418,rai,nyj,rai,nyj,1,2,2017,45.0,20.0,1
+Seattle Seahawks,San Francisco 49ers,2076.1228960135445,1704.3231818044653,0.8948,0.1052,sea,sfo,sea,sfo,1,2,2017,12.0,9.0,1
+Los Angeles Rams,Washington Redskins,1949.7009924578113,1962.1546418691923,0.4821,0.5179,ram,was,was,ram,0,2,2017,20.0,27.0,1
+Denver Broncos,Dallas Cowboys,2102.920489867245,2043.94056271916,0.5841,0.4159,den,dal,den,dal,1,2,2017,42.0,17.0,1
+Atlanta Falcons,Green Bay Packers,2140.41022235882,2063.5709786242883,0.6088,0.3912,atl,gnb,atl,gnb,1,2,2017,34.0,23.0,1
+New York Giants,Detroit Lions,2018.5778603706985,1978.1863366618868,0.5579,0.4421,nyg,det,det,nyg,0,2,2017,10.0,24.0,0
+San Francisco 49ers,Los Angeles Rams,1740.2315105666164,1875.6326583300097,0.3144,0.6856,sfo,ram,ram,sfo,0,3,2017,39.0,41.0,1
+Jacksonville Jaguars,Baltimore Ravens,1878.5883095637062,1954.0664600939933,0.3931,0.6069,jax,rav,jax,rav,1,3,2017,44.0,7.0,0
+Carolina Panthers,New Orleans Saints,2076.1684711760236,1904.2305659475232,0.729,0.271,car,nor,nor,car,0,3,2017,13.0,34.0,0
+Buffalo Bills,Denver Broncos,1999.0193149787665,2066.525382451029,0.4041,0.5959,buf,den,buf,den,1,3,2017,26.0,16.0,0
+Philadelphia Eagles,New York Giants,2040.4113649113851,1942.8080620638898,0.6369,0.3631,phi,nyg,phi,nyg,1,3,2017,27.0,24.0,1
+New York Jets,Miami Dolphins,1912.367264608604,1976.188891232797,0.4092,0.5908,nyj,mia,nyj,mia,1,3,2017,20.0,6.0,0
+New England Patriots,Houston Texans,2187.464411642504,1962.7746787293563,0.7847,0.2153,nwe,htx,nwe,htx,1,3,2017,36.0,33.0,1
+Minnesota Vikings,Tampa Bay Buccaneers,2038.8068360081159,1980.7066662523473,0.5828,0.4172,min,tam,min,tam,1,3,2017,34.0,17.0,1
+Detroit Lions,Atlanta Falcons,2059.413285647783,2099.926285771539,0.442,0.558,det,atl,atl,det,0,3,2017,26.0,30.0,1
+Indianapolis Colts,Cleveland Browns,1991.039467414873,1641.9353867170125,0.8818,0.1182,clt,cle,clt,cle,1,3,2017,31.0,28.0,1
+Chicago Bears,Pittsburgh Steelers,1831.3481539725915,2075.2066265932235,0.1972,0.8028,chi,pit,chi,pit,1,3,2017,23.0,17.0,0
+Tennessee Titans,Seattle Seahawks,1999.154541658266,2023.424344379407,0.4651,0.5349,oti,sea,oti,sea,1,3,2017,33.0,27.0,0
+Los Angeles Chargers,Kansas City Chiefs,1892.0609547796619,2131.7842432186358,0.201,0.799,sdg,kan,kan,sdg,0,3,2017,10.0,24.0,1
+Green Bay Packers,Cincinnati Bengals,2096.0163916949655,1921.021864600725,0.7325,0.2675,gnb,cin,gnb,cin,1,3,2017,27.0,24.0,1
+Washington Redskins,Oakland Raiders,2034.9004160752497,2034.8884975334988,0.5,0.5,was,rai,was,rai,1,3,2017,27.0,10.0,0
+Arizona Cardinals,Dallas Cowboys,2059.252641778703,2017.9019219622558,0.5592,0.4408,crd,dal,dal,crd,0,3,2017,17.0,28.0,0
+Green Bay Packers,Chicago Bears,2102.6137232666806,1813.7262464640237,0.8406,0.1594,gnb,chi,gnb,chi,1,4,2017,35.0,14.0,1
+Miami Dolphins,New Orleans Saints,2011.163398340776,1948.9669698116127,0.5886,0.4114,mia,nor,nor,mia,0,4,2017,0.0,20.0,0
+Cleveland Browns,Cincinnati Bengals,1677.880096316544,1902.9562744090197,0.2149,0.7851,cle,cin,cin,cle,0,4,2017,7.0,31.0,1
+Atlanta Falcons,Buffalo Bills,2168.4492879103886,1971.0275916596104,0.757,0.243,atl,buf,buf,atl,0,4,2017,17.0,23.0,0
+Baltimore Ravens,Pittsburgh Steelers,1985.088448336264,2066.040894550316,0.3856,0.6144,rav,pit,pit,rav,0,4,2017,9.0,26.0,1
+New York Jets,Jacksonville Jaguars,1941.1868694407399,1860.5724745566085,0.614,0.386,nyj,jax,nyj,jax,1,4,2017,23.0,20.0,1
+New England Patriots,Carolina Panthers,2192.538991020143,2004.6025190187006,0.7468,0.2532,nwe,car,car,nwe,0,4,2017,30.0,33.0,0
+Minnesota Vikings,Detroit Lions,2056.158985632078,1987.32434502471,0.5978,0.4022,min,det,det,min,0,4,2017,7.0,14.0,0
+Houston Texans,Tennessee Titans,1999.2149983096185,1964.1866754630144,0.5502,0.4498,htx,oti,htx,oti,1,4,2017,57.0,14.0,1
+Dallas Cowboys,Los Angeles Rams,2097.7892481294707,1882.9315040514152,0.775,0.225,dal,ram,ram,dal,0,4,2017,30.0,35.0,0
+Tampa Bay Buccaneers,New York Giants,2011.4024413182412,1925.8252050885997,0.6207,0.3793,tam,nyg,tam,nyg,1,4,2017,25.0,23.0,1
+Los Angeles Chargers,Philadelphia Eagles,1868.7523109324875,1995.1578330537243,0.3257,0.6743,sdg,phi,phi,sdg,0,4,2017,24.0,26.0,1
+Arizona Cardinals,San Francisco 49ers,2039.5839287783374,1669.3796512610577,0.8939,0.1061,crd,sfo,crd,sfo,1,4,2017,18.0,15.0,1
+Denver Broncos,Oakland Raiders,2103.1894087723163,2011.856749168065,0.6285,0.3715,den,rai,den,rai,1,4,2017,16.0,10.0,1
+Seattle Seahawks,Indianapolis Colts,2060.9978267866527,1938.6495283445252,0.6691,0.3309,sea,clt,sea,clt,1,4,2017,46.0,18.0,1
+Kansas City Chiefs,Washington Redskins,2192.5834163981126,2002.9966175606835,0.7486,0.2514,kan,was,kan,was,1,4,2017,29.0,20.0,1
+Tampa Bay Buccaneers,New England Patriots,2020.5331907888649,2128.8174304458234,0.349,0.651,tam,nwe,nwe,tam,0,5,2017,14.0,19.0,1
+Cleveland Browns,New York Jets,1652.6945905786085,1896.729068161242,0.1971,0.8029,cle,nyj,nyj,cle,0,5,2017,14.0,17.0,1
+Cincinnati Bengals,Buffalo Bills,1964.785675808294,2005.0283659580027,0.4423,0.5577,cin,buf,cin,buf,1,5,2017,20.0,16.0,0
+Pittsburgh Steelers,Jacksonville Jaguars,2136.356243268239,1843.9058015029605,0.8434,0.1566,pit,jax,jax,pit,0,5,2017,9.0,30.0,0
+Philadelphia Eagles,Arizona Cardinals,2057.7031833956307,1986.9065145829622,0.6005,0.3995,phi,crd,phi,crd,1,5,2017,34.0,7.0,1
+New York Giants,Los Angeles Chargers,1965.8188690357863,1798.0621110762409,0.7243,0.2757,nyg,sdg,sdg,nyg,0,5,2017,22.0,27.0,0
+Miami Dolphins,Tennessee Titans,1989.494273413014,1935.9565803815556,0.5764,0.4236,mia,oti,mia,oti,1,5,2017,16.0,10.0,1
+Detroit Lions,Carolina Panthers,2066.9098726528564,2030.5164014314882,0.5522,0.4478,det,car,car,det,0,5,2017,24.0,27.0,0
+Indianapolis Colts,San Francisco 49ers,1966.7684519928775,1650.3547237701428,0.8607,0.1393,clt,sfo,clt,sfo,1,5,2017,26.0,23.0,1
+Los Angeles Rams,Seattle Seahawks,1971.0653983981624,2019.3243044580681,0.431,0.569,ram,sea,sea,ram,0,5,2017,10.0,16.0,1
+Oakland Raiders,Baltimore Ravens,2046.8379728393281,1905.647325083806,0.6927,0.3073,rai,rav,rav,rai,0,5,2017,17.0,30.0,0
+Dallas Cowboys,Green Bay Packers,2088.15101821977,2052.191043207949,0.5516,0.4484,dal,gnb,gnb,dal,0,5,2017,31.0,35.0,0
+Houston Texans,Kansas City Chiefs,2022.2936910897715,2145.0868749633855,0.3303,0.6697,htx,kan,kan,htx,0,5,2017,34.0,42.0,1
+Chicago Bears,Minnesota Vikings,1844.863074084561,1984.638925107206,0.309,0.691,chi,min,min,chi,0,5,2017,17.0,20.0,1
+Carolina Panthers,Philadelphia Eagles,2102.362960978426,2020.4091176867435,0.6158,0.3842,car,phi,phi,car,0,6,2017,23.0,28.0,0
+Atlanta Falcons,Miami Dolphins,2157.534904615132,1948.7613994102107,0.7688,0.2312,atl,mia,mia,atl,0,6,2017,17.0,20.0,0
+Washington Redskins,San Francisco 49ers,2035.7808538745294,1631.4380025756898,0.9111,0.0889,was,sfo,was,sfo,1,6,2017,26.0,24.0,1
+Baltimore Ravens,Chicago Bears,1997.2461592829172,1772.284936488932,0.785,0.215,rav,chi,chi,rav,0,6,2017,24.0,27.0,0
+New York Jets,New England Patriots,1956.2351043147676,2139.2063947554047,0.2586,0.7414,nyj,nwe,nwe,nyj,0,6,2017,17.0,24.0,1
+New Orleans Saints,Detroit Lions,2034.9050614958924,1998.2605418680125,0.5525,0.4475,nor,det,nor,det,1,6,2017,52.0,38.0,1
+Minnesota Vikings,Green Bay Packers,2047.4638504693035,2070.745196745939,0.4665,0.5335,min,gnb,min,gnb,1,6,2017,23.0,10.0,0
+Houston Texans,Cleveland Browns,2000.7606680960507,1579.14085071173,0.9189,0.0811,htx,cle,htx,cle,1,6,2017,33.0,17.0,1
+Arizona Cardinals,Tampa Bay Buccaneers,2015.3246410793497,1946.2188021738007,0.5982,0.4018,crd,tam,crd,tam,1,6,2017,38.0,33.0,1
+Jacksonville Jaguars,Los Angeles Rams,1956.197363588531,1896.9083294337356,0.5845,0.4155,jax,ram,ram,jax,0,6,2017,17.0,27.0,0
+Oakland Raiders,Los Angeles Chargers,2030.5731710591017,1827.9620911321285,0.7625,0.2375,rai,sdg,sdg,rai,0,6,2017,16.0,17.0,0
+Kansas City Chiefs,Pittsburgh Steelers,2210.6426361107083,2070.7710023152104,0.6911,0.3089,kan,pit,pit,kan,0,6,2017,13.0,19.0,0
+Denver Broncos,New York Giants,2114.984207614076,1899.5020926909124,0.7756,0.2244,den,nyg,nyg,den,0,6,2017,10.0,23.0,0
+Tennessee Titans,Indianapolis Colts,1971.5662994843694,1914.8944820414094,0.5808,0.4192,oti,clt,oti,clt,1,6,2017,36.0,22.0,1
+Oakland Raiders,Kansas City Chiefs,2026.0461288224767,2142.5280357898346,0.3384,0.6616,rai,kan,rai,kan,1,7,2017,31.0,30.0,0
+Chicago Bears,Carolina Panthers,1855.0878566422289,2032.8460017599534,0.2644,0.7356,chi,car,chi,car,1,7,2017,17.0,3.0,0
+Buffalo Bills,Tampa Bay Buccaneers,2045.0149862667358,1927.4427413965693,0.663,0.337,buf,tam,buf,tam,1,7,2017,30.0,27.0,1
+Los Angeles Rams,Arizona Cardinals,1977.9797920140747,1973.0006308431002,0.5072,0.4928,ram,crd,ram,crd,1,7,2017,33.0,0.0,1
+Minnesota Vikings,Baltimore Ravens,2071.54850920672,1934.6781471115048,0.6874,0.3126,min,rav,min,rav,1,7,2017,24.0,16.0,1
+Miami Dolphins,New York Jets,2030.7284124579542,1880.0561659053014,0.7042,0.2958,mia,nyj,mia,nyj,1,7,2017,31.0,28.0,1
+Green Bay Packers,New Orleans Saints,2104.6207749267733,1998.5730415658809,0.648,0.352,gnb,nor,nor,gnb,0,7,2017,17.0,26.0,0
+Indianapolis Colts,Jacksonville Jaguars,1946.511760885885,1882.682735487845,0.5908,0.4092,clt,jax,jax,clt,0,7,2017,0.0,27.0,0
+Cleveland Browns,Tennessee Titans,1612.6225815140479,1933.461017687861,0.1362,0.8638,cle,oti,oti,cle,0,7,2017,9.0,12.0,1
+San Francisco 49ers,Dallas Cowboys,1667.9367134949362,2018.1326532715414,0.1175,0.8825,sfo,dal,dal,sfo,0,7,2017,10.0,40.0,1
+Los Angeles Chargers,Denver Broncos,1897.4318262455035,2047.2620883110296,0.2968,0.7032,sdg,den,sdg,den,1,7,2017,21.0,0.0,0
+Pittsburgh Steelers,Cincinnati Bengals,2155.19196140948,1928.6993632687768,0.7865,0.2135,pit,cin,pit,cin,1,7,2017,29.0,14.0,1
+New York Giants,Seattle Seahawks,1998.6322276783749,2033.8840162654283,0.4494,0.5506,nyg,sea,sea,nyg,0,7,2017,7.0,24.0,1
+New England Patriots,Atlanta Falcons,2201.551627431898,2094.4702279510757,0.6494,0.3506,nwe,atl,nwe,atl,1,7,2017,23.0,7.0,1
+Philadelphia Eagles,Washington Redskins,2098.71591318213,1982.6442694760474,0.6611,0.3389,phi,was,phi,was,1,7,2017,34.0,24.0,1
+Baltimore Ravens,Miami Dolphins,1967.9938178105447,1983.2634570582056,0.478,0.522,rav,mia,rav,mia,1,8,2017,40.0,0.0,0
+Cleveland Browns,Minnesota Vikings,1593.6938027240556,2026.4447535605987,0.0765,0.9235,cle,min,min,cle,0,8,2017,16.0,33.0,1
+Cincinnati Bengals,Indianapolis Colts,1959.9755448346061,1868.5886325695276,0.6286,0.3714,cin,clt,cin,clt,1,8,2017,24.0,23.0,1
+Buffalo Bills,Oakland Raiders,2053.816858237939,1983.7214920214287,0.5995,0.4005,buf,rai,buf,rai,1,8,2017,34.0,14.0,1
+Tampa Bay Buccaneers,Carolina Panthers,1965.0618457931644,2018.0225169020107,0.4244,0.5756,tam,car,car,tam,0,8,2017,3.0,17.0,1
+Philadelphia Eagles,San Francisco 49ers,2110.2166836503297,1589.45706047586,0.9525,0.0475,phi,sfo,phi,sfo,1,8,2017,33.0,10.0,1
+New York Jets,Atlanta Falcons,1917.2067549746419,2070.0592343739686,0.2932,0.7068,nyj,atl,atl,nyj,0,8,2017,20.0,25.0,1
+New England Patriots,Los Angeles Chargers,2214.730707117968,1884.5965642733868,0.8699,0.1301,nwe,sdg,nwe,sdg,1,8,2017,21.0,13.0,1
+New Orleans Saints,Chicago Bears,2083.4466028436914,1841.3934423700305,0.8011,0.1989,nor,chi,nor,chi,1,8,2017,20.0,12.0,1
+Seattle Seahawks,Houston Texans,2108.2924549483673,1947.718585666916,0.7159,0.2841,sea,htx,sea,htx,1,8,2017,41.0,38.0,1
+Washington Redskins,Dallas Cowboys,2015.1449997242175,2021.2674209444494,0.4912,0.5088,was,dal,dal,was,0,8,2017,19.0,33.0,1
+Detroit Lions,Pittsburgh Steelers,2030.2274884354567,2106.678886868419,0.3917,0.6083,det,pit,pit,det,0,8,2017,15.0,20.0,1
+Kansas City Chiefs,Denver Broncos,2191.0132622787864,2029.4927985489992,0.717,0.283,kan,den,kan,den,1,8,2017,29.0,19.0,1
+New York Jets,Buffalo Bills,1897.3767875562166,2015.6745643008974,0.336,0.664,nyj,buf,nyj,buf,1,9,2017,34.0,21.0,0
+Carolina Panthers,Atlanta Falcons,2090.108115423003,2078.285248022925,0.517,0.483,car,atl,car,atl,1,9,2017,20.0,17.0,1
+Philadelphia Eagles,Denver Broncos,2111.2569399877625,2006.920111179094,0.6458,0.3542,phi,den,phi,den,1,9,2017,51.0,23.0,1
+Tennessee Titans,Baltimore Ravens,1991.3811671045557,1942.1678316479554,0.5704,0.4296,oti,rav,oti,rav,1,9,2017,23.0,20.0,1
+New York Giants,Los Angeles Rams,1974.7742520960464,1948.6231449430736,0.5376,0.4624,nyg,ram,ram,nyg,0,9,2017,17.0,51.0,0
+New Orleans Saints,Tampa Bay Buccaneers,2088.805957969224,1886.8662382992272,0.7618,0.2382,nor,tam,nor,tam,1,9,2017,30.0,10.0,1
+Jacksonville Jaguars,Cincinnati Bengals,1970.8075861620775,1912.119338951164,0.5837,0.4163,jax,cin,jax,cin,1,9,2017,23.0,7.0,1
+Houston Texans,Indianapolis Colts,1984.7490864331955,1856.6067430960857,0.6765,0.3235,htx,clt,clt,htx,0,9,2017,14.0,20.0,0
+San Francisco 49ers,Arizona Cardinals,1623.532730273652,1946.6742956500723,0.1347,0.8653,sfo,crd,crd,sfo,0,9,2017,10.0,20.0,1
+Seattle Seahawks,Washington Redskins,2115.3979495717895,1937.9390743022248,0.7353,0.2647,sea,was,was,sea,0,9,2017,14.0,17.0,0
+Dallas Cowboys,Kansas City Chiefs,2097.702987360273,2144.9871582519013,0.4324,0.5676,dal,kan,dal,kan,1,9,2017,28.0,17.0,0
+Miami Dolphins,Oakland Raiders,2011.5431226682394,1958.584026005689,0.5756,0.4244,mia,rai,rai,mia,0,9,2017,24.0,27.0,0
+Green Bay Packers,Detroit Lions,2088.35814982179,1956.387345643737,0.6813,0.3187,gnb,det,det,gnb,0,9,2017,17.0,30.0,0
+Arizona Cardinals,Seattle Seahawks,2004.9737362920482,2051.3410853450673,0.4337,0.5663,crd,sea,sea,crd,0,10,2017,16.0,22.0,1
+Buffalo Bills,New Orleans Saints,2053.2977398107705,2041.650739747821,0.5168,0.4832,buf,nor,nor,buf,0,10,2017,10.0,47.0,0
+Washington Redskins,Minnesota Vikings,2018.2123795692473,2028.218985717004,0.4856,0.5144,was,min,min,was,0,10,2017,30.0,38.0,1
+Tampa Bay Buccaneers,New York Jets,1916.9191051955197,1876.6537840981343,0.5577,0.4423,tam,nyj,tam,nyj,1,10,2017,15.0,10.0,1
+Tennessee Titans,Cincinnati Bengals,2003.4346441803334,1888.1513039465137,0.6601,0.3399,oti,cin,oti,cin,1,10,2017,24.0,20.0,1
+Jacksonville Jaguars,Los Angeles Chargers,1987.9018006086014,1863.529354759924,0.6717,0.3283,jax,sdg,jax,sdg,1,10,2017,20.0,17.0,1
+Detroit Lions,Cleveland Browns,2047.0030713249078,1517.3399107925482,0.9547,0.0453,det,cle,det,cle,1,10,2017,38.0,24.0,1
+Indianapolis Colts,Pittsburgh Steelers,1940.06747384145,2118.8520419212227,0.2632,0.7368,clt,pit,pit,clt,0,10,2017,17.0,20.0,1
+Chicago Bears,Green Bay Packers,1874.7433713965152,2016.7320510792724,0.3063,0.6937,chi,gnb,gnb,chi,0,10,2017,16.0,23.0,1
+Los Angeles Rams,Houston Texans,2033.2325809530355,1916.172893610187,0.6624,0.3376,ram,htx,ram,htx,1,10,2017,33.0,7.0,1
+Atlanta Falcons,Dallas Cowboys,2118.136965162753,2068.311954776209,0.5712,0.4288,atl,dal,atl,dal,1,10,2017,27.0,7.0,1
+San Francisco 49ers,New York Giants,1601.9233964040318,1894.3156279584305,0.1567,0.8433,sfo,nyg,sfo,nyg,1,10,2017,31.0,21.0,0
+Denver Broncos,New England Patriots,2035.0171344082862,2162.9459177476833,0.3238,0.6762,den,nwe,nwe,den,0,10,2017,16.0,41.0,1
+Carolina Panthers,Miami Dolphins,2104.199971834034,1943.402448862737,0.7162,0.2838,car,mia,car,mia,1,10,2017,45.0,21.0,1
+Pittsburgh Steelers,Tennessee Titans,2180.255169734072,1958.030882399137,0.7823,0.2177,pit,oti,pit,oti,1,11,2017,40.0,17.0,1
+Cleveland Browns,Jacksonville Jaguars,1551.9021719182508,1941.4810847502579,0.096,0.904,cle,jax,jax,cle,0,11,2017,7.0,19.0,1
+Chicago Bears,Detroit Lions,1853.6393947621414,1993.034225863856,0.3095,0.6905,chi,det,det,chi,0,11,2017,24.0,27.0,1
+New York Giants,Kansas City Chiefs,1940.4644172528917,2125.52724285098,0.2563,0.7437,nyg,kan,nyg,kan,1,11,2017,12.0,9.0,0
+New Orleans Saints,Washington Redskins,2124.820010784217,1943.57077618588,0.7395,0.2605,nor,was,nor,was,1,11,2017,34.0,31.0,1
+Minnesota Vikings,Los Angeles Rams,2101.7572951126244,1991.8102553948945,0.6531,0.3469,min,ram,min,ram,1,11,2017,24.0,7.0,1
+Miami Dolphins,Tampa Bay Buccaneers,1972.3734839584308,1876.4158298876423,0.6347,0.3653,mia,tam,tam,mia,0,11,2017,20.0,30.0,0
+Houston Texans,Arizona Cardinals,1944.5943474700468,1930.8556561662479,0.5198,0.4802,htx,crd,htx,crd,1,11,2017,31.0,21.0,1
+Green Bay Packers,Baltimore Ravens,2080.985960425913,1926.1638667410105,0.7091,0.2909,gnb,rav,rav,gnb,0,11,2017,0.0,23.0,0
+Los Angeles Chargers,Buffalo Bills,1901.0436040546465,1971.9640978990935,0.3993,0.6007,sdg,buf,sdg,buf,1,11,2017,54.0,24.0,0
+Oakland Raiders,New England Patriots,2031.4292596395046,2175.5508744523368,0.3037,0.6963,rai,nwe,nwe,rai,0,11,2017,8.0,33.0,1
+Denver Broncos,Cincinnati Bengals,2008.6938739892419,1869.640179075316,0.6901,0.3099,den,cin,cin,den,0,11,2017,17.0,20.0,0
+Dallas Cowboys,Philadelphia Eagles,2098.373617891769,2071.0414381327178,0.5393,0.4607,dal,phi,phi,dal,0,11,2017,9.0,37.0,0
+Seattle Seahawks,Atlanta Falcons,2120.967546349566,2081.8742497921926,0.556,0.444,sea,atl,atl,sea,0,11,2017,31.0,34.0,0
+Detroit Lions,Minnesota Vikings,2055.875157815142,2059.9329734645653,0.4942,0.5058,det,min,min,det,0,12,2017,23.0,30.0,1
+Dallas Cowboys,Los Angeles Chargers,2073.811229179245,1880.9517907108846,0.7522,0.2478,dal,sdg,sdg,dal,0,12,2017,6.0,28.0,0
+Washington Redskins,New York Giants,1980.3764930011969,1911.2869044863407,0.5981,0.4019,was,nyg,was,nyg,1,12,2017,20.0,10.0,1
+Philadelphia Eagles,Chicago Bears,2154.729961423971,1781.066793304685,0.8958,0.1042,phi,chi,phi,chi,1,12,2017,31.0,3.0,1
+New York Jets,Carolina Panthers,1913.3915515167446,2059.553071204224,0.3012,0.6988,nyj,car,car,nyj,0,12,2017,27.0,35.0,1
+New England Patriots,Miami Dolphins,2241.934382771138,1900.2986893218203,0.8772,0.1228,nwe,mia,nwe,mia,1,12,2017,35.0,17.0,1
+Kansas City Chiefs,Buffalo Bills,2171.58584453362,1948.8026149608218,0.7829,0.2171,kan,buf,buf,kan,0,12,2017,10.0,16.0,0
+Indianapolis Colts,Tennessee Titans,1921.9621788896143,1932.940666615874,0.4842,0.5158,clt,oti,oti,clt,0,12,2017,16.0,20.0,1
+Cincinnati Bengals,Cleveland Browns,1947.7027346137384,1475.6247156988143,0.9381,0.0619,cin,cle,cin,cle,1,12,2017,30.0,16.0,1
+Atlanta Falcons,Tampa Bay Buccaneers,2153.8814275039153,1906.1948623298013,0.8062,0.1938,atl,tam,atl,tam,1,12,2017,34.0,20.0,1
+San Francisco 49ers,Seattle Seahawks,1649.2103949482869,2052.3992583017875,0.0894,0.9106,sfo,sea,sea,sfo,0,12,2017,13.0,24.0,1
+Los Angeles Rams,New Orleans Saints,2022.0616247050455,2076.270969288734,0.4226,0.5774,ram,nor,ram,nor,1,12,2017,26.0,20.0,0
+Oakland Raiders,Denver Broncos,2005.1822542070463,1943.3727888057422,0.588,0.412,rai,den,rai,den,1,12,2017,21.0,14.0,1
+Arizona Cardinals,Jacksonville Jaguars,1964.9278558411722,1943.7474822022334,0.5304,0.4696,crd,jax,crd,jax,1,12,2017,27.0,24.0,1
+Pittsburgh Steelers,Green Bay Packers,2187.2373248868475,2008.177061115145,0.7371,0.2629,pit,gnb,pit,gnb,1,12,2017,31.0,28.0,1
+Baltimore Ravens,Houston Texans,2024.6676302200399,1908.9327123404842,0.6607,0.3393,rav,htx,rav,htx,1,12,2017,23.0,16.0,1
+Dallas Cowboys,Washington Redskins,2058.105626305193,1940.190942871669,0.6635,0.3365,dal,was,dal,was,1,13,2017,38.0,14.0,1
+Buffalo Bills,New England Patriots,2039.5947657013626,2190.1703643345036,0.2959,0.7041,buf,nwe,nwe,buf,0,13,2017,3.0,23.0,1
+Atlanta Falcons,Minnesota Vikings,2159.464821715435,2078.412011412621,0.6146,0.3854,atl,min,min,atl,0,13,2017,9.0,14.0,0
+Baltimore Ravens,Detroit Lions,2035.4052390419852,1982.0268278632548,0.5762,0.4238,rav,det,rav,det,1,13,2017,44.0,20.0,1
+Tennessee Titans,Houston Texans,2003.3008702490558,1888.023964481188,0.6601,0.3399,oti,htx,oti,htx,1,13,2017,24.0,13.0,1
+New York Jets,Kansas City Chiefs,1891.7288850785108,2106.707177589597,0.2249,0.7751,nyj,kan,nyj,kan,1,13,2017,38.0,31.0,0
+Miami Dolphins,Denver Broncos,1932.5789857904178,1923.1791609586116,0.5135,0.4865,mia,den,mia,den,1,13,2017,35.0,9.0,1
+Jacksonville Jaguars,Indianapolis Colts,1983.3570796770975,1850.5953268603141,0.6823,0.3177,jax,clt,jax,clt,1,13,2017,30.0,10.0,1
+Green Bay Packers,Tampa Bay Buccaneers,2045.0045718422102,1882.9681728905496,0.7176,0.2824,gnb,tam,gnb,tam,1,13,2017,26.0,20.0,1
+Chicago Bears,San Francisco 49ers,1812.998564232753,1573.1968060788583,0.7991,0.2009,chi,sfo,sfo,chi,0,13,2017,14.0,15.0,0
+Los Angeles Chargers,Cleveland Browns,1983.5618915935563,1454.8223216871995,0.9545,0.0455,sdg,cle,sdg,cle,1,13,2017,19.0,10.0,1
+Oakland Raiders,New York Giants,2019.3315308618385,1889.3362375133192,0.6788,0.3212,rai,nyg,rai,nyg,1,13,2017,24.0,17.0,1
+New Orleans Saints,Carolina Panthers,2114.8175583907946,2068.8902136358156,0.5657,0.4343,nor,car,nor,car,1,13,2017,31.0,21.0,1
+Arizona Cardinals,Los Angeles Rams,1978.496984500018,1989.5183736626743,0.4841,0.5159,crd,ram,ram,crd,0,13,2017,16.0,32.0,1
+Seattle Seahawks,Philadelphia Eagles,2109.404184661092,2102.4702277323963,0.51,0.49,sea,phi,sea,phi,1,13,2017,24.0,10.0,1
+Cincinnati Bengals,Pittsburgh Steelers,1949.0753688630923,2138.760335467988,0.2513,0.7487,cin,pit,pit,cin,0,13,2017,20.0,23.0,1
+Atlanta Falcons,New Orleans Saints,2144.8520540837367,2076.438701480087,0.5972,0.4028,atl,nor,atl,nor,1,14,2017,20.0,17.0,1
+Carolina Panthers,Minnesota Vikings,2102.2597473552614,2101.7150912944103,0.5008,0.4992,car,min,car,min,1,14,2017,31.0,24.0,1
+Buffalo Bills,Indianapolis Colts,2014.276868969374,1825.2119622217992,0.7481,0.2519,buf,clt,buf,clt,1,14,2017,13.0,7.0,1
+Tampa Bay Buccaneers,Detroit Lions,1917.3042387290689,1956.2510830354456,0.4442,0.5558,tam,det,det,tam,0,14,2017,21.0,24.0,1
+New York Giants,Dallas Cowboys,1923.245953317959,2016.4435232949963,0.369,0.631,nyg,dal,dal,nyg,0,14,2017,10.0,30.0,1
+Kansas City Chiefs,Oakland Raiders,2150.8900739688647,1974.3451544906861,0.7342,0.2658,kan,rai,kan,rai,1,14,2017,26.0,15.0,1
+Houston Texans,San Francisco 49ers,1920.1220425558838,1588.4286353474354,0.8709,0.1291,htx,sfo,sfo,htx,0,14,2017,16.0,26.0,0
+Cleveland Browns,Green Bay Packers,1489.7450078035813,1998.175621180318,0.0508,0.9492,cle,gnb,gnb,cle,0,14,2017,21.0,27.0,1
+Cincinnati Bengals,Chicago Bears,1930.8642302831054,1754.2336161513301,0.7343,0.2657,cin,chi,chi,cin,0,14,2017,7.0,33.0,0
+Los Angeles Chargers,Washington Redskins,1984.5158833848027,1914.0187883170931,0.6001,0.3999,sdg,was,sdg,was,1,14,2017,30.0,13.0,1
+Denver Broncos,New York Jets,1952.8122520727936,1873.851494726379,0.6117,0.3883,den,nyj,den,nyj,1,14,2017,23.0,0.0,1
+Arizona Cardinals,Tennessee Titans,1955.4644182859763,1960.1248380591373,0.4933,0.5067,crd,oti,crd,oti,1,14,2017,12.0,7.0,0
+Los Angeles Rams,Philadelphia Eagles,2066.0667627683333,2080.1781105648597,0.4797,0.5203,ram,phi,phi,ram,0,14,2017,35.0,43.0,1
+Jacksonville Jaguars,Seattle Seahawks,1995.1763599726512,2075.886554275392,0.3859,0.6141,jax,sea,jax,sea,1,14,2017,30.0,24.0,0
+Pittsburgh Steelers,Baltimore Ravens,2199.8084229185115,1999.4279716795581,0.7601,0.2399,pit,rav,pit,rav,1,14,2017,39.0,38.0,1
+Miami Dolphins,New England Patriots,1956.5510300554042,2200.8102814528042,0.1969,0.8031,mia,nwe,mia,nwe,1,14,2017,27.0,20.0,0
+Indianapolis Colts,Denver Broncos,1859.4517666112679,1914.289569568688,0.4217,0.5783,clt,den,den,clt,0,15,2017,13.0,25.0,1
+Detroit Lions,Chicago Bears,2023.7855540949338,1801.7161747021203,0.7822,0.2178,det,chi,det,chi,1,15,2017,20.0,10.0,1
+Kansas City Chiefs,Los Angeles Chargers,2159.185720426356,1945.839327950677,0.7735,0.2265,kan,sdg,kan,sdg,1,15,2017,30.0,13.0,1
+Washington Redskins,Arizona Cardinals,1944.5556836175253,1918.063582467329,0.5381,0.4619,was,crd,was,crd,1,15,2017,20.0,15.0,1
+New York Giants,Philadelphia Eagles,1897.9226643814764,2098.44267002986,0.2397,0.7603,nyg,phi,phi,nyg,0,15,2017,29.0,34.0,1
+New Orleans Saints,New York Jets,2114.9535023073827,1847.9958440986825,0.823,0.177,nor,nyj,nor,nyj,1,15,2017,31.0,19.0,1
+Minnesota Vikings,Cincinnati Bengals,2137.831937237293,1858.7475369957176,0.8329,0.1671,min,cin,min,cin,1,15,2017,34.0,7.0,1
+Jacksonville Jaguars,Houston Texans,2019.7616531904039,1857.790986292517,0.7176,0.2824,jax,htx,jax,htx,1,15,2017,45.0,7.0,1
+Cleveland Browns,Baltimore Ravens,1470.0052452795167,1984.9395303993113,0.0491,0.9509,cle,rav,rav,cle,0,15,2017,10.0,27.0,1
+Carolina Panthers,Green Bay Packers,2121.018324647212,1999.2320686478934,0.6684,0.3316,car,gnb,car,gnb,1,15,2017,31.0,24.0,1
+Buffalo Bills,Miami Dolphins,2021.2455329626434,1940.8464101341049,0.6137,0.3863,buf,mia,buf,mia,1,15,2017,24.0,16.0,1
+Seattle Seahawks,Los Angeles Rams,2115.3727205126124,1991.3208129497475,0.6713,0.3287,sea,ram,ram,sea,0,15,2017,7.0,42.0,0
+San Francisco 49ers,Tennessee Titans,1693.2537958755702,1943.0538434537193,0.1919,0.8081,sfo,oti,sfo,oti,1,15,2017,25.0,23.0,0
+Pittsburgh Steelers,New England Patriots,2204.3812121082647,2191.191841011803,0.519,0.481,pit,nwe,nwe,pit,0,15,2017,24.0,27.0,0
+Oakland Raiders,Dallas Cowboys,2006.366240764628,2031.2522295034942,0.4642,0.5358,rai,dal,dal,rai,0,15,2017,17.0,20.0,1
+Tampa Bay Buccaneers,Atlanta Falcons,1901.539983756175,2100.9919869593114,0.2408,0.7592,tam,atl,atl,tam,0,15,2017,21.0,24.0,1
+Baltimore Ravens,Indianapolis Colts,2040.9411783624369,1781.9421574879161,0.8162,0.1838,rav,clt,rav,clt,1,16,2017,23.0,16.0,1
+Green Bay Packers,Minnesota Vikings,2033.2060885039639,2087.8356833257085,0.422,0.578,gnb,min,min,gnb,0,16,2017,0.0,16.0,1
+Carolina Panthers,Tampa Bay Buccaneers,2131.417550202471,1828.3048321597419,0.8513,0.1487,car,tam,car,tam,1,16,2017,22.0,19.0,1
+Washington Redskins,Denver Broncos,1959.905238282327,1930.7507178447065,0.5419,0.4581,was,den,was,den,1,16,2017,27.0,11.0,1
+Tennessee Titans,Los Angeles Rams,1992.2826604335958,2034.6564283511436,0.4393,0.5607,oti,ram,ram,oti,0,16,2017,23.0,27.0,1
+New York Jets,Los Angeles Chargers,1880.3442362725343,1921.6339935945223,0.4409,0.5591,nyj,sdg,sdg,nyj,0,16,2017,7.0,14.0,1
+New England Patriots,Buffalo Bills,2261.6608288178336,1979.5882347534762,0.8353,0.1647,nwe,buf,nwe,buf,1,16,2017,37.0,16.0,1
+New Orleans Saints,Atlanta Falcons,2119.8112500388384,2106.7961819220577,0.5187,0.4813,nor,atl,nor,atl,1,16,2017,23.0,13.0,1
+Kansas City Chiefs,Miami Dolphins,2166.2736431563744,1919.7517655333024,0.8052,0.1948,kan,mia,kan,mia,1,16,2017,29.0,13.0,1
+Cincinnati Bengals,Detroit Lions,1889.0634721857534,1975.083551106141,0.3787,0.6213,cin,det,cin,det,1,16,2017,26.0,17.0,0
+Chicago Bears,Cleveland Browns,1834.2647701050669,1394.4229464658251,0.9264,0.0736,chi,cle,chi,cle,1,16,2017,20.0,3.0,1
+San Francisco 49ers,Jacksonville Jaguars,1717.2851061011559,1975.7385963888494,0.1843,0.8157,sfo,jax,sfo,jax,1,16,2017,44.0,33.0,0
+Dallas Cowboys,Seattle Seahawks,2099.5483794804904,2039.2180215658184,0.586,0.414,dal,sea,sea,dal,0,16,2017,12.0,21.0,0
+Arizona Cardinals,New York Giants,1955.1173467858875,1822.904009546958,0.6816,0.3184,crd,nyg,crd,nyg,1,16,2017,23.0,0.0,1
+Houston Texans,Pittsburgh Steelers,1884.9970612168067,2135.049547529959,0.1916,0.8084,htx,pit,pit,htx,0,16,2017,6.0,34.0,1
+Philadelphia Eagles,Oakland Raiders,2159.709824139504,1936.0092997886125,0.7838,0.2162,phi,rai,phi,rai,1,16,2017,19.0,10.0,1
+Indianapolis Colts,Houston Texans,1815.7555604588254,1804.814470632817,0.5157,0.4843,clt,htx,clt,htx,1,17,2017,22.0,13.0,1
+Pittsburgh Steelers,Cleveland Browns,2195.968931091904,1373.0824293573064,0.9913,0.0087,pit,cle,pit,cle,1,17,2017,28.0,24.0,1
+Philadelphia Eagles,Dallas Cowboys,2165.788519880622,2026.5607899930214,0.6903,0.3097,phi,dal,dal,phi,0,17,2017,0.0,6.0,0
+New York Giants,Washington Redskins,1851.8768363459465,1924.7922902733217,0.3966,0.6034,nyg,was,nyg,was,1,17,2017,18.0,10.0,0
+New England Patriots,New York Jets,2266.3744040586057,1805.6082483394146,0.9342,0.0658,nwe,nyj,nwe,nyj,1,17,2017,26.0,6.0,1
+Minnesota Vikings,Chicago Bears,2160.2266223447677,1781.024670180148,0.8987,0.1013,min,chi,min,chi,1,17,2017,23.0,10.0,1
+Detroit Lions,Green Bay Packers,2012.9463948730365,1954.36244528184,0.5835,0.4165,det,gnb,det,gnb,1,17,2017,35.0,11.0,1
+Denver Broncos,Kansas City Chiefs,1962.2375279244618,2117.056685291458,0.2909,0.7091,den,kan,kan,den,0,17,2017,24.0,27.0,1
+Atlanta Falcons,Carolina Panthers,2140.887490204547,2079.7794470274002,0.587,0.413,atl,car,atl,car,1,17,2017,22.0,10.0,1
+Tampa Bay Buccaneers,New Orleans Saints,1864.3626801425905,2084.217002632488,0.22,0.78,tam,nor,tam,nor,1,17,2017,31.0,24.0,0
+Seattle Seahawks,Arizona Cardinals,2119.7054934892403,1912.3099250141536,0.7674,0.2326,sea,crd,crd,sea,0,17,2017,24.0,26.0,0
+Los Angeles Chargers,Oakland Raiders,1992.1839465920693,1913.9719190213202,0.6107,0.3893,sdg,rai,sdg,rai,1,17,2017,30.0,10.0,1
+Baltimore Ravens,Cincinnati Bengals,2045.6976719307913,1862.1376175269625,0.7421,0.2579,rav,cin,cin,rav,0,17,2017,27.0,31.0,0
+Los Angeles Rams,San Francisco 49ers,2103.0650878620845,1708.3096009143806,0.9066,0.0934,ram,sfo,sfo,ram,0,17,2017,13.0,34.0,0
+Tennessee Titans,Jacksonville Jaguars,1975.0862701486685,1965.354342761215,0.514,0.486,oti,jax,oti,jax,1,17,2017,15.0,10.0,1
+Miami Dolphins,Buffalo Bills,1951.0496949854514,1955.6826524910775,0.4933,0.5067,mia,buf,buf,mia,0,17,2017,16.0,22.0,1
+Kansas City Chiefs,Tennessee Titans,2842.232095736206,2525.7721541781407,0.8608,0.1392,kan,oti,oti,kan,0,18,2017,21.0,22.0,0
+Los Angeles Rams,Atlanta Falcons,2734.0646762836673,2741.2801045130136,0.4896,0.5104,ram,atl,atl,ram,0,18,2017,13.0,26.0,1
+Jacksonville Jaguars,Buffalo Bills,2612.068404087098,2573.682960686753,0.555,0.445,jax,buf,jax,buf,1,18,2017,10.0,3.0,1
+New Orleans Saints,Carolina Panthers,2776.0900825278495,2682.8581190368286,0.631,0.369,nor,car,nor,car,1,18,2017,31.0,26.0,1
+Philadelphia Eagles,Atlanta Falcons,2807.3770778308813,2768.735864121445,0.5554,0.4446,phi,atl,phi,atl,1,19,2017,15.0,10.0,1
+New England Patriots,Tennessee Titans,2957.739777842282,2547.171173630061,0.914,0.086,nwe,oti,nwe,oti,1,19,2017,35.0,14.0,1
+Pittsburgh Steelers,Jacksonville Jaguars,2864.1783981906633,2561.063815440309,0.8513,0.1487,pit,jax,jax,pit,0,19,2017,42.0,45.0,0
+Minnesota Vikings,New Orleans Saints,2820.5173519842297,2719.0646286362025,0.642,0.358,min,nor,min,nor,1,19,2017,29.0,24.0,1
+New England Patriots,Jacksonville Jaguars,2960.4374585528985,2602.01920109628,0.8873,0.1127,nwe,jax,nwe,jax,1,20,2017,24.0,20.0,1
+Philadelphia Eagles,Minnesota Vikings,2826.338285592517,2762.898486105651,0.5903,0.4097,phi,min,phi,min,1,20,2017,38.0,7.0,1
+New England Patriots,Philadelphia Eagles,2963.6768377100966,2779.206052866244,0.7431,0.2569,nwe,phi,phi,nwe,0,21,2017,33.0,41.0,0
+Philadelphia Eagles,Atlanta Falcons,2148.93554688,2052.0,0.636,0.364,phi,atl,phi,atl,1,1,2018,18.0,12.0,1
+Cleveland Browns,Pittsburgh Steelers,1595.93554688,2073.0,0.0603,0.9397,cle,pit,,,0,1,2018,21.0,21.0,0
+Baltimore Ravens,Buffalo Bills,2022.93554688,1949.0,0.6048,0.3952,rav,buf,rav,buf,1,1,2018,47.0,3.0,1
+New York Giants,Jacksonville Jaguars,1914.93554688,1964.0,0.4299,0.5701,nyg,jax,jax,nyg,0,1,2018,15.0,20.0,1
+New England Patriots,Houston Texans,2174.93554688,1834.0,0.8768,0.1232,nwe,htx,nwe,htx,1,1,2018,27.0,20.0,1
+New Orleans Saints,Tampa Bay Buccaneers,2079.93554688,1876.0,0.7639,0.2361,nor,tam,tam,nor,0,1,2018,40.0,48.0,0
+Minnesota Vikings,San Francisco 49ers,2097.93554688,1826.0,0.8271,0.1729,min,sfo,min,sfo,1,1,2018,24.0,16.0,1
+Miami Dolphins,Tennessee Titans,1952.93554688,1934.0,0.5272,0.4728,mia,oti,mia,oti,1,1,2018,27.0,20.0,1
+Indianapolis Colts,Cincinnati Bengals,1885.93554688,1906.0,0.4712,0.5288,clt,cin,cin,clt,0,1,2018,23.0,34.0,1
+Los Angeles Chargers,Kansas City Chiefs,2003.93554688,2063.0,0.4158,0.5842,sdg,kan,kan,sdg,0,1,2018,28.0,38.0,1
+Carolina Panthers,Dallas Cowboys,2060.93554688,2019.0,0.5601,0.4399,car,dal,car,dal,1,1,2018,16.0,8.0,1
+Denver Broncos,Seattle Seahawks,1959.93554688,2020.0,0.4144,0.5856,den,sea,den,sea,1,1,2018,27.0,24.0,0
+Arizona Cardinals,Washington Redskins,1990.93554688,1918.0,0.6034,0.3966,crd,was,was,crd,0,1,2018,6.0,24.0,0
+Green Bay Packers,Chicago Bears,1986.93554688,1817.0,0.7268,0.2732,gnb,chi,gnb,chi,1,1,2018,24.0,23.0,1
+Detroit Lions,New York Jets,2019.93554688,1834.0,0.7447,0.2553,det,nyj,nyj,det,0,1,2018,17.0,48.0,0
+Oakland Raiders,Los Angeles Rams,1959.93554688,1994.0,0.4511,0.5489,rai,ram,ram,rai,0,1,2018,13.0,33.0,1
+Cincinnati Bengals,Baltimore Ravens,1980.0654615318465,1986.7986856745354,0.4903,0.5097,cin,rav,cin,rav,1,2,2018,34.0,23.0,0
+Buffalo Bills,Los Angeles Chargers,1975.1667080744357,1927.2030679208042,0.5686,0.4314,buf,sdg,sdg,buf,0,2,2018,20.0,31.0,0
+Atlanta Falcons,Carolina Panthers,2086.90601573459,2022.0552155715775,0.5923,0.4077,atl,car,atl,car,1,2,2018,31.0,24.0,1
+Washington Redskins,Indianapolis Colts,2004.4963691246344,1809.5316237947868,0.7544,0.2456,was,clt,clt,was,0,2,2018,9.0,21.0,0
+Tampa Bay Buccaneers,Philadelphia Eagles,1968.6261564345411,2105.4634423536627,0.3127,0.6873,tam,phi,tam,phi,1,2,2018,27.0,21.0,0
+Pittsburgh Steelers,Kansas City Chiefs,2127.93554688,2078.5138041056653,0.5706,0.4294,pit,kan,kan,pit,0,2,2018,37.0,42.0,0
+Tennessee Titans,Houston Texans,1969.641047452272,1813.280430297024,0.711,0.289,oti,htx,oti,htx,1,2,2018,20.0,17.0,1
+New York Jets,Miami Dolphins,1939.4309206132887,1915.3035647371582,0.5347,0.4653,nyj,mia,mia,nyj,0,2,2018,12.0,20.0,0
+New Orleans Saints,Cleveland Browns,2068.2864397772023,1541.0,0.9541,0.0459,nor,cle,nor,cle,1,2,2018,21.0,18.0,1
+Green Bay Packers,Minnesota Vikings,1992.143075044404,2047.480602941827,0.421,0.579,gnb,min,,,0,2,2018,29.0,29.0,0
+San Francisco 49ers,Detroit Lions,1859.5017314191252,1947.6890440256363,0.3757,0.6243,sfo,det,sfo,det,1,2,2018,30.0,27.0,0
+Los Angeles Rams,Arizona Cardinals,2069.15389287547,1915.2558466983394,0.708,0.292,ram,crd,ram,crd,1,2,2018,34.0,0.0,1
+Jacksonville Jaguars,New England Patriots,2032.7996694731455,2122.9113263998706,0.3732,0.6268,jax,nwe,jax,nwe,1,2,2018,31.0,20.0,0
+Denver Broncos,Oakland Raiders,1978.279011692905,1880.3982484661644,0.6372,0.3628,den,rai,den,rai,1,2,2018,20.0,19.0,1
+Dallas Cowboys,New York Giants,2053.4933412840905,1841.6144771101365,0.772,0.228,dal,nyg,dal,nyg,1,2,2018,20.0,13.0,1
+Chicago Bears,Seattle Seahawks,1858.081844574404,2007.0192421132722,0.2979,0.7021,chi,sea,chi,sea,1,2,2018,24.0,17.0,0
+Cleveland Browns,New York Jets,1576.8321579871372,1865.764730748417,0.1593,0.8407,cle,nyj,cle,nyj,1,3,2018,21.0,17.0,0
+Carolina Panthers,Cincinnati Bengals,2056.7439279373584,1946.7197892819372,0.6532,0.3468,car,cin,car,cin,1,3,2018,31.0,21.0,1
+Atlanta Falcons,New Orleans Saints,2100.8425925224456,2014.2699218775842,0.6221,0.3779,atl,nor,nor,atl,0,3,2018,37.0,43.0,0
+Washington Redskins,Green Bay Packers,1991.0390433070345,1937.207528164404,0.5769,0.4231,was,gnb,was,gnb,1,3,2018,31.0,17.0,1
+Baltimore Ravens,Denver Broncos,2020.9661032017132,1930.258879227421,0.6277,0.3723,rav,den,rav,den,1,3,2018,27.0,14.0,1
+Philadelphia Eagles,Indianapolis Colts,2147.098393633661,1850.8679698729518,0.8462,0.1538,phi,clt,phi,clt,1,3,2018,20.0,16.0,1
+Minnesota Vikings,Buffalo Bills,2102.4161498218273,1900.796532294835,0.7614,0.2386,min,buf,buf,min,0,3,2018,6.0,27.0,0
+Miami Dolphins,Oakland Raiders,1991.7634503319894,1868.2524324106805,0.6706,0.3294,mia,rai,mia,rai,1,3,2018,28.0,20.0,1
+Kansas City Chiefs,San Francisco 49ers,2154.3139227774136,1824.6278375493564,0.8696,0.1304,kan,sfo,kan,sfo,1,3,2018,38.0,27.0,1
+Jacksonville Jaguars,Tennessee Titans,2062.7044694016095,1921.963201256673,0.6921,0.3079,jax,oti,oti,jax,0,3,2018,6.0,9.0,0
+Houston Texans,New York Giants,1850.360526704328,1820.3705199630176,0.5431,0.4569,htx,nyg,nyg,htx,0,3,2018,22.0,27.0,0
+Los Angeles Rams,Los Angeles Chargers,2080.450942907971,1952.8185755524987,0.6758,0.3242,ram,sdg,ram,sdg,1,3,2018,35.0,23.0,1
+Seattle Seahawks,Dallas Cowboys,2048.518566037389,2004.831916463084,0.5625,0.4375,sea,dal,sea,dal,1,3,2018,24.0,13.0,1
+Arizona Cardinals,Chicago Bears,1942.799916102275,1834.8132065138923,0.6506,0.3494,crd,chi,chi,crd,0,3,2018,14.0,16.0,0
+Detroit Lions,New England Patriots,1990.5516083076163,2105.1058520327633,0.3409,0.6591,det,nwe,det,nwe,1,3,2018,26.0,10.0,0
+Tampa Bay Buccaneers,Pittsburgh Steelers,1997.8602445569622,2057.2985504252074,0.4153,0.5847,tam,pit,pit,tam,0,3,2018,27.0,30.0,1
+Los Angeles Rams,Minnesota Vikings,2091.6089622314585,2032.3898551219752,0.5844,0.4156,ram,min,ram,min,1,4,2018,38.0,31.0,1
+Chicago Bears,Tampa Bay Buccaneers,1907.7424708617184,1926.6946026291391,0.4728,0.5272,chi,tam,chi,tam,1,4,2018,48.0,10.0,0
+Atlanta Falcons,Cincinnati Bengals,2085.6102374971288,1924.3265785564752,0.7168,0.2832,atl,cin,cin,atl,0,4,2018,36.0,37.0,0
+Tennessee Titans,Philadelphia Eagles,2000.1217682856113,2095.719520189509,0.3658,0.6342,oti,phi,oti,phi,1,4,2018,26.0,23.0,0
+New England Patriots,Miami Dolphins,2141.668942783958,1947.407429105404,0.7537,0.2463,nwe,mia,nwe,mia,1,4,2018,38.0,7.0,1
+Jacksonville Jaguars,New York Jets,2052.3730607845628,1859.1894181163193,0.7525,0.2475,jax,nyj,jax,nyj,1,4,2018,31.0,12.0,1
+Green Bay Packers,Buffalo Bills,1968.8682075354125,1948.9528415573468,0.5286,0.4714,gnb,buf,gnb,buf,1,4,2018,22.0,0.0,1
+Dallas Cowboys,Detroit Lions,2037.7973549162982,1971.1375804493107,0.5948,0.4052,dal,det,dal,det,1,4,2018,26.0,24.0,1
+Indianapolis Colts,Houston Texans,1886.2348752613113,1779.103424391043,0.6495,0.3505,clt,htx,htx,clt,0,4,2018,34.0,37.0,0
+Oakland Raiders,Cleveland Browns,1901.649940726079,1556.597586184378,0.8793,0.1207,rai,cle,rai,cle,1,4,2018,45.0,42.0,1
+Arizona Cardinals,Seattle Seahawks,1933.1365209543214,2010.6708812671116,0.3902,0.6098,crd,sea,sea,crd,0,4,2018,17.0,20.0,1
+Los Angeles Chargers,San Francisco 49ers,1984.4950556255499,1802.8692266478367,0.7399,0.2601,sdg,sfo,sdg,sfo,1,4,2018,29.0,27.0,1
+New York Giants,New Orleans Saints,1894.7068914344318,2039.3454658343176,0.3031,0.6969,nyg,nor,nor,nyg,0,4,2018,18.0,33.0,1
+Pittsburgh Steelers,Baltimore Ravens,2123.7619893410565,1979.903714033065,0.696,0.304,pit,rav,rav,pit,0,4,2018,14.0,26.0,0
+Denver Broncos,Kansas City Chiefs,1961.8042002266382,2102.6411666765744,0.3077,0.6923,den,kan,kan,den,0,4,2018,23.0,27.0,1
+New England Patriots,Indianapolis Colts,2150.3345276477953,1819.851175989336,0.8702,0.1298,nwe,clt,nwe,clt,1,5,2018,38.0,24.0,1
+Carolina Panthers,New York Giants,2068.6330361424875,1815.5841203311065,0.811,0.189,car,nyg,car,nyg,1,5,2018,33.0,31.0,1
+Buffalo Bills,Tennessee Titans,1979.1310473065212,1965.697486437041,0.5193,0.4807,buf,oti,buf,oti,1,5,2018,13.0,12.0,1
+Pittsburgh Steelers,Atlanta Falcons,2107.945619065784,2025.2765501480249,0.6168,0.3832,pit,atl,pit,atl,1,5,2018,41.0,17.0,1
+New York Jets,Denver Broncos,1889.3285275115509,1888.043602785924,0.5018,0.4982,nyj,den,nyj,den,1,5,2018,34.0,16.0,1
+Kansas City Chiefs,Jacksonville Jaguars,2165.9437048284676,2005.593152811513,0.7157,0.2843,kan,jax,kan,jax,1,5,2018,30.0,14.0,1
+Detroit Lions,Green Bay Packers,2011.5511868190017,1936.0110008163495,0.607,0.393,det,gnb,det,gnb,1,5,2018,31.0,23.0,1
+Cleveland Browns,Baltimore Ravens,1592.5501035587442,2016.1148775580314,0.0803,0.9197,cle,rav,cle,rav,1,5,2018,12.0,9.0,0
+Cincinnati Bengals,Miami Dolphins,1992.9252154373712,1920.889965394993,0.6022,0.3978,cin,mia,cin,mia,1,5,2018,27.0,17.0,1
+Los Angeles Chargers,Oakland Raiders,1990.3467161388035,1849.3201616856445,0.6925,0.3075,sdg,rai,sdg,rai,1,5,2018,26.0,10.0,1
+San Francisco 49ers,Arizona Cardinals,1841.1587004261207,1861.5946745783738,0.4706,0.5294,sfo,crd,crd,sfo,0,5,2018,18.0,28.0,1
+Seattle Seahawks,Los Angeles Rams,2076.2324990938464,2051.0018211940583,0.5362,0.4638,sea,ram,ram,sea,0,5,2018,31.0,33.0,0
+Philadelphia Eagles,Minnesota Vikings,2138.8243815625756,2012.2418272720822,0.6745,0.3255,phi,min,min,phi,0,5,2018,21.0,23.0,0
+Houston Texans,Dallas Cowboys,1855.253165218512,1992.754696897726,0.3118,0.6882,htx,dal,htx,dal,1,5,2018,19.0,16.0,0
+New Orleans Saints,Washington Redskins,2104.800667847177,1953.1733463889939,0.7053,0.2947,nor,was,nor,was,1,5,2018,43.0,19.0,1
+New York Giants,Philadelphia Eagles,1853.0358506472728,2074.783660579999,0.2181,0.7819,nyg,phi,phi,nyg,0,6,2018,13.0,34.0,1
+Cincinnati Bengals,Pittsburgh Steelers,2007.4531555829049,2069.2096886035383,0.412,0.588,cin,pit,pit,cin,0,6,2018,21.0,28.0,1
+Atlanta Falcons,Tampa Bay Buccaneers,2054.1371403305543,1900.3995340151948,0.7079,0.2921,atl,tam,atl,tam,1,6,2018,34.0,29.0,1
+Washington Redskins,Carolina Panthers,1982.0738341244148,2017.7720161805696,0.4488,0.5512,was,car,was,car,1,6,2018,23.0,17.0,0
+Oakland Raiders,Seattle Seahawks,1879.8019523078972,2009.1706078276613,0.322,0.678,rai,sea,sea,rai,0,6,2018,3.0,27.0,1
+New York Jets,Indianapolis Colts,1912.499352315713,1797.5821939850111,0.6596,0.3404,nyj,clt,nyj,clt,1,6,2018,42.0,34.0,1
+Minnesota Vikings,Arizona Cardinals,2086.045085157268,1880.2849836814664,0.7657,0.2343,min,crd,min,crd,1,6,2018,27.0,17.0,1
+Miami Dolphins,Chicago Bears,1953.8327381280837,1882.1274827238324,0.6018,0.3982,mia,chi,mia,chi,1,6,2018,31.0,28.0,1
+Houston Texans,Buffalo Bills,1878.2891181330288,1933.3582339134502,0.4214,0.5786,htx,buf,htx,buf,1,6,2018,20.0,13.0,0
+Cleveland Browns,Los Angeles Chargers,1627.7935392082052,1946.2696964057454,0.1378,0.8622,cle,sdg,sdg,cle,0,6,2018,14.0,38.0,1
+Denver Broncos,Los Angeles Rams,1919.6408921654652,2065.021109378345,0.3022,0.6978,den,ram,ram,den,0,6,2018,20.0,23.0,1
+Tennessee Titans,Baltimore Ravens,2010.73453633397,2013.0377351391428,0.4967,0.5033,oti,rav,rav,oti,0,6,2018,0.0,21.0,1
+Dallas Cowboys,Jacksonville Jaguars,2037.25343744418,1981.1976682720463,0.58,0.42,dal,jax,dal,jax,1,6,2018,40.0,7.0,1
+New England Patriots,Kansas City Chiefs,2153.6561937753077,2120.698861112601,0.5473,0.4527,nwe,kan,nwe,kan,1,6,2018,43.0,40.0,1
+Green Bay Packers,San Francisco 49ers,1969.921002926369,1765.1975487029902,0.7647,0.2353,gnb,sfo,gnb,sfo,1,6,2018,33.0,30.0,1
+Arizona Cardinals,Denver Broncos,1912.7513074752167,1846.9885025970673,0.5935,0.4065,crd,den,den,crd,0,7,2018,10.0,45.0,0
+Los Angeles Chargers,Tennessee Titans,2004.9821795119315,1931.6980181665106,0.6039,0.3961,sdg,oti,sdg,oti,1,7,2018,20.0,19.0,1
+Indianapolis Colts,Buffalo Bills,1831.0454073612639,1916.2821203810659,0.3797,0.6203,clt,buf,clt,buf,1,7,2018,37.0,5.0,0
+Chicago Bears,New England Patriots,1920.5737711926859,2111.6412376415633,0.2498,0.7502,chi,nwe,nwe,chi,0,7,2018,31.0,38.0,1
+Tampa Bay Buccaneers,Cleveland Browns,1935.498140445831,1549.2261025298192,0.9023,0.0977,tam,cle,tam,cle,1,7,2018,26.0,23.0,1
+Philadelphia Eagles,Carolina Panthers,2136.636921725459,2000.7685813060125,0.6861,0.3139,phi,car,car,phi,0,7,2018,17.0,21.0,0
+New York Jets,Minnesota Vikings,1923.5805868892053,2037.9849972939955,0.3411,0.6589,nyj,min,min,nyj,0,7,2018,17.0,37.0,1
+Miami Dolphins,Detroit Lions,1964.7433773758714,1970.228554427638,0.4921,0.5079,mia,det,det,mia,0,7,2018,21.0,32.0,1
+Jacksonville Jaguars,Houston Texans,2008.8423128755467,1846.7997964306214,0.7176,0.2824,jax,htx,htx,jax,0,7,2018,7.0,20.0,0
+Baltimore Ravens,New Orleans Saints,2091.758206395223,2060.743515877013,0.5445,0.4555,rav,nor,nor,rav,0,7,2018,23.0,24.0,0
+Washington Redskins,Dallas Cowboys,2002.9568405924538,2002.0802680747488,0.5013,0.4987,was,dal,was,dal,1,7,2018,20.0,17.0,1
+San Francisco 49ers,Los Angeles Rams,1801.7889942611305,2072.6938377538595,0.1737,0.8263,sfo,ram,ram,sfo,0,7,2018,10.0,39.0,1
+Kansas City Chiefs,Cincinnati Bengals,2160.0138219192067,1932.3239808557744,0.7876,0.2124,kan,cin,kan,cin,1,7,2018,45.0,10.0,1
+Atlanta Falcons,New York Giants,2062.3224352948982,1773.2999333676237,0.8407,0.1593,atl,nyg,atl,nyg,1,7,2018,23.0,20.0,1
+Houston Texans,Miami Dolphins,1940.5901377934124,1888.7027754942624,0.5741,0.4259,htx,mia,htx,mia,1,8,2018,42.0,23.0,1
+Jacksonville Jaguars,Philadelphia Eagles,1993.5516300969232,2070.027099959196,0.3917,0.6083,jax,phi,phi,jax,0,8,2018,18.0,24.0,1
+Chicago Bears,New York Jets,1899.3231013797342,1843.2517984866527,0.58,0.42,chi,nyj,chi,nyj,1,8,2018,24.0,10.0,1
+Carolina Panthers,Baltimore Ravens,2081.2209169705466,2028.140269036138,0.5758,0.4242,car,rav,car,rav,1,8,2018,36.0,21.0,1
+Pittsburgh Steelers,Cleveland Browns,2138.2945121383304,1530.1811151310148,0.9707,0.0293,pit,cle,pit,cle,1,8,2018,33.0,18.0,1
+New York Giants,Washington Redskins,1809.4062246888732,1962.7351670731955,0.2926,0.7074,nyg,was,was,nyg,0,8,2018,13.0,20.0,1
+Kansas City Chiefs,Denver Broncos,2167.119755603654,1882.1725566940627,0.8376,0.1624,kan,den,kan,den,1,8,2018,30.0,23.0,1
+Detroit Lions,Seattle Seahawks,2045.6126100028375,2021.5892536288436,0.5345,0.4655,det,sea,sea,det,0,8,2018,14.0,28.0,0
+Cincinnati Bengals,Tampa Bay Buccaneers,1960.9100297608645,1882.624762765502,0.6108,0.3892,cin,tam,cin,tam,1,8,2018,37.0,34.0,1
+Oakland Raiders,Indianapolis Colts,1853.6533751240415,1813.352044190508,0.5577,0.4423,rai,clt,clt,rai,0,8,2018,28.0,42.0,0
+Los Angeles Rams,Green Bay Packers,2132.876884311414,1920.629979442516,0.7724,0.2276,ram,gnb,ram,gnb,1,8,2018,29.0,27.0,1
+Arizona Cardinals,San Francisco 49ers,1888.6530463287488,1721.8908165028163,0.7231,0.2769,crd,sfo,crd,sfo,1,8,2018,18.0,15.0,1
+Minnesota Vikings,New Orleans Saints,2106.0661424185587,2071.122355867928,0.5501,0.4499,min,nor,nor,min,0,8,2018,20.0,30.0,0
+Buffalo Bills,New England Patriots,1948.4208638523926,2118.7172404665102,0.2728,0.7272,buf,nwe,nwe,buf,0,8,2018,6.0,25.0,1
+San Francisco 49ers,Oakland Raiders,1758.850266412853,1777.8786015500575,0.4726,0.5274,sfo,rai,sfo,rai,1,9,2018,34.0,3.0,0
+Carolina Panthers,Tampa Bay Buccaneers,2098.595263360994,1866.0040216020725,0.7923,0.2077,car,tam,car,tam,1,9,2018,42.0,28.0,1
+Buffalo Bills,Chicago Bears,1923.4255239778977,1861.2668404461954,0.5885,0.4115,buf,chi,chi,buf,0,9,2018,9.0,41.0,0
+Washington Redskins,Atlanta Falcons,2026.4236048786236,2010.9547490197617,0.5222,0.4778,was,atl,atl,was,0,9,2018,14.0,38.0,0
+Baltimore Ravens,Pittsburgh Steelers,2059.492250023588,2083.961773508107,0.4648,0.5352,rav,pit,pit,rav,0,9,2018,16.0,23.0,1
+Minnesota Vikings,Detroit Lions,2086.6281331493074,1969.2880142983179,0.6627,0.3373,min,det,min,det,1,9,2018,24.0,9.0,1
+Miami Dolphins,New York Jets,1918.972282144327,1819.9423083701113,0.6388,0.3612,mia,nyj,mia,nyj,1,9,2018,13.0,6.0,1
+Cleveland Browns,Kansas City Chiefs,1565.1458098588703,2116.25799333673,0.0402,0.9598,cle,kan,kan,cle,0,9,2018,21.0,37.0,1
+Seattle Seahawks,Los Angeles Chargers,2101.0842991054187,1957.5967860210985,0.6955,0.3045,sea,sdg,sdg,sea,0,9,2018,17.0,25.0,0
+Denver Broncos,Houston Texans,1916.0970075647497,1903.9532610648312,0.5175,0.4825,den,htx,htx,den,0,9,2018,17.0,19.0,0
+New Orleans Saints,Los Angeles Rams,2149.8250707830803,2082.9640906765244,0.5951,0.4049,nor,ram,nor,ram,1,9,2018,45.0,35.0,1
+New England Patriots,Green Bay Packers,2183.029477002399,1903.5843968128008,0.8332,0.1668,nwe,gnb,nwe,gnb,1,9,2018,31.0,17.0,1
+Dallas Cowboys,Tennessee Titans,2042.225230002393,1920.1869410856775,0.6687,0.3313,dal,oti,oti,dal,0,9,2018,14.0,28.0,0
+Pittsburgh Steelers,Carolina Panthers,2155.770179794664,2049.7887990884815,0.648,0.352,pit,car,pit,car,1,10,2018,52.0,21.0,1
+Cincinnati Bengals,New Orleans Saints,1971.5007181380859,2109.8029359554293,0.3109,0.6891,cin,nor,nor,cin,0,10,2018,14.0,51.0,1
+Chicago Bears,Detroit Lions,1950.2990423022618,1945.1178600178057,0.5075,0.4925,chi,det,chi,det,1,10,2018,34.0,22.0,1
+Tampa Bay Buccaneers,Washington Redskins,1897.5593462870204,1947.2660530259946,0.429,0.571,tam,was,was,tam,0,10,2018,3.0,16.0,1
+Tennessee Titans,New England Patriots,2010.3625107281757,2132.6729044221747,0.3309,0.6691,oti,nwe,oti,nwe,1,10,2018,34.0,10.0,0
+New York Jets,Buffalo Bills,1854.1432637166054,1844.648390823214,0.5137,0.4863,nyj,buf,buf,nyj,0,10,2018,10.0,41.0,0
+Kansas City Chiefs,Arizona Cardinals,2172.0452077030372,1840.6011687213015,0.8708,0.1292,kan,crd,kan,crd,1,10,2018,26.0,14.0,1
+Indianapolis Colts,Jacksonville Jaguars,1894.5639571732322,1918.8834300990222,0.4651,0.5349,clt,jax,clt,jax,1,10,2018,29.0,26.0,0
+Cleveland Browns,Atlanta Falcons,1544.8117189793254,2037.4276058567373,0.0554,0.9446,cle,atl,cle,atl,1,10,2018,28.0,16.0,0
+Oakland Raiders,Los Angeles Chargers,1807.490947288733,1990.0269532479374,0.2591,0.7409,rai,sdg,sdg,rai,0,10,2018,6.0,20.0,1
+Los Angeles Rams,Seattle Seahawks,2115.980715569977,2031.9503540649985,0.6186,0.3814,ram,sea,ram,sea,1,10,2018,36.0,31.0,1
+Green Bay Packers,Miami Dolphins,1935.6470337013554,1875.7608029880312,0.5853,0.4147,gnb,mia,gnb,mia,1,10,2018,31.0,12.0,1
+Philadelphia Eagles,Dallas Cowboys,2137.6690092036247,1969.8304046100322,0.7244,0.2756,phi,dal,dal,phi,0,10,2018,20.0,27.0,0
+San Francisco 49ers,New York Giants,1787.1098014994686,1733.30938238629,0.5768,0.4232,sfo,nyg,nyg,sfo,0,10,2018,23.0,27.0,0
+Seattle Seahawks,Green Bay Packers,2067.8566706820116,1898.2682735150813,0.7264,0.2736,sea,gnb,sea,gnb,1,11,2018,27.0,24.0,1
+Atlanta Falcons,Dallas Cowboys,2088.8284905328283,2003.1022928703262,0.6209,0.3791,atl,dal,dal,atl,0,11,2018,19.0,22.0,0
+Washington Redskins,Houston Texans,2019.3768330280966,1917.355767788333,0.6427,0.3573,was,htx,htx,was,0,11,2018,21.0,23.0,0
+Baltimore Ravens,Cincinnati Bengals,2040.0637767998587,1888.6841693381893,0.705,0.295,rav,cin,rav,cin,1,11,2018,24.0,21.0,1
+New York Giants,Tampa Bay Buccaneers,1808.0308237648298,1819.7635240859943,0.4831,0.5169,nyg,tam,nyg,tam,1,11,2018,38.0,35.0,0
+Jacksonville Jaguars,Pittsburgh Steelers,1959.7438794076393,2115.654448932466,0.2896,0.7104,jax,pit,pit,jax,0,11,2018,16.0,20.0,1
+Detroit Lions,Carolina Panthers,1978.5411521498015,2022.5068650557093,0.4371,0.5629,det,car,det,car,1,11,2018,20.0,19.0,0
+Indianapolis Colts,Tennessee Titans,1910.7513785684864,1995.3011176677064,0.3807,0.6193,clt,oti,clt,oti,1,11,2018,38.0,10.0,0
+Los Angeles Chargers,Denver Broncos,2053.2782923333366,1848.6654036913396,0.7646,0.2354,sdg,den,den,sdg,0,11,2018,22.0,23.0,0
+Arizona Cardinals,Oakland Raiders,1873.6092424346857,1728.7762786604492,0.6971,0.3029,crd,rai,rai,crd,0,11,2018,21.0,23.0,0
+New Orleans Saints,Philadelphia Eagles,2177.3175040179804,2070.0750796558486,0.6496,0.3504,nor,phi,nor,phi,1,11,2018,48.0,7.0,1
+Chicago Bears,Minnesota Vikings,1971.1754668606698,2043.9946732450383,0.3967,0.6033,chi,min,chi,min,1,11,2018,25.0,20.0,0
+Los Angeles Rams,Kansas City Chiefs,2127.71325424166,2120.363025008989,0.5106,0.4894,ram,kan,ram,kan,1,11,2018,54.0,51.0,1
+Detroit Lions,Chicago Bears,1989.2707187813646,1938.9054108697997,0.572,0.428,det,chi,chi,det,0,12,2018,16.0,23.0,0
+Dallas Cowboys,Washington Redskins,2077.946027498847,1954.5966935987608,0.6704,0.3296,dal,was,dal,was,1,12,2018,31.0,23.0,1
+New Orleans Saints,Atlanta Falcons,2192.687583867382,2021.7376948600047,0.7279,0.2721,nor,atl,nor,atl,1,12,2018,31.0,17.0,1
+Tampa Bay Buccaneers,San Francisco 49ers,1860.2613459490972,1717.6572807086122,0.6944,0.3056,tam,sfo,tam,sfo,1,12,2018,27.0,9.0,1
+Baltimore Ravens,Oakland Raiders,2047.509221787798,1748.4843285466454,0.8483,0.1517,rav,rai,rav,rai,1,12,2018,34.0,17.0,1
+Philadelphia Eagles,New York Giants,2096.5163232533964,1768.5431345980032,0.8685,0.1315,phi,nyg,phi,nyg,1,12,2018,25.0,22.0,1
+New York Jets,New England Patriots,1828.5220673957958,2112.953344567321,0.1628,0.8372,nyj,nwe,nwe,nyj,0,12,2018,13.0,27.0,1
+Cincinnati Bengals,Cleveland Browns,1925.8263646368428,1550.1440767529793,0.8968,0.1032,cin,cle,cle,cin,0,12,2018,20.0,35.0,0
+Carolina Panthers,Seattle Seahawks,2069.1107480972723,2019.7038487243378,0.5706,0.4294,car,sea,sea,car,0,12,2018,27.0,30.0,0
+Buffalo Bills,Jacksonville Jaguars,1926.648730115305,1885.8308782681074,0.5585,0.4415,buf,jax,buf,jax,1,12,2018,24.0,21.0,1
+Los Angeles Chargers,Arizona Cardinals,2048.7912786806987,1810.1102637507424,0.798,0.202,sdg,crd,sdg,crd,1,12,2018,45.0,10.0,1
+Denver Broncos,Pittsburgh Steelers,1918.1751673887015,2123.390753484212,0.2348,0.7652,den,pit,den,pit,1,12,2018,24.0,17.0,0
+Indianapolis Colts,Miami Dolphins,1946.9164168380503,1850.9814751562546,0.6347,0.3653,clt,mia,clt,mia,1,12,2018,27.0,24.0,1
+Minnesota Vikings,Green Bay Packers,2084.02652339751,1880.2603371715954,0.7637,0.2363,min,gnb,min,gnb,1,12,2018,24.0,17.0,1
+Houston Texans,Tennessee Titans,1989.9994580533262,1973.0695173621632,0.5243,0.4757,htx,oti,htx,oti,1,12,2018,34.0,17.0,1
+Dallas Cowboys,New Orleans Saints,2088.534589517323,2146.6630022813843,0.4171,0.5829,dal,nor,dal,nor,1,13,2018,13.0,10.0,0
+Cincinnati Bengals,Denver Broncos,1919.0819409691956,1899.5434645712699,0.5281,0.4719,cin,den,den,cin,0,13,2018,10.0,24.0,0
+Atlanta Falcons,Baltimore Ravens,2052.8353452405404,1996.708063936521,0.5801,0.4199,atl,rav,rav,atl,0,13,2018,16.0,26.0,0
+Tampa Bay Buccaneers,Carolina Panthers,1871.231765511668,2000.8594603400347,0.3217,0.6783,tam,car,tam,car,1,13,2018,24.0,17.0,0
+New York Giants,Chicago Bears,1804.5323895108227,1961.9441610007286,0.2878,0.7122,nyg,chi,nyg,chi,1,13,2018,30.0,27.0,0
+Miami Dolphins,Buffalo Bills,1888.9635871602165,1884.210564228815,0.5068,0.4932,mia,buf,mia,buf,1,13,2018,21.0,17.0,1
+Jacksonville Jaguars,Indianapolis Colts,1924.9571674247204,1901.7383770641109,0.5334,0.4666,jax,clt,jax,clt,1,13,2018,6.0,0.0,1
+Houston Texans,Cleveland Browns,2011.2875975144696,1608.7525956012933,0.9103,0.0897,htx,cle,htx,cle,1,13,2018,29.0,13.0,1
+Green Bay Packers,Arizona Cardinals,1913.9452150686764,1783.9752603341776,0.6788,0.3212,gnb,crd,crd,gnb,0,13,2018,17.0,20.0,0
+Detroit Lions,Los Angeles Rams,1972.0319337183619,2087.121878419766,0.3402,0.6598,det,ram,ram,det,0,13,2018,16.0,30.0,1
+Oakland Raiders,Kansas City Chiefs,1780.3005464018213,2105.3974881428903,0.1334,0.8666,rai,kan,kan,rai,0,13,2018,33.0,40.0,1
+Tennessee Titans,New York Jets,2004.542017112717,1750.772259950714,0.8117,0.1883,oti,nyj,oti,nyj,1,13,2018,26.0,22.0,1
+Seattle Seahawks,San Francisco 49ers,2092.333763896261,1692.7297304983729,0.9089,0.0911,sea,sfo,sea,sfo,1,13,2018,43.0,16.0,1
+New England Patriots,Minnesota Vikings,2172.325300453527,2035.6662457078514,0.6871,0.3129,nwe,min,nwe,min,1,13,2018,24.0,10.0,1
+Pittsburgh Steelers,Los Angeles Chargers,2167.1865426722475,2000.4713592319592,0.7231,0.2769,pit,sdg,sdg,pit,0,13,2018,30.0,33.0,0
+Philadelphia Eagles,Washington Redskins,2099.3849903733553,1933.059764056326,0.7226,0.2774,phi,was,phi,was,1,13,2018,28.0,13.0,1
+Tennessee Titans,Jacksonville Jaguars,2009.0681765602822,1886.3512607241948,0.6696,0.3304,oti,jax,oti,jax,1,14,2018,30.0,9.0,1
+Buffalo Bills,New York Jets,1922.880982295262,1731.2614600378695,0.7508,0.2492,buf,nyj,nyj,buf,0,14,2018,23.0,27.0,0
+Washington Redskins,New York Giants,1963.8747227814072,1773.7940804175364,0.7492,0.2508,was,nyg,nyg,was,0,14,2018,16.0,40.0,0
+Tampa Bay Buccaneers,New Orleans Saints,1901.226432620142,2133.621252009008,0.2079,0.7921,tam,nor,nor,tam,0,14,2018,14.0,28.0,1
+Miami Dolphins,New England Patriots,1904.7922405359948,2128.2790653045477,0.2164,0.7836,mia,nwe,mia,nwe,1,14,2018,34.0,33.0,0
+Kansas City Chiefs,Baltimore Ravens,2163.5358661460727,2022.5352067904587,0.6925,0.3075,kan,rav,kan,rav,1,14,2018,27.0,24.0,1
+Houston Texans,Indianapolis Colts,2013.4226173169204,1883.0709315610427,0.6793,0.3207,htx,clt,clt,htx,0,14,2018,21.0,24.0,0
+Green Bay Packers,Atlanta Falcons,1903.2569912448844,1979.205060756044,0.3924,0.6076,gnb,atl,gnb,atl,1,14,2018,34.0,20.0,0
+Cleveland Browns,Carolina Panthers,1642.0213807625519,1986.6337719885737,0.1209,0.8791,cle,car,cle,car,1,14,2018,26.0,20.0,0
+San Francisco 49ers,Denver Broncos,1725.138755309633,1923.6388740745952,0.2418,0.7582,sfo,den,sfo,den,1,14,2018,20.0,14.0,0
+Los Angeles Chargers,Cincinnati Bengals,2080.139526906671,1842.6151997233194,0.7969,0.2031,sdg,cin,sdg,cin,1,14,2018,26.0,21.0,1
+Oakland Raiders,Pittsburgh Steelers,1759.494148715541,2102.780019857998,0.1217,0.8783,rai,pit,rai,pit,1,14,2018,24.0,21.0,0
+Dallas Cowboys,Philadelphia Eagles,2106.760521509095,2053.709132331128,0.5758,0.4242,dal,phi,dal,phi,1,14,2018,29.0,23.0,1
+Arizona Cardinals,Detroit Lions,1861.498498159352,1893.228423762623,0.4545,0.5455,crd,det,det,crd,0,14,2018,3.0,17.0,1
+Chicago Bears,Los Angeles Rams,2007.1016047706244,2099.4284577443586,0.3702,0.6298,chi,ram,chi,ram,1,14,2018,15.0,6.0,0
+Seattle Seahawks,Minnesota Vikings,2094.591620822724,2011.7543055020851,0.617,0.383,sea,min,sea,min,1,14,2018,21.0,7.0,1
+Kansas City Chiefs,Los Angeles Chargers,2171.377287683312,2030.3407659835223,0.6925,0.3075,kan,sdg,sdg,kan,0,15,2018,28.0,29.0,0
+New York Jets,Houston Texans,1815.4036729660595,1947.8121266968722,0.3182,0.6818,nyj,htx,htx,nyj,0,15,2018,22.0,29.0,1
+Denver Broncos,Cleveland Browns,1967.7040259732933,1630.2366824416627,0.8746,0.1254,den,cle,cle,den,0,15,2018,16.0,17.0,0
+Baltimore Ravens,Tampa Bay Buccaneers,2059.8116173630183,1822.9085962970676,0.7964,0.2036,rav,tam,rav,tam,1,15,2018,20.0,12.0,1
+New York Giants,Tennessee Titans,1877.0125560803372,1966.7655122974998,0.3736,0.6264,nyg,oti,oti,nyg,0,15,2018,0.0,17.0,1
+Minnesota Vikings,Miami Dolphins,2043.041760261552,1864.7930738522869,0.7362,0.2638,min,mia,min,mia,1,15,2018,41.0,17.0,1
+Jacksonville Jaguars,Washington Redskins,1915.684573341214,1892.7761239276667,0.5329,0.4671,jax,was,was,jax,0,15,2018,13.0,16.0,0
+Indianapolis Colts,Dallas Cowboys,1960.6179199209766,2066.056457263925,0.3528,0.6472,clt,dal,clt,dal,1,15,2018,23.0,0.0,0
+Cincinnati Bengals,Oakland Raiders,1877.3956273073327,1737.4541204308466,0.6912,0.3088,cin,rai,cin,rai,1,15,2018,30.0,16.0,1
+Chicago Bears,Green Bay Packers,2035.7187032138652,1878.4740478944625,0.712,0.288,chi,gnb,chi,gnb,1,15,2018,24.0,17.0,1
+Buffalo Bills,Detroit Lions,1913.186921054973,1912.2829967613163,0.5013,0.4987,buf,det,buf,det,1,15,2018,14.0,13.0,1
+Atlanta Falcons,Arizona Cardinals,2014.6674647377451,1783.693271255618,0.7908,0.2092,atl,crd,atl,crd,1,15,2018,40.0,14.0,1
+San Francisco 49ers,Seattle Seahawks,1759.224501690208,2054.33552172581,0.1546,0.8454,sfo,sea,sfo,sea,1,15,2018,26.0,23.0,0
+Pittsburgh Steelers,New England Patriots,2153.157460609057,2124.1542150308396,0.5416,0.4584,pit,nwe,pit,nwe,1,15,2018,17.0,10.0,1
+Los Angeles Rams,Philadelphia Eagles,2137.542712398751,2034.3916224274615,0.6442,0.3558,ram,phi,phi,ram,0,15,2018,23.0,30.0,0
+Carolina Panthers,New Orleans Saints,2035.6349114168656,2139.75832810447,0.3545,0.6455,car,nor,nor,car,0,15,2018,9.0,12.0,1
+Tennessee Titans,Washington Redskins,2036.3601233566967,1908.8807014716024,0.6756,0.3244,oti,was,oti,was,1,16,2018,25.0,16.0,1
+Los Angeles Chargers,Baltimore Ravens,2098.4762149639973,2010.3999961463678,0.6241,0.3759,sdg,rav,rav,sdg,0,16,2018,10.0,22.0,0
+Carolina Panthers,Atlanta Falcons,2018.5389857718433,1966.437457108763,0.5744,0.4256,car,atl,atl,car,0,16,2018,10.0,24.0,0
+Philadelphia Eagles,Houston Texans,2116.9991264320633,1957.6329647106008,0.7145,0.2855,phi,htx,phi,htx,1,16,2018,32.0,30.0,1
+New York Jets,Green Bay Packers,1794.3607837210557,1857.296629104944,0.4104,0.5896,nyj,gnb,gnb,nyj,0,16,2018,38.0,44.0,1
+New England Patriots,Buffalo Bills,2159.5575279975883,1867.7572098103622,0.8429,0.1571,nwe,buf,nwe,buf,1,16,2018,24.0,12.0,1
+Miami Dolphins,Jacksonville Jaguars,1893.93099061273,1846.6329668425756,0.5676,0.4324,mia,jax,jax,mia,0,16,2018,7.0,17.0,0
+Detroit Lions,Minnesota Vikings,1957.6631488067053,1997.3501889663648,0.4431,0.5569,det,min,min,det,0,16,2018,9.0,27.0,1
+Dallas Cowboys,Tampa Bay Buccaneers,2100.6206158757536,1801.3012564233372,0.8485,0.1515,dal,tam,dal,tam,1,16,2018,27.0,20.0,1
+Indianapolis Colts,New York Giants,1997.9885618913863,1797.498749559414,0.7603,0.2397,clt,nyg,clt,nyg,1,16,2018,28.0,27.0,1
+Cleveland Browns,Cincinnati Bengals,1701.8431814907246,1833.1430185422591,0.3196,0.6804,cle,cin,cle,cin,1,16,2018,26.0,18.0,0
+San Francisco 49ers,Chicago Bears,1790.305352902889,1989.3493032599627,0.2413,0.7587,sfo,chi,chi,sfo,0,16,2018,9.0,14.0,1
+Arizona Cardinals,Los Angeles Rams,1813.281110488845,2067.3235853496526,0.1881,0.8119,crd,ram,ram,crd,0,16,2018,9.0,31.0,1
+New Orleans Saints,Pittsburgh Steelers,2204.082729579606,2114.7536272184116,0.6258,0.3742,nor,pit,nor,pit,1,16,2018,31.0,28.0,1
+Seattle Seahawks,Kansas City Chiefs,2103.58725077108,2110.580412433787,0.4899,0.5101,sea,kan,sea,kan,1,16,2018,38.0,31.0,0
+Oakland Raiders,Denver Broncos,1768.477598576918,1910.3782007923553,0.3064,0.6936,rai,den,rai,den,1,16,2018,27.0,14.0,0
+Green Bay Packers,Detroit Lions,1925.8072555302153,1878.5172651446887,0.5676,0.4324,gnb,det,det,gnb,0,17,2018,0.0,31.0,0
+Buffalo Bills,Miami Dolphins,1900.3539415461562,1819.9814086407544,0.6136,0.3864,buf,mia,buf,mia,1,17,2018,42.0,17.0,1
+Tampa Bay Buccaneers,Atlanta Falcons,1835.2953278586754,1993.9831906553588,0.2863,0.7137,tam,atl,atl,tam,0,17,2018,32.0,34.0,1
+New York Giants,Dallas Cowboys,1837.9420429130728,2049.424177457588,0.2284,0.7716,nyg,dal,dal,nyg,0,17,2018,35.0,36.0,1
+New England Patriots,New York Jets,2163.7210442618602,1719.9226371824493,0.9279,0.0721,nwe,nyj,nwe,nyj,1,17,2018,38.0,3.0,1
+New Orleans Saints,Carolina Panthers,2214.147705230615,1943.193508186009,0.8263,0.1737,nor,car,car,nor,0,17,2018,14.0,33.0,0
+Houston Texans,Jacksonville Jaguars,1996.254101260937,1871.5921858948545,0.6721,0.3279,htx,jax,htx,jax,1,17,2018,20.0,3.0,1
+Denver Broncos,Los Angeles Chargers,1949.0830989651063,2025.2636721558295,0.3921,0.6079,den,sdg,sdg,den,0,17,2018,9.0,23.0,1
+Washington Redskins,Philadelphia Eagles,1941.7594705360625,2068.5824936865897,0.3252,0.6748,was,phi,phi,was,0,17,2018,0.0,24.0,1
+Seattle Seahawks,Arizona Cardinals,2122.9616521505045,1733.8717246830952,0.9038,0.0962,sea,crd,sea,crd,1,17,2018,27.0,24.0,1
+Baltimore Ravens,Cleveland Browns,2095.6805101952145,1678.2264813102327,0.9171,0.0829,rav,cle,rav,cle,1,17,2018,26.0,24.0,1
+Los Angeles Rams,San Francisco 49ers,2127.9292013292134,1715.2917211363856,0.9149,0.0851,ram,sfo,ram,sfo,1,17,2018,48.0,32.0,1
+Pittsburgh Steelers,Cincinnati Bengals,2152.8568337392417,1818.4318142430782,0.8727,0.1273,pit,cin,pit,cin,1,17,2018,16.0,13.0,1
+Minnesota Vikings,Chicago Bears,2071.5487996425786,1995.735018144783,0.6074,0.3926,min,chi,chi,min,0,17,2018,10.0,24.0,0
+Kansas City Chiefs,Oakland Raiders,2146.9087857482505,1750.2834940707687,0.9075,0.0925,kan,rai,kan,rai,1,17,2018,35.0,3.0,1
+Tennessee Titans,Indianapolis Colts,2046.951033249179,1947.6219919550454,0.6392,0.3608,oti,clt,clt,oti,0,17,2018,17.0,33.0,0
+Houston Texans,Indianapolis Colts,2619.2177057763806,2584.119382465934,0.5503,0.4497,htx,clt,clt,htx,0,18,2018,7.0,21.0,0
+Dallas Cowboys,Seattle Seahawks,2750.1616511639863,2699.742055572899,0.5721,0.4279,dal,sea,dal,sea,1,18,2018,24.0,22.0,1
+Baltimore Ravens,Los Angeles Chargers,2735.343681137985,2661.161259363536,0.6052,0.3948,rav,sdg,sdg,rav,0,18,2018,17.0,23.0,0
+Chicago Bears,Philadelphia Eagles,2713.7667097095514,2714.262903685884,0.4993,0.5007,chi,phi,phi,chi,0,18,2018,15.0,16.0,1
+Kansas City Chiefs,Indianapolis Colts,2803.012463046904,2617.6668690982237,0.744,0.256,kan,clt,kan,clt,1,19,2018,31.0,13.0,1
+Los Angeles Rams,Dallas Cowboys,2777.8375102748782,2692.3076681842144,0.6207,0.3793,ram,dal,ram,dal,1,19,2018,30.0,22.0,1
+New England Patriots,Los Angeles Chargers,2824.1539817848325,2692.520528916524,0.6809,0.3191,nwe,sdg,nwe,sdg,1,19,2018,41.0,28.0,1
+New Orleans Saints,Philadelphia Eagles,2872.8441271699767,2726.675229908402,0.6988,0.3012,nor,phi,nor,phi,1,19,2018,20.0,14.0,1
+New Orleans Saints,Los Angeles Rams,2884.3727245820855,2723.0574479134248,0.7168,0.2832,nor,ram,ram,nor,0,20,2018,23.0,26.0,0
+Kansas City Chiefs,New England Patriots,2814.0854464070135,2766.932953717384,0.5674,0.4326,kan,nwe,nwe,kan,0,20,2018,31.0,37.0,0
+Los Angeles Rams,New England Patriots,2826.5554698141023,2795.3782364469766,0.5447,0.4553,ram,nwe,nwe,ram,0,21,2018,3.0,13.0,0
+Chicago Bears,Green Bay Packers,2041.93554688,1871.0,0.7279,0.2721,chi,gnb,gnb,chi,0,1,2019,3.0,10.0,0
+Cleveland Browns,Tennessee Titans,1798.93554688,1957.0,0.287,0.713,cle,oti,oti,cle,0,1,2019,13.0,43.0,1
+Carolina Panthers,Los Angeles Rams,2028.93554688,2039.0,0.4855,0.5145,car,ram,ram,car,0,1,2019,27.0,30.0,1
+Philadelphia Eagles,Washington Redskins,2077.93554688,1881.0,0.7565,0.2435,phi,was,phi,was,1,1,2019,32.0,27.0,1
+New York Jets,Buffalo Bills,1824.93554688,1882.0,0.4186,0.5814,nyj,buf,buf,nyj,0,1,2019,16.0,17.0,1
+Minnesota Vikings,Atlanta Falcons,2028.93554688,1976.0,0.5756,0.4244,min,atl,min,atl,1,1,2019,28.0,12.0,1
+Miami Dolphins,Baltimore Ravens,1889.93554688,1994.0,0.3546,0.6454,mia,rav,rav,mia,0,1,2019,10.0,59.0,1
+Jacksonville Jaguars,Kansas City Chiefs,1925.93554688,2034.0,0.3493,0.6507,jax,kan,kan,jax,0,1,2019,26.0,40.0,1
+Seattle Seahawks,Cincinnati Bengals,2068.93554688,1839.0,0.7898,0.2102,sea,cin,sea,cin,1,1,2019,21.0,20.0,1
+Los Angeles Chargers,Indianapolis Colts,2057.93554688,1964.0,0.632,0.368,sdg,clt,sdg,clt,1,1,2019,30.0,24.0,1
+Tampa Bay Buccaneers,San Francisco 49ers,1869.93554688,1767.0,0.6439,0.3561,tam,sfo,sfo,tam,0,1,2019,17.0,31.0,0
+Dallas Cowboys,New York Giants,2059.93554688,1818.0,0.801,0.199,dal,nyg,dal,nyg,1,1,2019,35.0,17.0,1
+Arizona Cardinals,Detroit Lions,1835.93554688,1915.0,0.3881,0.6119,crd,det,,,0,1,2019,27.0,27.0,0
+New England Patriots,Pittsburgh Steelers,2143.93554688,2044.0,0.64,0.36,nwe,pit,nwe,pit,1,1,2019,33.0,3.0,1
+New Orleans Saints,Houston Texans,2130.93554688,1929.0,0.7618,0.2382,nor,htx,nor,htx,1,1,2019,30.0,28.0,1
+Oakland Raiders,Denver Broncos,1844.93554688,1887.0,0.4398,0.5602,rai,den,rai,den,1,1,2019,24.0,16.0,0
+Carolina Panthers,Tampa Bay Buccaneers,2013.8977211199679,1796.678024698986,0.7774,0.2226,car,tam,tam,car,0,2,2019,14.0,20.0,0
+Cincinnati Bengals,San Francisco 49ers,1878.8809870547939,1800.129794710258,0.6114,0.3886,cin,sfo,sfo,cin,0,2,2019,17.0,41.0,0
+Washington Redskins,Dallas Cowboys,1915.8646251789853,2010.9749640295333,0.3664,0.6336,was,dal,dal,was,0,2,2019,21.0,31.0,1
+Baltimore Ravens,Arizona Cardinals,2065.022501046972,1781.0,0.8368,0.1632,rav,crd,rav,crd,1,2,2019,23.0,17.0,1
+Pittsburgh Steelers,Seattle Seahawks,2071.7992953281946,2018.006670644794,0.5768,0.4232,pit,sea,sea,pit,0,2,2019,26.0,28.0,0
+Tennessee Titans,Indianapolis Colts,2022.7461852541317,1944.0101016101862,0.6114,0.3886,oti,clt,clt,oti,0,2,2019,17.0,19.0,0
+New York Giants,Buffalo Bills,1848.8855660375068,1889.979031074742,0.4411,0.5589,nyg,buf,buf,nyg,0,2,2019,14.0,28.0,1
+Miami Dolphins,New England Patriots,1860.6560200346426,2104.2641414978907,0.1974,0.8026,mia,nwe,nwe,mia,0,2,2019,0.0,43.0,1
+Houston Texans,Jacksonville Jaguars,1967.0171987304507,1847.163358558561,0.666,0.334,htx,jax,htx,jax,1,2,2019,13.0,12.0,1
+Green Bay Packers,Minnesota Vikings,1959.462687100308,1991.608494340608,0.4539,0.5461,gnb,min,gnb,min,1,2,2019,21.0,16.0,0
+Detroit Lions,Los Angeles Chargers,1969.93554688,2014.6396876700182,0.436,0.564,det,sdg,det,sdg,1,2,2019,13.0,10.0,0
+Oakland Raiders,Kansas City Chiefs,1868.0526020581183,2046.7956644467415,0.2633,0.7367,rai,kan,kan,rai,0,2,2019,10.0,28.0,1
+Los Angeles Rams,New Orleans Saints,2108.12575952625,2081.290037449754,0.5385,0.4615,ram,nor,ram,nor,1,2,2019,27.0,9.0,1
+Denver Broncos,Chicago Bears,1923.7868841393065,1974.46704924585,0.4276,0.5724,den,chi,chi,den,0,2,2019,14.0,16.0,1
+Atlanta Falcons,Philadelphia Eagles,2007.0537152531053,2029.4603693776564,0.4678,0.5322,atl,phi,atl,phi,1,2,2019,24.0,20.0,0
+New York Jets,Cleveland Browns,1813.853347484742,1717.1429088475404,0.6357,0.3643,nyj,cle,cle,nyj,0,2,2019,3.0,23.0,0
+Jacksonville Jaguars,Tennessee Titans,1889.404125945541,1957.2643480209736,0.4036,0.5964,jax,oti,jax,oti,1,3,2019,20.0,7.0,0
+Buffalo Bills,Cincinnati Bengals,1963.11003398951,1802.1456076853087,0.7164,0.2836,buf,cin,buf,cin,1,3,2019,21.0,17.0,1
+Philadelphia Eagles,Detroit Lions,2068.900351518673,1932.4117511576846,0.6869,0.3131,phi,det,det,phi,0,3,2019,24.0,27.0,0
+New England Patriots,New York Jets,2165.756023181662,1738.7497190509023,0.9211,0.0789,nwe,nyj,nwe,nyj,1,3,2019,30.0,14.0,1
+Minnesota Vikings,Oakland Raiders,2030.2878788759358,1788.3878839787444,0.801,0.199,min,rai,min,rai,1,3,2019,34.0,14.0,1
+Kansas City Chiefs,Baltimore Ravens,2110.5695319142196,2014.1073899122437,0.6354,0.3646,kan,rav,kan,rav,1,3,2019,33.0,28.0,1
+Green Bay Packers,Denver Broncos,1979.020938381263,1854.706884780196,0.6716,0.3284,gnb,den,gnb,den,1,3,2019,27.0,16.0,1
+Dallas Cowboys,Miami Dolphins,2078.786746722318,1779.0633591044561,0.8488,0.1512,dal,mia,dal,mia,1,3,2019,31.0,6.0,1
+Indianapolis Colts,Atlanta Falcons,2015.5385510170026,1969.7469403997989,0.5655,0.4345,clt,atl,clt,atl,1,3,2019,27.0,24.0,1
+Tampa Bay Buccaneers,New York Giants,1887.0722483764325,1770.895291481624,0.6612,0.3388,tam,nyg,nyg,tam,0,3,2019,31.0,32.0,0
+Arizona Cardinals,Carolina Panthers,1815.3209596763027,1948.8089693838942,0.3168,0.6832,crd,car,car,crd,0,3,2019,20.0,38.0,1
+San Francisco 49ers,Pittsburgh Steelers,1889.363894302742,2005.5719051253143,0.3387,0.6613,sfo,pit,sfo,pit,1,3,2019,24.0,20.0,0
+Seattle Seahawks,New Orleans Saints,2088.332423641612,2057.333717430432,0.5445,0.4555,sea,nor,nor,sea,0,3,2019,27.0,33.0,0
+Los Angeles Chargers,Houston Texans,2056.11508649195,1918.4481028274308,0.6884,0.3116,sdg,htx,htx,sdg,0,3,2019,20.0,27.0,0
+Cleveland Browns,Los Angeles Rams,1807.2715642748253,2073.7210235820294,0.1774,0.8226,cle,ram,ram,cle,0,3,2019,13.0,20.0,1
+Washington Redskins,Chicago Bears,1893.5982960005456,1985.0333802732216,0.3714,0.6286,was,chi,chi,was,0,3,2019,15.0,31.0,1
+Green Bay Packers,Philadelphia Eagles,1990.20997133021,2003.493007293458,0.4809,0.5191,gnb,phi,phi,gnb,0,4,2019,27.0,34.0,1
+Buffalo Bills,New England Patriots,1970.641092099488,2112.6534032141662,0.3063,0.6937,buf,nwe,nwe,buf,0,4,2019,10.0,16.0,1
+Atlanta Falcons,Tennessee Titans,2008.757977646085,1937.8028056432609,0.6007,0.3993,atl,oti,oti,atl,0,4,2019,10.0,24.0,0
+Baltimore Ravens,Cleveland Browns,2049.824386451321,1731.2435232941689,0.8622,0.1378,rav,cle,cle,rav,0,4,2019,25.0,40.0,0
+New York Giants,Washington Redskins,1838.434123948388,1814.3426353535085,0.5346,0.4654,nyg,was,nyg,was,1,4,2019,24.0,3.0,1
+Miami Dolphins,Los Angeles Chargers,1809.9454270183614,1987.28374414858,0.2649,0.7351,mia,sdg,sdg,mia,0,4,2019,10.0,30.0,1
+Houston Texans,Carolina Panthers,2004.082833266429,1960.3769286847682,0.5626,0.4374,htx,car,car,htx,0,4,2019,10.0,16.0,0
+Detroit Lions,Kansas City Chiefs,2010.3210367678917,2066.6618154627695,0.4196,0.5804,det,kan,kan,det,0,4,2019,30.0,34.0,1
+Indianapolis Colts,Oakland Raiders,2027.7740937859658,1764.0177819537726,0.8203,0.1797,clt,rai,rai,clt,0,4,2019,24.0,31.0,0
+Los Angeles Rams,Tampa Bay Buccaneers,2133.2053286111377,1825.6787566131966,0.8545,0.1455,ram,tam,tam,ram,0,4,2019,40.0,55.0,0
+Arizona Cardinals,Seattle Seahawks,1790.3738959314885,2016.2438329909473,0.2141,0.7859,crd,sea,sea,crd,0,4,2019,10.0,27.0,1
+Denver Broncos,Jacksonville Jaguars,1886.7601097097915,1863.2269137386527,0.5338,0.4662,den,jax,jax,den,0,4,2019,24.0,26.0,0
+Chicago Bears,Minnesota Vikings,2054.3381448641308,1981.4068267561972,0.6034,0.3966,chi,min,chi,min,1,4,2019,16.0,6.0,1
+New Orleans Saints,Dallas Cowboys,2132.7738358430925,2028.1359383197844,0.6462,0.3538,nor,dal,nor,dal,1,4,2019,12.0,10.0,1
+Pittsburgh Steelers,Cincinnati Bengals,2048.1327979992,1783.1214538419083,0.8214,0.1786,pit,cin,pit,cin,1,4,2019,27.0,3.0,1
+Seattle Seahawks,Los Angeles Rams,2077.735892819977,2069.0786240517377,0.5125,0.4875,sea,ram,sea,ram,1,5,2019,30.0,29.0,1
+Cincinnati Bengals,Arizona Cardinals,1813.5132460940342,1711.3712611176147,0.6429,0.3571,cin,crd,crd,cin,0,5,2019,23.0,26.0,0
+Carolina Panthers,Jacksonville Jaguars,2036.8464334101595,1877.1665259422211,0.7149,0.2851,car,jax,car,jax,1,5,2019,34.0,27.0,1
+Washington Redskins,New England Patriots,1844.6494364608845,2121.696095132257,0.1687,0.8313,was,nwe,nwe,was,0,5,2019,7.0,33.0,1
+Oakland Raiders,Chicago Bears,1859.5477939990885,2013.865825093678,0.2915,0.7085,rai,chi,rai,chi,1,5,2019,24.0,21.0,0
+Pittsburgh Steelers,Baltimore Ravens,2053.4694361493566,1986.1293161889973,0.5957,0.4043,pit,rav,rav,pit,0,5,2019,23.0,26.0,0
+Philadelphia Eagles,New York Jets,2076.1730451527787,1717.3516331306523,0.8875,0.1125,phi,nyj,phi,nyj,1,5,2019,31.0,6.0,1
+Tennessee Titans,Buffalo Bills,2022.3400382005811,1895.2258998274554,0.6752,0.3248,oti,buf,buf,oti,0,5,2019,7.0,14.0,0
+New York Giants,Minnesota Vikings,1859.8748614765946,1959.402007699463,0.3606,0.6394,nyg,min,min,nyg,0,5,2019,10.0,28.0,1
+New Orleans Saints,Tampa Bay Buccaneers,2141.1715336959883,1879.6570675207386,0.8184,0.1816,nor,tam,nor,tam,1,5,2019,31.0,24.0,1
+Houston Texans,Atlanta Falcons,1987.3410039710607,1934.1454654074134,0.576,0.424,htx,atl,htx,atl,1,5,2019,53.0,32.0,1
+Los Angeles Chargers,Denver Broncos,2051.275597184637,1819.6502518344682,0.7914,0.2086,sdg,den,den,sdg,0,5,2019,13.0,20.0,0
+Dallas Cowboys,Green Bay Packers,2067.7334627222795,1916.1204105858615,0.7053,0.2947,dal,gnb,gnb,dal,0,5,2019,24.0,34.0,0
+Kansas City Chiefs,Indianapolis Colts,2134.247857874098,1963.9456718721888,0.7272,0.2728,kan,clt,clt,kan,0,5,2019,13.0,19.0,0
+San Francisco 49ers,Cleveland Browns,1913.524976954774,1786.0509330201453,0.6756,0.3244,sfo,cle,sfo,cle,1,5,2019,31.0,3.0,1
+New England Patriots,New York Giants,2181.614713083989,1780.0486605410654,0.9098,0.0902,nwe,nyg,nwe,nyg,1,6,2019,35.0,14.0,1
+Tampa Bay Buccaneers,Carolina Panthers,1913.4803198883747,1990.3601102824953,0.3911,0.6089,tam,car,car,tam,0,6,2019,26.0,37.0,1
+Cleveland Browns,Seattle Seahawks,1814.1882692608349,2032.092695794102,0.2219,0.7781,cle,sea,sea,cle,0,6,2019,28.0,32.0,1
+Baltimore Ravens,Cincinnati Bengals,2059.8506949341045,1746.9633301105807,0.8583,0.1417,rav,cin,rav,cin,1,6,2019,23.0,17.0,1
+Minnesota Vikings,Philadelphia Eagles,2028.3750426189122,2024.158420208485,0.5061,0.4939,min,phi,min,phi,1,6,2019,38.0,20.0,1
+Miami Dolphins,Washington Redskins,1784.8140919662007,1765.1588985795174,0.5283,0.4717,mia,was,was,mia,0,6,2019,16.0,17.0,0
+Kansas City Chiefs,Houston Texans,2122.272648786535,1950.9202414594927,0.7284,0.2716,kan,htx,htx,kan,0,6,2019,24.0,31.0,0
+Jacksonville Jaguars,New Orleans Saints,1910.9152960402334,2090.9207286090545,0.2619,0.7381,jax,nor,nor,jax,0,6,2019,6.0,13.0,1
+Arizona Cardinals,Atlanta Falcons,1787.2165752801975,1908.9933055106758,0.3316,0.6684,crd,atl,crd,atl,1,6,2019,34.0,33.0,0
+Los Angeles Rams,San Francisco 49ers,2114.245290315863,1871.4570137506064,0.8018,0.1982,ram,sfo,sfo,ram,0,6,2019,7.0,20.0,0
+New York Jets,Dallas Cowboys,1749.244351406745,1998.0579290404958,0.1927,0.8073,nyj,dal,nyj,dal,1,6,2019,24.0,22.0,0
+Denver Broncos,Tennessee Titans,1912.9017443199862,1953.0790664981391,0.4424,0.5576,den,oti,den,oti,1,6,2019,16.0,0.0,0
+Los Angeles Chargers,Pittsburgh Steelers,2041.1761452598057,1985.7839953243124,0.579,0.421,sdg,pit,pit,sdg,0,6,2019,17.0,24.0,0
+Green Bay Packers,Detroit Lions,2006.332892285332,1937.8870446867884,0.5972,0.4028,gnb,det,gnb,det,1,6,2019,23.0,22.0,1
+Denver Broncos,Kansas City Chiefs,1939.9619644010986,2054.8221441800724,0.3405,0.6595,den,kan,kan,den,0,7,2019,6.0,30.0,1
+Buffalo Bills,Miami Dolphins,1979.9413938752905,1720.887362673502,0.8163,0.1837,buf,mia,buf,mia,1,7,2019,31.0,21.0,1
+Atlanta Falcons,Los Angeles Rams,1957.6081483668238,2047.762193806525,0.3731,0.6269,atl,ram,ram,atl,0,7,2019,10.0,37.0,1
+Washington Redskins,San Francisco 49ers,1830.1644935168183,1918.1715712319542,0.376,0.624,was,sfo,sfo,was,0,7,2019,0.0,9.0,1
+New York Giants,Arizona Cardinals,1812.8799359945106,1745.0215548463455,0.5964,0.4036,nyg,crd,crd,nyg,0,7,2019,21.0,27.0,0
+Green Bay Packers,Oakland Raiders,2014.010755918648,1828.6288806168536,0.7441,0.2559,gnb,rai,gnb,rai,1,7,2019,42.0,24.0,1
+Detroit Lions,Minnesota Vikings,1981.4392247301043,1996.293324415116,0.4786,0.5214,det,min,min,det,0,7,2019,30.0,42.0,1
+Indianapolis Colts,Houston Texans,2050.80340368062,1984.4839204284003,0.5943,0.4057,clt,htx,clt,htx,1,7,2019,30.0,23.0,1
+Cincinnati Bengals,Jacksonville Jaguars,1781.3848800583153,1834.7405680483464,0.4238,0.5762,cin,jax,jax,cin,0,7,2019,17.0,27.0,1
+Tennessee Titans,Los Angeles Chargers,1986.5450270010153,1969.1744475841022,0.525,0.475,oti,sdg,oti,sdg,1,7,2019,23.0,20.0,1
+Seattle Seahawks,Baltimore Ravens,2092.559060623677,2008.3018815567282,0.6189,0.3811,sea,rav,rav,sea,0,7,2019,16.0,30.0,0
+Chicago Bears,New Orleans Saints,2058.920145912142,2098.4570265811494,0.4433,0.5567,chi,nor,nor,chi,0,7,2019,25.0,36.0,1
+Dallas Cowboys,Philadelphia Eagles,2047.264992386906,2000.7400709616197,0.5666,0.4334,dal,phi,dal,phi,1,7,2019,37.0,10.0,1
+New York Jets,New England Patriots,1773.2433382083377,2128.8706426632934,0.1143,0.8857,nyj,nwe,nwe,nyj,0,7,2019,0.0,33.0,1
+Minnesota Vikings,Washington Redskins,2071.2009931370894,1753.508262427072,0.8616,0.1384,min,was,min,was,1,8,2019,19.0,9.0,1
+Buffalo Bills,Philadelphia Eagles,1984.9240437945605,1974.5129551359541,0.515,0.485,buf,phi,phi,buf,0,8,2019,13.0,31.0,0
+Atlanta Falcons,Seattle Seahawks,1930.9646588196624,2018.4945125034224,0.3766,0.6234,atl,sea,sea,atl,0,8,2019,20.0,27.0,1
+Los Angeles Rams,Cincinnati Bengals,2118.554633253196,1704.748571159971,0.9154,0.0846,ram,cin,ram,cin,1,8,2019,24.0,10.0,1
+Tennessee Titans,Tampa Bay Buccaneers,2000.3239024951174,1836.0537281137906,0.7202,0.2798,oti,tam,oti,tam,1,8,2019,27.0,23.0,1
+New Orleans Saints,Arizona Cardinals,2170.8244904702797,1768.5377042260445,0.9102,0.0898,nor,crd,nor,crd,1,8,2019,31.0,9.0,1
+Jacksonville Jaguars,New York Jets,1905.637209935938,1694.6781419092526,0.7711,0.2289,jax,nyj,jax,nyj,1,8,2019,29.0,15.0,1
+Detroit Lions,New York Giants,1959.6810460247034,1742.0303752150362,0.7778,0.2222,det,nyg,det,nyg,1,8,2019,31.0,26.0,1
+Indianapolis Colts,Denver Broncos,2064.6415176499745,1858.8522416078767,0.7658,0.2342,clt,den,clt,den,1,8,2019,15.0,13.0,1
+Chicago Bears,Los Angeles Chargers,2037.0289927450249,1953.9451641432527,0.6173,0.3827,chi,sdg,sdg,chi,0,8,2019,16.0,17.0,0
+San Francisco 49ers,Carolina Panthers,1986.1952226998783,2004.8062388065086,0.4732,0.5268,sfo,car,sfo,car,1,8,2019,51.0,13.0,0
+New England Patriots,Cleveland Browns,2186.855606872639,1739.8587185657636,0.9291,0.0709,nwe,cle,nwe,cle,1,8,2019,27.0,13.0,1
+Houston Texans,Oakland Raiders,2019.1483528593303,1803.9546765067016,0.7753,0.2247,htx,rai,htx,rai,1,8,2019,27.0,24.0,1
+Kansas City Chiefs,Green Bay Packers,2123.271424037255,1967.560800802911,0.7102,0.2898,kan,gnb,gnb,kan,0,8,2019,24.0,31.0,0
+Pittsburgh Steelers,Miami Dolphins,2064.1905666953157,1698.7461698095926,0.8913,0.1087,pit,mia,pit,mia,1,8,2019,27.0,14.0,1
+Arizona Cardinals,San Francisco 49ers,1801.3079121713054,1960.5433776461944,0.2856,0.7144,crd,sfo,sfo,crd,0,9,2019,25.0,28.0,1
+Jacksonville Jaguars,Houston Texans,1912.6359974670208,1969.5531724941898,0.4188,0.5812,jax,htx,htx,jax,0,9,2019,3.0,26.0,1
+Carolina Panthers,Tennessee Titans,2033.4375949040243,1952.790408359474,0.614,0.386,car,oti,car,oti,1,9,2019,30.0,20.0,1
+Buffalo Bills,Washington Redskins,1961.9182326208008,1731.8514113557287,0.7899,0.2101,buf,was,buf,was,1,9,2019,24.0,9.0,1
+Pittsburgh Steelers,Indianapolis Colts,2066.840204420608,2014.8947974526247,0.5742,0.4258,pit,clt,pit,clt,1,9,2019,26.0,24.0,1
+Philadelphia Eagles,Chicago Bears,2053.877353056132,1974.798712964156,0.6119,0.3881,phi,chi,phi,chi,1,9,2019,22.0,14.0,1
+Miami Dolphins,New York Jets,1731.9556623698757,1671.101186622149,0.5867,0.4133,mia,nyj,mia,nyj,1,9,2019,26.0,18.0,1
+Kansas City Chiefs,Minnesota Vikings,2110.1134687400413,2019.7442162063396,0.6272,0.3728,kan,min,kan,min,1,9,2019,26.0,23.0,1
+Seattle Seahawks,Tampa Bay Buccaneers,2085.869107469354,1817.0009819147715,0.8246,0.1754,sea,tam,sea,tam,1,9,2019,40.0,34.0,1
+Oakland Raiders,Detroit Lions,1840.4639387450882,1910.4955579728878,0.4006,0.5994,rai,det,rai,det,1,9,2019,31.0,24.0,0
+Los Angeles Chargers,Green Bay Packers,2020.6472085923835,1999.8064179598514,0.53,0.47,sdg,gnb,sdg,gnb,1,9,2019,26.0,11.0,1
+Denver Broncos,Cleveland Browns,1896.8210785238568,1718.835265466845,0.7359,0.2641,den,cle,den,cle,1,9,2019,24.0,19.0,1
+Baltimore Ravens,New England Patriots,2094.3026052081623,2133.524368274539,0.4438,0.5562,rav,nwe,rav,nwe,1,9,2019,37.0,20.0,0
+New York Giants,Dallas Cowboys,1776.8381284111395,2012.3909209725668,0.2049,0.7951,nyg,dal,dal,nyg,0,9,2019,18.0,37.0,1
+Oakland Raiders,Los Angeles Chargers,1865.215466860631,1986.073026107049,0.3328,0.6672,rai,sdg,rai,sdg,1,10,2019,26.0,24.0,0
+Cincinnati Bengals,Baltimore Ravens,1738.3398078273722,2066.6756726494295,0.1312,0.8688,cin,rav,rav,cin,0,10,2019,13.0,49.0,1
+Chicago Bears,Detroit Lions,2008.6578297811855,1893.9532453884926,0.6593,0.3407,chi,det,chi,det,1,10,2019,20.0,13.0,1
+Tampa Bay Buccaneers,Arizona Cardinals,1851.2789041823657,1728.4823947180737,0.6697,0.3303,tam,crd,tam,crd,1,10,2019,30.0,27.0,1
+Tennessee Titans,Kansas City Chiefs,1985.6202292536334,2065.1943117930477,0.3874,0.6126,oti,kan,oti,kan,1,10,2019,35.0,32.0,0
+New York Jets,New York Giants,1705.242275789356,1697.6033975267685,0.511,0.489,nyj,nyg,nyj,nyg,1,10,2019,34.0,27.0,1
+New Orleans Saints,Atlanta Falcons,2173.011314724663,1855.438292564278,0.8615,0.1385,nor,atl,atl,nor,0,10,2019,9.0,26.0,0
+Cleveland Browns,Buffalo Bills,1753.7813728905126,1913.2660064802665,0.2854,0.7146,cle,buf,cle,buf,1,10,2019,19.0,16.0,0
+Indianapolis Colts,Miami Dolphins,2055.6550680840737,1691.6687423395388,0.8904,0.1096,clt,mia,mia,clt,0,10,2019,12.0,16.0,0
+Pittsburgh Steelers,Los Angeles Rams,2077.3519296498544,2065.5916979571875,0.5169,0.4831,pit,ram,pit,ram,1,10,2019,17.0,12.0,1
+Green Bay Packers,Carolina Panthers,2031.7812773309734,1992.3991330900415,0.5564,0.4436,gnb,car,gnb,car,1,10,2019,24.0,16.0,1
+Dallas Cowboys,Minnesota Vikings,2073.58845100248,2002.8926073920113,0.6004,0.3996,dal,min,min,dal,0,10,2019,24.0,28.0,0
+San Francisco 49ers,Seattle Seahawks,2022.6309060431524,2035.3276272362323,0.4817,0.5183,sfo,sea,sea,sfo,0,10,2019,24.0,27.0,1
+Cleveland Browns,Pittsburgh Steelers,1778.0960659799987,2038.7846359076184,0.1823,0.8177,cle,pit,cle,pit,1,11,2019,21.0,7.0,0
+Indianapolis Colts,Jacksonville Jaguars,2050.987249657697,1832.074534992679,0.7791,0.2209,clt,jax,clt,jax,1,11,2019,33.0,13.0,1
+Carolina Panthers,Atlanta Falcons,2026.9459155210964,1911.9407480713626,0.6597,0.3403,car,atl,atl,car,0,11,2019,3.0,29.0,0
+Washington Redskins,New York Jets,1763.1639451367103,1668.4970132698352,0.633,0.367,was,nyj,nyj,was,0,11,2019,17.0,34.0,0
+Tampa Bay Buccaneers,New Orleans Saints,1859.859441021118,2108.992088114273,0.1925,0.8075,tam,nor,nor,tam,0,11,2019,17.0,34.0,1
+Baltimore Ravens,Houston Texans,2125.2878390260294,1988.0186464289977,0.6879,0.3121,rav,htx,rav,htx,1,11,2019,41.0,7.0,1
+Minnesota Vikings,Denver Broncos,2078.798016496712,1849.0593473259025,0.7896,0.2104,min,den,min,den,1,11,2019,27.0,23.0,1
+Miami Dolphins,Buffalo Bills,1784.5260549754335,1903.5551005080592,0.3351,0.6649,mia,buf,buf,mia,0,11,2019,20.0,37.0,1
+Detroit Lions,Dallas Cowboys,1927.990113165917,2004.696280296713,0.3914,0.6086,det,dal,dal,det,0,11,2019,27.0,35.0,1
+San Francisco 49ers,Arizona Cardinals,2007.5232576813635,1711.0849211458292,0.8464,0.1536,sfo,crd,sfo,crd,1,11,2019,36.0,26.0,1
+Oakland Raiders,Cincinnati Bengals,1883.814624805846,1659.057865988179,0.7848,0.2152,rai,cin,rai,cin,1,11,2019,17.0,10.0,1
+Philadelphia Eagles,New England Patriots,2067.2451623508514,2111.734431137217,0.4363,0.5637,phi,nwe,nwe,phi,0,11,2019,10.0,17.0,1
+Los Angeles Rams,Chicago Bears,2103.013789968816,1964.521888498406,0.6894,0.3106,ram,chi,ram,chi,1,11,2019,17.0,7.0,1
+Los Angeles Chargers,Kansas City Chiefs,2031.7312951630568,2052.840270272141,0.4697,0.5303,sdg,kan,kan,sdg,0,11,2019,17.0,24.0,1
+Houston Texans,Indianapolis Colts,2015.4109630631847,2003.048740784725,0.5178,0.4822,htx,clt,htx,clt,1,12,2019,20.0,17.0,1
+Buffalo Bills,Denver Broncos,1970.9423432245321,1829.6186528752828,0.6929,0.3071,buf,den,buf,den,1,12,2019,20.0,3.0,1
+Atlanta Falcons,Tampa Bay Buccaneers,2006.4786114778985,1781.1372834844176,0.7854,0.2146,atl,tam,tam,atl,0,12,2019,22.0,35.0,0
+Washington Redskins,Detroit Lions,1743.6226265995635,1852.01219662821,0.3489,0.6511,was,det,was,det,1,12,2019,19.0,16.0,0
+Philadelphia Eagles,Seattle Seahawks,2047.3779918512275,2049.3684418530056,0.4971,0.5029,phi,sea,sea,phi,0,12,2019,9.0,17.0,1
+New York Jets,Oakland Raiders,1757.1373411689465,1834.698797969008,0.3902,0.6098,nyj,rai,nyj,rai,1,12,2019,34.0,3.0,0
+New Orleans Saints,Carolina Panthers,2169.5981273180064,1951.5818885532076,0.7782,0.2218,nor,car,nor,car,1,12,2019,34.0,31.0,1
+Cleveland Browns,Miami Dolphins,1827.317149181685,1704.884054613873,0.6692,0.3308,cle,mia,cle,mia,1,12,2019,41.0,24.0,1
+Cincinnati Bengals,Pittsburgh Steelers,1692.7698241605888,2027.8111695169282,0.1269,0.8731,cin,pit,pit,cin,0,12,2019,10.0,16.0,1
+Chicago Bears,New York Giants,1996.9185384606187,1678.5947363647954,0.862,0.138,chi,nyg,chi,nyg,1,12,2019,19.0,14.0,1
+Tennessee Titans,Jacksonville Jaguars,2005.1558147872095,1807.3964348963652,0.7574,0.2426,oti,jax,oti,jax,1,12,2019,42.0,20.0,1
+New England Patriots,Dallas Cowboys,2182.047034055865,2018.2289511544627,0.7197,0.2803,nwe,dal,nwe,dal,1,12,2019,13.0,9.0,1
+San Francisco 49ers,Green Bay Packers,2011.4865601763859,1993.1010430130725,0.5264,0.4736,sfo,gnb,sfo,gnb,1,12,2019,37.0,8.0,1
+Los Angeles Rams,Baltimore Ravens,2113.1683901757565,2082.8486464994503,0.5435,0.4565,ram,rav,rav,ram,0,12,2019,6.0,45.0,0
+Detroit Lions,Chicago Bears,1895.5401608212278,1945.1976706841708,0.429,0.571,det,chi,chi,det,0,13,2019,20.0,24.0,1
+Dallas Cowboys,Buffalo Bills,2054.115470387113,1926.9536898258523,0.6752,0.3248,dal,buf,buf,dal,0,13,2019,15.0,26.0,0
+Atlanta Falcons,New Orleans Saints,1994.147632552714,2119.9205540575076,0.3265,0.6735,atl,nor,nor,atl,0,13,2019,18.0,26.0,1
+Baltimore Ravens,San Francisco 49ers,2168.771801638091,1979.9748679859765,0.7478,0.2522,rav,sfo,rav,sfo,1,13,2019,20.0,17.0,1
+Pittsburgh Steelers,Cleveland Browns,2085.7155753934626,1784.5966998888503,0.8498,0.1502,pit,cle,pit,cle,1,13,2019,20.0,13.0,1
+New York Giants,Green Bay Packers,1713.4501862356508,1967.0657450641695,0.1885,0.8115,nyg,gnb,gnb,nyg,0,13,2019,13.0,31.0,1
+Miami Dolphins,Philadelphia Eagles,1735.1087692528483,1972.9477068939204,0.2028,0.7972,mia,phi,mia,phi,1,13,2019,37.0,31.0,0
+Jacksonville Jaguars,Tampa Bay Buccaneers,1837.0689066836546,1826.266597780037,0.5155,0.4845,jax,tam,tam,jax,0,13,2019,11.0,28.0,0
+Indianapolis Colts,Tennessee Titans,2042.8857919348893,1958.3121902962928,0.6194,0.3806,clt,oti,oti,clt,0,13,2019,17.0,31.0,0
+Cincinnati Bengals,New York Jets,1672.3434191970423,1738.165549591981,0.4064,0.5936,cin,nyj,cin,nyj,1,13,2019,22.0,6.0,0
+Carolina Panthers,Washington Redskins,1988.069486512127,1709.9753488152762,0.8321,0.1679,car,was,was,car,0,13,2019,21.0,29.0,0
+Arizona Cardinals,Los Angeles Rams,1744.1810199022161,2032.2055329552425,0.16,0.84,crd,ram,ram,crd,0,13,2019,7.0,34.0,1
+Kansas City Chiefs,Oakland Raiders,2124.9119201546896,1811.6862408695588,0.8585,0.1415,kan,rai,kan,rai,1,13,2019,40.0,9.0,1
+Denver Broncos,Los Angeles Chargers,1859.8550708291782,1957.448770590377,0.3631,0.6369,den,sdg,den,sdg,1,13,2019,23.0,20.0,0
+Houston Texans,New England Patriots,2029.4714007629273,2134.530470710049,0.3533,0.6467,htx,nwe,htx,nwe,1,13,2019,28.0,22.0,0
+Seattle Seahawks,Minnesota Vikings,2123.573891891147,2029.042715453098,0.6328,0.3672,sea,min,sea,min,1,13,2019,37.0,30.0,1
+Chicago Bears,Dallas Cowboys,2013.1736724815783,1982.9651003523632,0.5434,0.4566,chi,dal,chi,dal,1,14,2019,31.0,24.0,1
+Buffalo Bills,Baltimore Ravens,2015.5968986334601,2119.9754398057926,0.3541,0.6459,buf,rav,rav,buf,0,14,2019,17.0,24.0,1
+Atlanta Falcons,Carolina Panthers,1972.5938695007567,1924.3959299079854,0.5689,0.4311,atl,car,atl,car,1,14,2019,40.0,20.0,1
+Tampa Bay Buccaneers,Indianapolis Colts,1905.379386940781,1968.8367681133398,0.4097,0.5903,tam,clt,tam,clt,1,14,2019,38.0,35.0,0
+New York Jets,Miami Dolphins,1772.60538181075,1717.0741067175484,0.5792,0.4208,nyj,mia,nyj,mia,1,14,2019,22.0,21.0,1
+New Orleans Saints,San Francisco 49ers,2185.304955631589,1961.7715270713397,0.7836,0.2164,nor,sfo,sfo,nor,0,14,2019,46.0,48.0,0
+Minnesota Vikings,Detroit Lions,2063.297593968814,1823.2477380488278,0.7993,0.2007,min,det,min,det,1,14,2019,20.0,7.0,1
+Houston Texans,Denver Broncos,2056.081855194333,1825.554122850422,0.7903,0.2097,htx,den,den,htx,0,14,2019,24.0,38.0,0
+Green Bay Packers,Washington Redskins,2027.55194916948,1753.2802796756587,0.829,0.171,gnb,was,gnb,was,1,14,2019,20.0,15.0,1
+Cleveland Browns,Cincinnati Bengals,1818.5996629645517,1647.3445264088405,0.7283,0.2717,cle,cin,cle,cin,1,14,2019,27.0,19.0,1
+Jacksonville Jaguars,Los Angeles Chargers,1814.3455819794442,1945.684878517773,0.3195,0.6805,jax,sdg,sdg,jax,0,14,2019,10.0,45.0,1
+Oakland Raiders,Tennessee Titans,1842.3062711709526,1989.4180432064236,0.3001,0.6999,rai,oti,oti,rai,0,14,2019,21.0,42.0,1
+New England Patriots,Kansas City Chiefs,2174.928405790736,2073.9841142133882,0.6413,0.3587,nwe,kan,kan,nwe,0,14,2019,16.0,23.0,0
+Arizona Cardinals,Pittsburgh Steelers,1719.7262146083247,2034.4798097412872,0.1404,0.8596,crd,pit,pit,crd,0,14,2019,17.0,23.0,1
+Los Angeles Rams,Seattle Seahawks,2091.7991379864598,2080.6388845550237,0.5161,0.4839,ram,sea,ram,sea,1,14,2019,28.0,12.0,1
+Philadelphia Eagles,New York Giants,2018.496024289343,1634.618839152258,0.9011,0.0989,phi,nyg,phi,nyg,1,14,2019,23.0,17.0,1
+Baltimore Ravens,New York Jets,2186.311345963964,1725.6908007125262,0.9341,0.0659,rav,nyj,rav,nyj,1,15,2019,42.0,21.0,1
+Cincinnati Bengals,New England Patriots,1680.5545013539318,2104.6232913140157,0.0801,0.9199,cin,nwe,nwe,cin,0,15,2019,13.0,34.0,1
+Carolina Panthers,Seattle Seahawks,1954.4830337655471,2057.602844328185,0.3558,0.6442,car,sea,sea,car,0,15,2019,24.0,30.0,1
+Washington Redskins,Philadelphia Eagles,1788.065202751369,1965.7796921391816,0.2644,0.7356,was,phi,phi,was,0,15,2019,27.0,37.0,1
+Tennessee Titans,Houston Texans,2055.3002588185136,1988.812545143186,0.5945,0.4055,oti,htx,htx,oti,0,15,2019,21.0,24.0,0
+New York Giants,Miami Dolphins,1669.3346247273291,1706.0338420293244,0.4474,0.5526,nyg,mia,nyg,mia,1,15,2019,36.0,20.0,0
+Kansas City Chiefs,Denver Broncos,2156.3980656090753,1872.0365884401083,0.8371,0.1629,kan,den,kan,den,1,15,2019,23.0,3.0,1
+Green Bay Packers,Chicago Bears,2031.708471088097,1974.6744392714008,0.5813,0.4187,gnb,chi,gnb,chi,1,15,2019,21.0,13.0,1
+Detroit Lions,Tampa Bay Buccaneers,1855.1045585772033,1868.9926273683795,0.48,0.52,det,tam,tam,det,0,15,2019,17.0,38.0,1
+Los Angeles Chargers,Minnesota Vikings,2013.6283965176833,2014.1569931400727,0.4992,0.5008,sdg,min,min,sdg,0,15,2019,10.0,39.0,1
+Oakland Raiders,Jacksonville Jaguars,1816.776203041697,1731.7044815873976,0.62,0.38,rai,jax,jax,rai,0,15,2019,16.0,20.0,0
+Arizona Cardinals,Cleveland Browns,1699.2193121775933,1771.7690699424602,0.3971,0.6029,crd,cle,crd,cle,1,15,2019,38.0,24.0,0
+San Francisco 49ers,Atlanta Falcons,2039.7561510032351,1936.4879302617712,0.6444,0.3556,sfo,atl,atl,sfo,0,15,2019,22.0,29.0,0
+Dallas Cowboys,Los Angeles Rams,2018.3397780948653,2058.462389528795,0.4425,0.5575,dal,ram,dal,ram,1,15,2019,44.0,21.0,0
+Pittsburgh Steelers,Buffalo Bills,2092.7647855431983,1939.8664010113794,0.7069,0.2931,pit,buf,buf,pit,0,15,2019,10.0,17.0,0
+New Orleans Saints,Indianapolis Colts,2178.9396923926533,1955.9629104817573,0.7831,0.2169,nor,clt,nor,clt,1,15,2019,34.0,7.0,1
+Tampa Bay Buccaneers,Houston Texans,1946.4482168985246,2007.5455948978115,0.413,0.587,tam,htx,htx,tam,0,16,2019,20.0,23.0,1
+New England Patriots,Buffalo Bills,2161.4579788531696,1971.8756605764747,0.7486,0.2514,nwe,buf,nwe,buf,1,16,2019,24.0,17.0,1
+San Francisco 49ers,Los Angeles Rams,2024.4785239982525,2035.283803160915,0.4845,0.5155,sfo,ram,sfo,ram,1,16,2019,34.0,31.0,0
+Washington Redskins,New York Giants,1765.5074592001806,1641.0706272400253,0.6718,0.3282,was,nyg,nyg,was,0,16,2019,35.0,41.0,0
+Tennessee Titans,New Orleans Saints,2042.5227118454256,2131.0940589316597,0.3752,0.6248,oti,nor,nor,oti,0,16,2019,28.0,38.0,1
+New York Jets,Pittsburgh Steelers,1759.2489441935772,2024.557327532162,0.1784,0.8216,nyj,pit,nyj,pit,1,16,2019,16.0,10.0,0
+Miami Dolphins,Cincinnati Bengals,1739.3753766069499,1603.8084739201774,0.6858,0.3142,mia,cin,mia,cin,1,16,2019,38.0,35.0,1
+Indianapolis Colts,Carolina Panthers,1985.3008953588812,1879.4401252713085,0.6478,0.3522,clt,car,clt,car,1,16,2019,38.0,6.0,1
+Cleveland Browns,Baltimore Ravens,1807.0921181951608,2132.8839576151604,0.1329,0.8671,cle,rav,rav,cle,0,16,2019,15.0,31.0,1
+Atlanta Falcons,Jacksonville Jaguars,2019.1088057188542,1753.6800131748862,0.8217,0.1783,atl,jax,atl,jax,1,16,2019,24.0,12.0,1
+Los Angeles Chargers,Oakland Raiders,1988.03637290757,1748.3717819629137,0.7989,0.2011,sdg,rai,rai,sdg,0,16,2019,17.0,24.0,0
+Denver Broncos,Detroit Lions,1903.229298764876,1775.7722988262128,0.6756,0.3244,den,det,den,det,1,16,2019,27.0,17.0,1
+Seattle Seahawks,Arizona Cardinals,2123.643947343463,1674.060585802249,0.9301,0.0699,sea,crd,crd,sea,0,16,2019,13.0,27.0,0
+Philadelphia Eagles,Dallas Cowboys,2028.8232697355143,1992.6066309890869,0.5519,0.4481,phi,dal,phi,dal,1,16,2019,17.0,9.0,1
+Chicago Bears,Kansas City Chiefs,2008.8825006557743,2106.0828843662125,0.3637,0.6363,chi,kan,kan,chi,0,16,2019,3.0,26.0,1
+Minnesota Vikings,Green Bay Packers,2094.6027999764797,1991.7025615330908,0.6439,0.3561,min,gnb,gnb,min,0,16,2019,10.0,23.0,0
+Cincinnati Bengals,Cleveland Browns,1641.159517717188,1729.5383924391572,0.3755,0.6245,cin,cle,cin,cle,1,17,2019,33.0,23.0,0
+Carolina Panthers,New Orleans Saints,1906.9556054980358,2144.4244639098956,0.2031,0.7969,car,nor,nor,car,0,17,2019,10.0,42.0,1
+Buffalo Bills,New York Jets,2005.5614336743831,1743.0283810032213,0.8192,0.1808,buf,nyj,nyj,buf,0,17,2019,6.0,13.0,0
+Tampa Bay Buccaneers,Atlanta Falcons,1930.1825507922415,1969.0776637645263,0.4443,0.5557,tam,atl,atl,tam,0,17,2019,22.0,28.0,1
+New England Patriots,Miami Dolphins,2168.594224015897,1692.4961885322507,0.9394,0.0606,nwe,mia,mia,nwe,0,17,2019,24.0,27.0,0
+Minnesota Vikings,Chicago Bears,2076.604721179786,1927.9870195967299,0.7017,0.2983,min,chi,chi,min,0,17,2019,19.0,21.0,0
+Kansas City Chiefs,Los Angeles Chargers,2175.856759174734,1923.3085464170842,0.8106,0.1894,kan,sdg,kan,sdg,1,17,2019,31.0,21.0,1
+Detroit Lions,Green Bay Packers,1808.2109193093497,2024.246686602428,0.2238,0.7762,det,gnb,gnb,det,0,17,2019,20.0,23.0,1
+Baltimore Ravens,Pittsburgh Steelers,2191.2861818941005,2016.1508607718984,0.7327,0.2673,rav,pit,rav,pit,1,17,2019,28.0,10.0,1
+Los Angeles Rams,Arizona Cardinals,2075.753989422044,1735.3064460674998,0.8765,0.1235,ram,crd,ram,crd,1,17,2019,31.0,24.0,1
+New York Giants,Philadelphia Eagles,1724.2253414112668,1990.387859217066,0.1777,0.8223,nyg,phi,phi,nyg,0,17,2019,17.0,34.0,1
+Jacksonville Jaguars,Indianapolis Colts,1786.013487551102,1945.2732636923463,0.2856,0.7144,jax,clt,jax,clt,1,17,2019,38.0,20.0,0
+Houston Texans,Tennessee Titans,2073.9252986805286,1965.3887720272548,0.6513,0.3487,htx,oti,oti,htx,0,17,2019,14.0,35.0,0
+Denver Broncos,Oakland Raiders,1914.0315529435948,1787.2730856964647,0.6747,0.3253,den,rai,den,rai,1,17,2019,16.0,15.0,1
+Dallas Cowboys,Washington Redskins,2027.2198720044576,1696.785769561941,0.8701,0.1299,dal,was,dal,was,1,17,2019,47.0,16.0,1
+Seattle Seahawks,San Francisco 49ers,2119.04112438621,1984.9338819666077,0.6839,0.3161,sea,sfo,sfo,sea,0,17,2019,21.0,26.0,0
+Houston Texans,Buffalo Bills,2678.934271239818,2532.326334375456,0.6993,0.3007,htx,buf,htx,buf,1,18,2019,22.0,19.0,1
+New England Patriots,Tennessee Titans,2825.1964799953903,2611.5352855444694,0.7738,0.2262,nwe,oti,oti,nwe,0,18,2019,13.0,20.0,0
+New Orleans Saints,Minnesota Vikings,2876.9849923808138,2625.617234998447,0.8095,0.1905,nor,min,min,nor,0,18,2019,20.0,26.0,0
+Philadelphia Eagles,Seattle Seahawks,2674.13078950431,2675.4773044665017,0.4981,0.5019,phi,sea,sea,phi,0,18,2019,9.0,17.0,1
+San Francisco 49ers,Minnesota Vikings,2696.0908990977027,2674.929010890762,0.5304,0.4696,sfo,min,sfo,min,1,19,2019,27.0,10.0,1
+Baltimore Ravens,Tennessee Titans,2869.631103598551,2659.736420059144,0.77,0.23,rav,oti,oti,rav,0,19,2019,12.0,28.0,0
+Kansas City Chiefs,Houston Texans,2844.491181125178,2617.232614169896,0.7872,0.2128,kan,htx,kan,htx,1,19,2019,51.0,31.0,1
+Green Bay Packers,Seattle Seahawks,2718.578985646719,2700.6852139782377,0.5257,0.4743,gnb,sea,gnb,sea,1,19,2019,28.0,23.0,1
+Kansas City Chiefs,Tennessee Titans,2853.153663820847,2719.7438609857386,0.6831,0.3169,kan,oti,kan,oti,1,20,2019,35.0,24.0,1
+San Francisco 49ers,Green Bay Packers,2723.296888342506,2667.724077874249,0.5793,0.4207,sfo,gnb,sfo,gnb,1,20,2019,37.0,20.0,1
+Kansas City Chiefs,San Francisco 49ers,2867.018033223561,2674.5745790608794,0.7517,0.2483,kan,sfo,kan,sfo,1,21,2019,31.0,20.0,1
+Kansas City Chiefs,Houston Texans,2127.93554688,1959.0,0.7256,0.2744,kan,htx,kan,htx,1,1,2020,34.0,20.0,1
+Buffalo Bills,New York Jets,1973.93554688,1823.0,0.7045,0.2955,buf,nyj,buf,nyj,1,1,2020,27.0,17.0,1
+Atlanta Falcons,Seattle Seahawks,2014.93554688,2007.0,0.5114,0.4886,atl,sea,sea,atl,0,1,2020,25.0,38.0,0
+Washington Football Team,Philadelphia Eagles,1802.93554688,1954.0,0.2953,0.7047,was,phi,was,phi,1,1,2020,27.0,17.0,0
+Baltimore Ravens,Cleveland Browns,2114.93554688,1775.0,0.8762,0.1238,rav,cle,rav,cle,1,1,2020,38.0,6.0,1
+New England Patriots,Miami Dolphins,2093.93554688,1786.0,0.8548,0.1452,nwe,mia,nwe,mia,1,1,2020,21.0,11.0,1
+Minnesota Vikings,Green Bay Packers,2043.93554688,1985.0,0.584,0.416,min,gnb,gnb,min,0,1,2020,34.0,43.0,0
+Jacksonville Jaguars,Indianapolis Colts,1870.93554688,1922.0,0.427,0.573,jax,clt,jax,clt,1,1,2020,27.0,20.0,0
+Detroit Lions,Chicago Bears,1844.93554688,1935.0,0.3732,0.6268,det,chi,chi,det,0,1,2020,23.0,27.0,1
+Carolina Panthers,Las Vegas Raiders,1906.93554688,1817.0,0.6266,0.3734,car,rai,rai,car,0,1,2020,30.0,34.0,0
+Cincinnati Bengals,Los Angeles Chargers,1763.93554688,1903.0,0.3099,0.6901,cin,sdg,sdg,cin,0,1,2020,13.0,16.0,1
+San Francisco 49ers,Arizona Cardinals,2044.93554688,1776.0,0.8246,0.1754,sfo,crd,crd,sfo,0,1,2020,20.0,24.0,0
+New Orleans Saints,Tampa Bay Buccaneers,2121.93554688,1873.0,0.8074,0.1926,nor,tam,nor,tam,1,1,2020,34.0,23.0,1
+Los Angeles Rams,Dallas Cowboys,2041.93554688,1954.0,0.6239,0.3761,ram,dal,ram,dal,1,1,2020,20.0,17.0,1
+New York Giants,Pittsburgh Steelers,1783.93554688,1965.0,0.2607,0.7393,nyg,pit,pit,nyg,0,1,2020,16.0,26.0,1
+Denver Broncos,Tennessee Titans,1933.93554688,2013.0,0.3881,0.6119,den,oti,oti,den,0,1,2020,14.0,16.0,1
+Cleveland Browns,Cincinnati Bengals,1806.0682041992015,1691.3673818718062,0.6593,0.3407,cle,cin,cle,cin,1,2,2020,35.0,30.0,1
+Indianapolis Colts,Minnesota Vikings,1959.7212013065318,1970.8955951182097,0.4839,0.5161,clt,min,clt,min,1,2,2020,28.0,11.0,0
+Chicago Bears,New York Giants,2000.7295526456971,1706.4488505165073,0.8448,0.1552,chi,nyg,chi,nyg,1,2,2020,17.0,13.0,1
+Tampa Bay Buccaneers,Carolina Panthers,1905.437857139642,1838.6999373429924,0.5949,0.4051,tam,car,tam,car,1,2,2020,31.0,17.0,1
+Pittsburgh Steelers,Denver Broncos,2027.8877782750312,1864.1988120292813,0.7196,0.2804,pit,den,pit,den,1,2,2020,26.0,21.0,1
+Philadelphia Eagles,Los Angeles Rams,1994.1733263740714,1997.131044710611,0.4957,0.5043,phi,ram,ram,phi,0,2,2020,19.0,37.0,1
+Tennessee Titans,Jacksonville Jaguars,2077.3232590085113,1839.1002810622886,0.7976,0.2024,oti,jax,oti,jax,1,2,2020,33.0,30.0,1
+New York Jets,San Francisco 49ers,1855.3698788995432,1982.8347602714314,0.3244,0.6756,nyj,sfo,sfo,nyj,0,2,2020,13.0,31.0,1
+Miami Dolphins,Buffalo Bills,1819.1945006508886,1928.4650885567423,0.3477,0.6523,mia,buf,buf,mia,0,2,2020,28.0,31.0,1
+Green Bay Packers,Detroit Lions,2065.351346040975,1771.8711607343541,0.8441,0.1559,gnb,det,gnb,det,1,2,2020,42.0,21.0,1
+Dallas Cowboys,Atlanta Falcons,1992.1294878665724,1938.4702639669113,0.5766,0.4234,dal,atl,dal,atl,1,2,2020,40.0,39.0,1
+Arizona Cardinals,Washington Football Team,1864.6211607920732,1783.228367052245,0.615,0.385,crd,was,crd,was,1,2,2020,30.0,15.0,1
+Los Angeles Chargers,Kansas City Chiefs,1965.853744761361,2082.018035334638,0.3388,0.6612,sdg,kan,kan,sdg,0,2,2020,20.0,23.0,1
+Houston Texans,Baltimore Ravens,1990.08902195721,2063.3722632091794,0.3961,0.6039,htx,rav,rav,htx,0,2,2020,16.0,33.0,1
+Seattle Seahawks,New England Patriots,2084.4699451757874,2042.6930275063955,0.5598,0.4402,sea,nwe,sea,nwe,1,2,2020,35.0,30.0,1
+Las Vegas Raiders,New Orleans Saints,1894.2542915529536,2072.3666770423492,0.264,0.736,rai,nor,rai,nor,1,2,2020,34.0,24.0,0
+Jacksonville Jaguars,Miami Dolphins,1875.4520119150507,1747.0758179229201,0.6768,0.3232,jax,mia,mia,jax,0,3,2020,13.0,31.0,0
+Buffalo Bills,Los Angeles Rams,1992.5598816951183,2020.1173215171887,0.4604,0.5396,buf,ram,buf,ram,1,3,2020,35.0,32.0,0
+Atlanta Falcons,Chicago Bears,1982.4151053579092,1949.3887961526575,0.5474,0.4526,atl,chi,chi,atl,0,3,2020,26.0,30.0,0
+Pittsburgh Steelers,Houston Texans,2035.644568820404,1910.7242551354673,0.6724,0.3276,pit,htx,pit,htx,1,3,2020,28.0,21.0,1
+Philadelphia Eagles,Cincinnati Bengals,1970.7882559815816,1671.909342463459,0.8482,0.1518,phi,cin,,,0,3,2020,23.0,23.0,0
+New York Giants,San Francisco 49ers,1741.8168785891362,1994.8160648029066,0.189,0.811,nyg,sfo,sfo,nyg,0,3,2020,9.0,36.0,1
+New England Patriots,Las Vegas Raiders,2079.3983361046953,1877.1229046897283,0.7621,0.2379,nwe,rai,nwe,rai,1,3,2020,36.0,20.0,1
+Minnesota Vikings,Tennessee Titans,2003.120277958218,2027.103565142444,0.4655,0.5345,min,oti,oti,min,0,3,2020,30.0,31.0,1
+Cleveland Browns,Washington Football Team,1816.1233445395987,1759.283676281435,0.5811,0.4189,cle,was,cle,was,1,3,2020,34.0,20.0,1
+Los Angeles Chargers,Carolina Panthers,1948.5593922200126,1815.2375267855214,0.683,0.317,sdg,car,car,sdg,0,3,2020,16.0,21.0,0
+Indianapolis Colts,New York Jets,1983.9433069710074,1775.481898784449,0.7685,0.2315,clt,nyj,clt,nyj,1,3,2020,36.0,7.0,1
+Seattle Seahawks,Dallas Cowboys,2098.8053344069494,1945.2644659675705,0.7076,0.2924,sea,dal,sea,dal,1,3,2020,38.0,31.0,1
+Denver Broncos,Tampa Bay Buccaneers,1899.227845084566,1866.4791509334216,0.547,0.453,den,tam,tam,den,0,3,2020,10.0,28.0,0
+Arizona Cardinals,Detroit Lions,1879.6109265591656,1748.1447987786814,0.6807,0.3193,crd,det,det,crd,0,3,2020,23.0,26.0,0
+New Orleans Saints,Green Bay Packers,2113.742036090245,2014.7979100825355,0.6387,0.3613,nor,gnb,gnb,nor,0,3,2020,30.0,37.0,0
+Baltimore Ravens,Kansas City Chiefs,2134.3310159492958,2090.879690871554,0.5622,0.4378,rav,kan,kan,rav,0,3,2020,20.0,34.0,0
+New York Jets,Denver Broncos,1804.3499163622914,1822.0057529856133,0.4746,0.5254,nyj,den,den,nyj,0,4,2020,28.0,37.0,1
+Chicago Bears,Indianapolis Colts,2022.6764693048917,1936.8602428931538,0.621,0.379,chi,clt,clt,chi,0,4,2020,11.0,19.0,0
+Carolina Panthers,Arizona Cardinals,1897.5027815643275,1814.0376758763991,0.6179,0.3821,car,crd,car,crd,1,4,2020,31.0,21.0,1
+Washington Football Team,Baltimore Ravens,1790.8976800065063,2058.669159262962,0.1763,0.8237,was,rav,rav,was,0,4,2020,17.0,31.0,1
+Tampa Bay Buccaneers,Los Angeles Chargers,1948.3258241594858,1880.9393396241685,0.5958,0.4042,tam,sdg,tam,sdg,1,4,2020,38.0,31.0,1
+Miami Dolphins,Seattle Seahawks,1840.148285599362,2052.6145265075897,0.2274,0.7726,mia,sea,sea,mia,0,4,2020,23.0,31.0,1
+Houston Texans,Minnesota Vikings,1944.6725931231535,1937.996503392003,0.5096,0.4904,htx,min,min,htx,0,4,2020,23.0,31.0,0
+Detroit Lions,New Orleans Saints,1825.7583443387414,2043.3603598446539,0.2222,0.7778,det,nor,nor,det,0,4,2020,29.0,35.0,1
+Dallas Cowboys,Cleveland Browns,1979.0379837685648,1777.999696519691,0.7608,0.2392,dal,cle,cle,dal,0,4,2020,38.0,49.0,0
+Cincinnati Bengals,Jacksonville Jaguars,1726.844889343459,1802.304507586159,0.3931,0.6069,cin,jax,cin,jax,1,4,2020,33.0,25.0,0
+Los Angeles Rams,New York Giants,2061.0746910658613,1661.793272230518,0.9087,0.0913,ram,nyg,ram,nyg,1,4,2020,17.0,9.0,1
+Las Vegas Raiders,Buffalo Bills,1907.9501829884139,1954.0070986899757,0.4341,0.5659,rai,buf,buf,rai,0,4,2020,23.0,30.0,1
+San Francisco 49ers,Philadelphia Eagles,2055.598274126136,1915.8527091015817,0.6909,0.3091,sfo,phi,phi,sfo,0,4,2020,20.0,25.0,0
+Kansas City Chiefs,New England Patriots,2172.430887301853,2031.9885169448037,0.6918,0.3082,kan,nwe,kan,nwe,1,4,2020,26.0,10.0,1
+Green Bay Packers,Atlanta Falcons,2097.038861960607,1912.3056959444543,0.7433,0.2567,gnb,atl,gnb,atl,1,4,2020,30.0,16.0,1
+Chicago Bears,Tampa Bay Buccaneers,2006.123405474675,1907.1547388650347,0.6387,0.3613,chi,tam,chi,tam,1,5,2020,20.0,19.0,1
+Atlanta Falcons,Carolina Panthers,1943.4748310234775,1856.2585041914722,0.6229,0.3771,atl,car,car,atl,0,5,2020,16.0,23.0,0
+Washington Football Team,Los Angeles Rams,1767.8919290744059,2008.209833892253,0.2005,0.7995,was,ram,ram,was,0,5,2020,10.0,30.0,1
+Baltimore Ravens,Cincinnati Bengals,2118.528724461924,1698.0768995464766,0.9184,0.0816,rav,cin,rav,cin,1,5,2020,27.0,3.0,1
+Pittsburgh Steelers,Philadelphia Eagles,2045.8697467399786,1943.6659724604644,0.643,0.357,pit,phi,pit,phi,1,5,2020,38.0,29.0,1
+New York Jets,Arizona Cardinals,1783.8917153223242,1791.8973057417102,0.4885,0.5115,nyj,crd,crd,nyj,0,5,2020,10.0,30.0,1
+Kansas City Chiefs,Las Vegas Raiders,2183.3255346802193,1833.1161064136493,0.8825,0.1175,kan,rai,rai,kan,0,5,2020,32.0,40.0,0
+Houston Texans,Jacksonville Jaguars,1925.4194400015588,1785.355312184389,0.6913,0.3087,htx,jax,htx,jax,1,5,2020,30.0,14.0,1
+San Francisco 49ers,Miami Dolphins,2043.154968721257,1763.5222878160564,0.8334,0.1666,sfo,mia,mia,sfo,0,5,2020,17.0,43.0,0
+Cleveland Browns,Indianapolis Colts,1873.892903875552,1963.98280922182,0.3732,0.6268,cle,clt,cle,clt,1,5,2020,32.0,23.0,0
+Dallas Cowboys,New York Giants,1966.1606541341985,1641.183899435356,0.8665,0.1335,dal,nyg,dal,nyg,1,5,2020,37.0,34.0,1
+Seattle Seahawks,Minnesota Vikings,2113.9342418258652,1958.0034504367925,0.7105,0.2895,sea,min,sea,min,1,5,2020,27.0,26.0,1
+New Orleans Saints,Los Angeles Chargers,2104.2175496611744,1860.65020995403,0.8025,0.1975,nor,sdg,nor,sdg,1,5,2020,30.0,27.0,1
+Tennessee Titans,Buffalo Bills,2090.912114806229,1969.2711943614677,0.6682,0.3318,oti,buf,oti,buf,1,5,2020,42.0,16.0,1
+Jacksonville Jaguars,Detroit Lions,1815.835636169581,1750.0943821750973,0.5935,0.4065,jax,det,det,jax,0,6,2020,16.0,34.0,0
+Indianapolis Colts,Cincinnati Bengals,2002.0076395720346,1676.0312916700766,0.8672,0.1328,clt,cin,clt,cin,1,6,2020,31.0,27.0,1
+Carolina Panthers,Chicago Bears,1937.458934532615,1958.0746811634863,0.4704,0.5296,car,chi,chi,car,0,6,2020,16.0,23.0,1
+Pittsburgh Steelers,Cleveland Browns,2058.012400063788,1847.3593857224264,0.7708,0.2292,pit,cle,pit,cle,1,6,2020,38.0,7.0,1
+Philadelphia Eagles,Baltimore Ravens,1976.7311381437992,2065.5519336824404,0.3749,0.6251,phi,rav,rav,phi,0,6,2020,28.0,30.0,1
+Tennessee Titans,Houston Texans,2104.0736635744342,1881.4043723745997,0.7828,0.2172,oti,htx,oti,htx,1,6,2020,42.0,36.0,1
+New York Giants,Washington Football Team,1677.180493683129,1688.5634370794182,0.4836,0.5164,nyg,was,nyg,was,1,6,2020,20.0,19.0,0
+New England Patriots,Denver Broncos,2062.4694335316376,1840.485886623924,0.7821,0.2179,nwe,den,den,nwe,0,6,2020,12.0,18.0,0
+Minnesota Vikings,Atlanta Falcons,1999.3959930678575,1872.6386780217936,0.6747,0.3253,min,atl,atl,min,0,6,2020,23.0,40.0,0
+Miami Dolphins,New York Jets,1877.4776766245034,1704.9383150186623,0.7297,0.2703,mia,nyj,mia,nyj,1,6,2020,24.0,0.0,1
+Tampa Bay Buccaneers,Green Bay Packers,1949.9158778438457,2050.311088401353,0.3594,0.6406,tam,gnb,tam,gnb,1,6,2020,38.0,10.0,0
+San Francisco 49ers,Los Angeles Rams,2031.3566657871568,2014.3271390774376,0.5245,0.4755,sfo,ram,sfo,ram,1,6,2020,24.0,16.0,1
+Buffalo Bills,Kansas City Chiefs,1997.7011749759015,2122.0402136584175,0.3283,0.6717,buf,kan,kan,buf,0,6,2020,17.0,26.0,1
+Dallas Cowboys,Arizona Cardinals,1969.0785423931738,1814.8351774864977,0.7085,0.2915,dal,crd,crd,dal,0,6,2020,10.0,38.0,0
+Philadelphia Eagles,New York Giants,1961.7196750967307,1632.0881662178372,0.8696,0.1304,phi,nyg,phi,nyg,1,7,2020,22.0,21.0,1
+Cincinnati Bengals,Cleveland Browns,1711.393786868055,1821.1030467553312,0.3472,0.6528,cin,cle,cle,cin,0,7,2020,34.0,37.0,1
+Atlanta Falcons,Detroit Lions,1965.0187852548547,1780.8136718526462,0.7428,0.2572,atl,det,det,atl,0,7,2020,22.0,23.0,0
+Washington Football Team,Dallas Cowboys,1734.2809729041262,1895.4688471681952,0.2834,0.7166,was,dal,was,dal,1,7,2020,25.0,3.0,0
+Tennessee Titans,Pittsburgh Steelers,2109.824965909608,2010.8842648226803,0.6387,0.3613,oti,pit,pit,oti,0,7,2020,24.0,27.0,0
+New York Jets,Buffalo Bills,1734.0166795522134,1920.7264614320457,0.2545,0.7455,nyj,buf,buf,nyj,0,7,2020,10.0,18.0,1
+New Orleans Saints,Carolina Panthers,2108.798968738865,1863.1881975771087,0.8044,0.1956,nor,car,nor,car,1,7,2020,27.0,24.0,1
+Houston Texans,Green Bay Packers,1915.6119290705574,2028.8371081705834,0.3426,0.6574,htx,gnb,gnb,htx,0,7,2020,20.0,35.0,1
+Las Vegas Raiders,Tampa Bay Buccaneers,1935.742510145904,1933.2558783645998,0.5036,0.4964,rai,tam,tam,rai,0,7,2020,20.0,45.0,0
+Los Angeles Chargers,Jacksonville Jaguars,1896.9701172905036,1739.8598344388251,0.7119,0.2881,sdg,jax,sdg,jax,1,7,2020,39.0,29.0,1
+New England Patriots,San Francisco 49ers,2052.4956272638733,1994.4466050475844,0.5828,0.4172,nwe,sfo,sfo,nwe,0,7,2020,6.0,33.0,0
+Denver Broncos,Kansas City Chiefs,1931.2200286485713,2132.8120737384293,0.2386,0.7614,den,kan,kan,den,0,7,2020,16.0,43.0,1
+Arizona Cardinals,Seattle Seahawks,1915.158834494859,2064.5169211669304,0.2974,0.7026,crd,sea,crd,sea,1,7,2020,37.0,34.0,0
+Los Angeles Rams,Chicago Bears,2049.3796838950734,1975.2485357924859,0.6051,0.3949,ram,chi,ram,chi,1,7,2020,24.0,10.0,1
+Carolina Panthers,Atlanta Falcons,1899.4960357392308,1905.1806898979708,0.4918,0.5082,car,atl,atl,car,0,8,2020,17.0,25.0,1
+Buffalo Bills,New England Patriots,1983.0803713723753,1974.3327609295318,0.5126,0.4874,buf,nwe,buf,nwe,1,8,2020,24.0,21.0,1
+Baltimore Ravens,Pittsburgh Steelers,2129.4905160709127,2031.6012559251062,0.6373,0.3627,rav,pit,pit,rav,0,8,2020,24.0,28.0,0
+Miami Dolphins,Los Angeles Rams,1887.0558544897153,2009.816075109395,0.3303,0.6697,mia,ram,mia,ram,1,8,2020,28.0,17.0,0
+Kansas City Chiefs,New York Jets,2195.872124353619,1657.3507214286935,0.9569,0.0431,kan,nyj,kan,nyj,1,8,2020,35.0,9.0,1
+Green Bay Packers,Minnesota Vikings,2096.361773233361,1926.406917978504,0.7268,0.2732,gnb,min,min,gnb,0,8,2020,22.0,28.0,0
+Detroit Lions,Indianapolis Colts,1849.9079007257621,1950.0694419348533,0.3597,0.6403,det,clt,clt,det,0,8,2020,21.0,41.0,1
+Cleveland Browns,Las Vegas Raiders,1885.1810333620613,1856.0068301428769,0.5419,0.4581,cle,rai,rai,cle,0,8,2020,6.0,16.0,0
+Cincinnati Bengals,Tennessee Titans,1694.2043149394565,2043.17022553453,0.1183,0.8817,cin,oti,cin,oti,1,8,2020,31.0,20.0,0
+Denver Broncos,Los Angeles Chargers,1905.2938042396297,1851.1690602981307,0.5773,0.4227,den,sdg,den,sdg,1,8,2020,31.0,30.0,1
+Chicago Bears,New Orleans Saints,2006.6298670713868,2058.392984048344,0.4261,0.5739,chi,nor,nor,chi,0,8,2020,23.0,26.0,1
+Seattle Seahawks,San Francisco 49ers,2109.4079887771527,2026.8935891750775,0.6166,0.3834,sea,sfo,sea,sfo,1,8,2020,37.0,27.0,1
+Philadelphia Eagles,Dallas Cowboys,1964.2052595500188,1878.1013475895159,0.6214,0.3786,phi,dal,phi,dal,1,8,2020,23.0,9.0,1
