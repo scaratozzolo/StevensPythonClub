@@ -2,8 +2,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 
-import mystevenscreds as creds
-
+# import mystevenscreds as creds
+import importlib.util
+spec = importlib.util.spec_from_file_location("mystevenscreds", "C:/Users/Scott/OneDrive/Stevens/Python Club/mystevenscreds.py")
+creds = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(creds)
 
 
 class_codes = ["10157"]
