@@ -1,6 +1,5 @@
 import math
 from scipy.stats import norm
-import pandas as pd
 from datetime import date
 import numpy as np
 
@@ -10,13 +9,13 @@ class Option:
     This class will group the different black-shcoles calculations for an opion
     """
     def __init__(self, cp, s, k,  t, vol, rf = 0.01, div = 0):
-        self.cp = cp
-        self.k = float(k)
-        self.s = float(s)
-        self.t = t
-        self.rf = float(rf)
-        self.vol = float(vol)
-        self.div = div
+        self.cp = cp # 'C' or 'P'
+        self.k = float(k) #strike
+        self.s = float(s) #spot
+        self.t = float(t) # time to expiration
+        self.rf = float(rf) # risk free rate
+        self.vol = float(vol) # volatility
+        self.div = float(div) # dividend %
 
  
     def get_price(self):
@@ -82,6 +81,6 @@ class Option:
 
 if __name__ == '__main__':
 
-    opt = Option("C", 90, 100, .5, .3)
-    print(opt.get_imp_vol(5))
+    opt = Option("C", 794, 800, .25, .5)
     print(opt.get_price())
+    print(opt.get_imp_vol(100))
