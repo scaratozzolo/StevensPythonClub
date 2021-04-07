@@ -66,7 +66,7 @@ def all_data(id=None, park=None, weather=None):
         rows = c.execute(f"SELECT * FROM id_{id}")
     elif park is not None:
         rows = c.execute(f"SELECT * FROM park_{park}")
-    elif location is not None:
+    elif weather is not None:
         rows = c.execute(f"SELECT * FROM weather_{weather}")
 
     columns = [description[0] for description in rows.description]

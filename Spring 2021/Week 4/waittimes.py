@@ -83,10 +83,12 @@ class Waits:
         conn = sqlite3.connect(self.DB_NAME)
         c = conn.cursor()
 
+        current_timestamp = datetime.datetime.now().timestamp()
+        
         for dest in self.dests:
 
             wait_times = dest.get_wait_times_detailed()
-            current_timestamp = datetime.datetime.now().timestamp()
+            
 
             for id, body in wait_times.items():
                 c.execute(f"CREATE TABLE IF NOT EXISTS id_{id} (last_pull TEXT PRIMARY KEY, wait_time TEXT, status TEXT)")
