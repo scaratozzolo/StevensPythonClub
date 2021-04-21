@@ -151,7 +151,7 @@ def create_models(periods_ahead=1):
 
     return all_models
 
-# create_models()
+create_models(10)
 
 if __name__ == "__main__":
 
